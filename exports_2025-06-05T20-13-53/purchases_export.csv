@@ -1,0 +1,348 @@
+ID,ID Utilisateur,Nom Utilisateur,Email Utilisateur,ID Formation,Titre Formation,Date Formation,Date Achat
+3583,8130,Test Apprenant,testapprenant25@gmail.com,175,Formation Test - Développement Web Avancé,2025-04-29,2025-04-16
+3584,8130,Test Apprenant,testapprenant25@gmail.com,176,Formation Test - Cybersécurité Fondamentale,2025-04-29,2025-04-29
+3585,8130,Test Apprenant,testapprenant25@gmail.com,177,Formation Test - Développement Web Avancé,2025-03-30,2025-03-21
+3586,8130,Test Apprenant,testapprenant25@gmail.com,178,Formation Test - Cybersécurité Fondamentale,2025-03-22,2025-03-19
+3587,8410,Ahlem Ezzine,ahlem.ezzine609@laposte.net,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-06
+3588,8323,Hichem Kammoun,hichem.kammoun300@live.com,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-09
+3589,8842,Hatem Chebbi,hatem.chebbi452@outlook.com,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-09
+3590,8708,Adel Mrad,adel.mrad406@outlook.com,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-27
+3591,8544,Yosra Mahjoub,yosra.mahjoub489@live.com,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-25
+3592,8372,Bochra Ben Youssef,bochra.ben.youssef894@live.com,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-07
+3593,8626,Bilel Hachicha,bilel.hachicha228@hotmail.com,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-10
+3594,8607,Ahmed Ezzine,ahmed.ezzine151@topnet.tn,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-25
+3595,8404,Fethi Jebali,fethi.jebali446@outlook.com,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-24
+3596,8324,Rania Gharbi,rania.gharbi830@yahoo.fr,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-02
+3597,8632,Ghazi Bouzid,ghazi.bouzid103@yahoo.fr,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-07
+3598,8648,Samia Hajji,samia.hajji944@hotmail.com,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-27
+3599,8382,Karima Guizani,karima.guizani876@laposte.net,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-08
+3600,8569,Salah Louati,salah.louati391@topnet.tn,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-20
+3601,8617,Ghazi Chaabane,ghazi.chaabane311@live.com,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-03
+3602,8536,Youssef Rekik,youssef.rekik601@topnet.tn,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-06
+3603,8693,Fethi Kammoun,fethi.kammoun201@topnet.tn,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-12
+3604,8340,Yosra Limam,yosra.limam110@hotmail.com,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-04
+3605,8679,Adel Hamdi,adel.hamdi518@yahoo.fr,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-02
+3606,8710,Zouheir Derbali,zouheir.derbali602@orange.tn,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-12
+3607,8621,Emna Ghorbel,emna.ghorbel934@gmail.com,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-17
+3608,8326,Wided Bouhamed,wided.bouhamed850@orange.tn,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-26
+3609,8291,Salah Ferchichi,salah.ferchichi253@yahoo.fr,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-17
+3610,8668,Aymen Derbali,aymen.derbali231@topnet.tn,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-03
+3611,8296,Bassem Gasmi,bassem.gasmi717@hotmail.com,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-19
+3612,8333,Aymen Ghorbel,aymen.ghorbel791@orange.tn,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-26
+3613,8641,Yassine Ghali,yassine.ghali400@yahoo.fr,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-24
+3614,9111,Mariam Dridi,mariam.dridi209@laposte.net,179,ITIL 4 Foundation - Gestion des Services IT,2025-05-30,2025-05-27
+3615,8734,Moncef Hassen,moncef.hassen311@laposte.net,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-17
+3616,8411,Ahmed Nasri,ahmed.nasri694@laposte.net,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-09
+3617,8348,Zouheir Jemli,zouheir.jemli458@laposte.net,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-05-01
+3618,8750,Lobna Maaloul,lobna.maaloul263@outlook.com,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-26
+3619,8369,Dali Feriani,dali.feriani230@hotmail.com,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-24
+3620,8696,Wided Ferchichi,wided.ferchichi164@laposte.net,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-10
+3621,8778,Rami Nasri,rami.nasri692@hotmail.com,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-23
+3622,8777,Rami Sellami,rami.sellami286@orange.tn,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-05-02
+3623,8350,Mohamed Ben Ali,mohamed.ben.ali412@laposte.net,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-05-01
+3624,8721,Jamel Ktari,jamel.ktari333@live.com,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-14
+3625,8355,Farah Hadj,farah.hadj134@yahoo.fr,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-05-02
+3626,8391,Emad Jelassi,emad.jelassi171@topnet.tn,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-21
+3627,8766,Ridha Ben Ali,ridha.ben.ali723@outlook.com,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-16
+3628,8396,Maroua Horchani,maroua.horchani569@hotmail.com,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-11
+3629,8994,Walid Ben Ahmed,walid.ben.ahmed360@gmail.com,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-29
+3630,8711,Kenza Fatnassi,kenza.fatnassi901@gmail.com,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-11
+3631,8664,Maher Mestiri,maher.mestiri851@topnet.tn,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-05-03
+3632,8374,Farouk Ghali,farouk.ghali188@outlook.com,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-20
+3633,9123,Mehdi Hadj,mehdi.hadj40@yahoo.fr,180,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-05-04,2025-04-05
+3634,8391,Emad Jelassi,emad.jelassi171@topnet.tn,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-17
+3635,8532,Omar Bouhamed,omar.bouhamed100@live.com,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-25
+3636,8130,Test Apprenant,testapprenant25@gmail.com,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-20
+3637,9223,Moncef Benhassan,moncef.benhassan9@hotmail.com,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-28
+3638,8533,Moez Marzouki,moez.marzouki193@laposte.net,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-29
+3639,8476,Wael Ghali,wael.ghali907@outlook.com,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-27
+3640,8307,Noureddine Benhassan,noureddine.benhassan384@live.com,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-02
+3641,8298,Salah Ben Salah,salah.ben.salah127@orange.tn,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-22
+3642,8302,Bassem Maaloul,bassem.maaloul138@live.com,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-09
+3643,8410,Ahlem Ezzine,ahlem.ezzine609@laposte.net,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-19
+3644,8567,Latifa Hadj,latifa.hadj834@laposte.net,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-05
+3645,8534,Ikram Kchir,ikram.kchir414@laposte.net,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-20
+3646,8558,Imed Ktari,imed.ktari236@yahoo.fr,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-22
+3647,8448,Kais Hleli,kais.hleli593@laposte.net,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-28
+3648,8580,Rania Louati,rania.louati822@yahoo.fr,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-21
+3649,8429,Samia Mestiri,samia.mestiri99@gmail.com,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-10
+3650,9217,Ghada Ben Ali,ghada.ben.ali161@topnet.tn,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-04
+3651,8684,Noureddine Jebali,noureddine.jebali108@outlook.com,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-13
+3652,8725,Rania Jelassi,rania.jelassi567@gmail.com,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-27
+3653,8324,Rania Gharbi,rania.gharbi830@yahoo.fr,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-11
+3654,8475,Chiraz Landolsi,chiraz.landolsi433@live.com,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-28
+3655,8657,Khaled Khedher,khaled.khedher919@laposte.net,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-20
+3656,8316,Makram Gasmi,makram.gasmi74@laposte.net,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-02
+3657,8779,Sabrine Dridi,sabrine.dridi271@live.com,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-29
+3658,8334,Aymen Gharbi,aymen.gharbi708@gmail.com,181,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2024-12-31,2024-12-07
+3659,8409,Hiba Nasri,hiba.nasri280@outlook.com,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-04-25
+3660,8362,Hatem Ferjani,hatem.ferjani416@live.com,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-04-22
+3661,8775,Nour Mahjoub,nour.mahjoub53@yahoo.fr,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-05-03
+3662,8658,Omar Ben Youssef,omar.ben.youssef154@laposte.net,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-04-28
+3663,8691,Kais Jebali,kais.jebali402@laposte.net,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-04-22
+3664,8404,Fethi Jebali,fethi.jebali446@outlook.com,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-04-08
+3665,8709,Hatem Ferchichi,hatem.ferchichi185@outlook.com,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-04-12
+3666,8722,Nabil Khlif,nabil.khlif960@orange.tn,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-05-07
+3667,8763,Khadija Chedly,khadija.chedly708@live.com,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-05-04
+3668,8358,Fethi Feriani,fethi.feriani319@yahoo.fr,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-04-10
+3669,8395,Amira Ben Ali,amira.ben.ali762@outlook.com,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-04-15
+3670,8712,Nabil Ghali,nabil.ghali726@outlook.com,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-04-09
+3671,8724,Nabil Khlif,nabil.khlif326@hotmail.com,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-04-24
+3672,8373,Lassad Khlif,lassad.khlif32@gmail.com,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-05-02
+3673,8782,Cyrine Chedly,cyrine.chedly674@live.com,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-04-24
+3674,8414,Hichem Jemli,hichem.jemli753@live.com,182,"ITIL 4 Strategist: Direct, Plan and Improve",2025-05-08,2025-04-10
+3675,8826,Fethi Laabidi,fethi.laabidi373@topnet.tn,183,DevOps Foundation,2025-03-30,2025-03-01
+3676,8458,Khaled Jouini,khaled.jouini728@hotmail.com,183,DevOps Foundation,2025-03-30,2025-03-08
+3677,8619,Hiba Louati,hiba.louati669@gmail.com,183,DevOps Foundation,2025-03-30,2025-03-25
+3678,8451,Hatem Louati,hatem.louati261@live.com,183,DevOps Foundation,2025-03-30,2025-03-13
+3679,8439,Mohamed Dhouib,mohamed.dhouib825@gmail.com,183,DevOps Foundation,2025-03-30,2025-03-28
+3680,8680,Maroua Bouaziz,maroua.bouaziz435@laposte.net,183,DevOps Foundation,2025-03-30,2025-03-13
+3681,8418,Salma Ouali,salma.ouali110@gmail.com,183,DevOps Foundation,2025-03-30,2025-03-14
+3682,8419,Dali Jelassi,dali.jelassi829@live.com,183,DevOps Foundation,2025-03-30,2025-03-03
+3683,8430,Samia Hleli,samia.hleli214@live.com,183,DevOps Foundation,2025-03-30,2025-03-02
+3684,8647,Yassine Derbali,yassine.derbali340@hotmail.com,183,DevOps Foundation,2025-03-30,2025-03-20
+3685,8618,Emna Khedher,emna.khedher613@hotmail.com,183,DevOps Foundation,2025-03-30,2025-03-24
+3686,8643,Fares Dali,fares.dali547@topnet.tn,183,DevOps Foundation,2025-03-30,2025-03-09
+3687,8435,Dorsaf Jouini,dorsaf.jouini803@live.com,183,DevOps Foundation,2025-03-30,2025-03-10
+3688,8569,Salah Louati,salah.louati391@topnet.tn,183,DevOps Foundation,2025-03-30,2025-03-12
+3689,8612,Adel Ghorbel,adel.ghorbel400@hotmail.com,183,DevOps Foundation,2025-03-30,2025-03-28
+3690,8629,Taoufik Chihaoui,taoufik.chihaoui644@orange.tn,183,DevOps Foundation,2025-03-30,2025-03-26
+3691,8464,Ridha Trabelsi,ridha.trabelsi460@yahoo.fr,183,DevOps Foundation,2025-03-30,2025-03-17
+3692,8644,Chedly Nasri,chedly.nasri590@live.com,183,DevOps Foundation,2025-03-30,2025-03-21
+3693,9129,Zouheir Mrad,zouheir.mrad402@orange.tn,183,DevOps Foundation,2025-03-30,2025-03-16
+3694,8971,Dalila Ezzine,dalila.ezzine723@live.com,183,DevOps Foundation,2025-03-30,2025-03-11
+3695,8875,Zouheir Hleli,zouheir.hleli710@yahoo.fr,183,DevOps Foundation,2025-03-30,2025-03-10
+3696,8994,Walid Ben Ahmed,walid.ben.ahmed360@gmail.com,183,DevOps Foundation,2025-03-30,2025-03-01
+3697,8790,Ali Rekik,ali.rekik842@gmail.com,183,DevOps Foundation,2025-03-30,2025-03-19
+3698,8566,Fadia Chaabane,fadia.chaabane396@topnet.tn,183,DevOps Foundation,2025-03-30,2025-03-18
+3699,8931,Bilel Laabidi,bilel.laabidi840@laposte.net,183,DevOps Foundation,2025-03-30,2025-03-05
+3700,8834,Chiraz Hajji,chiraz.hajji282@live.com,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-05
+3701,8558,Imed Ktari,imed.ktari236@yahoo.fr,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-01
+3702,8368,Ridha Hadj,ridha.hadj359@gmail.com,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-05
+3703,8552,Wafa Hajji,wafa.hajji79@laposte.net,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-05
+3704,8344,Jamel Fkih,jamel.fkih938@laposte.net,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-13
+3705,8636,Sofiane Sellami,sofiane.sellami742@laposte.net,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-20
+3706,8795,Karima Essid,karima.essid333@gmail.com,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-15
+3707,8820,Slim Karoui,slim.karoui796@orange.tn,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-20
+3708,9215,Hiba Khlif,hiba.khlif392@laposte.net,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-18
+3709,9264,Wassim Ben Youssef,wassim.ben.youssef125@live.com,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-18
+3710,9164,Manel Layouni,manel.layouni843@laposte.net,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-13
+3711,9169,Slim Benhassan,slim.benhassan171@outlook.com,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-01
+3712,8756,Zohra Bouzid,zohra.bouzid966@gmail.com,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-01
+3713,8321,Sonia Kammoun,sonia.kammoun700@laposte.net,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-24
+3714,8652,Takwa Dhouib,takwa.dhouib359@topnet.tn,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-06
+3715,9205,Hatem Daoud,hatem.daoud282@orange.tn,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-17
+3716,8666,Aymen Chebbi,aymen.chebbi51@hotmail.com,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-07
+3717,8759,Manel Chaieb,manel.chaieb504@orange.tn,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-24
+3718,8762,Amel Meddeb,amel.meddeb609@laposte.net,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-16
+3719,8309,Khadija Ghanmi,khadija.ghanmi82@live.com,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-04
+3720,9184,Walid Ouali,walid.ouali411@gmail.com,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-02
+3721,9201,Zeineb Rekik,zeineb.rekik394@yahoo.fr,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-09
+3722,9203,Hichem Daoud,hichem.daoud404@laposte.net,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-19
+3723,9043,Omar Ktari,omar.ktari773@yahoo.fr,184,AWS Certified Solutions Architect - Associate,2025-01-26,2025-01-14
+3724,8875,Zouheir Hleli,zouheir.hleli710@yahoo.fr,185,Microsoft Azure Administrator,2024-12-25,2024-12-01
+3725,8940,Ghada Hachicha,ghada.hachicha826@yahoo.fr,185,Microsoft Azure Administrator,2024-12-25,2024-12-08
+3726,8886,Maher Ghanmi,maher.ghanmi235@outlook.com,185,Microsoft Azure Administrator,2024-12-25,2024-12-13
+3727,8792,Walid Bouzid,walid.bouzid468@outlook.com,185,Microsoft Azure Administrator,2024-12-25,2024-12-12
+3728,8859,Kais Chihaoui,kais.chihaoui243@gmail.com,185,Microsoft Azure Administrator,2024-12-25,2024-12-21
+3729,8852,Jamel Benhassan,jamel.benhassan114@outlook.com,185,Microsoft Azure Administrator,2024-12-25,2024-12-19
+3730,8905,Hajer Ben Ahmed,hajer.ben.ahmed388@topnet.tn,185,Microsoft Azure Administrator,2024-12-25,2024-12-04
+3731,8825,Wided Kammoun,wided.kammoun654@yahoo.fr,185,Microsoft Azure Administrator,2024-12-25,2024-12-22
+3732,8907,Adel Hamdi,adel.hamdi84@hotmail.com,185,Microsoft Azure Administrator,2024-12-25,2024-11-27
+3733,8846,Amel Hamza,amel.hamza924@yahoo.fr,185,Microsoft Azure Administrator,2024-12-25,2024-12-02
+3734,8853,Aymen Ben Ahmed,aymen.ben.ahmed228@outlook.com,185,Microsoft Azure Administrator,2024-12-25,2024-12-08
+3735,9152,Yosra Khlif,yosra.khlif810@laposte.net,185,Microsoft Azure Administrator,2024-12-25,2024-12-09
+3736,9184,Walid Ouali,walid.ouali411@gmail.com,185,Microsoft Azure Administrator,2024-12-25,2024-12-20
+3737,8951,Fadia Bouhamed,fadia.bouhamed695@outlook.com,185,Microsoft Azure Administrator,2024-12-25,2024-12-12
+3738,9266,Noureddine Nabli,noureddine.nabli4@yahoo.fr,185,Microsoft Azure Administrator,2024-12-25,2024-12-11
+3739,8901,Jamel Dhouib,jamel.dhouib623@outlook.com,185,Microsoft Azure Administrator,2024-12-25,2024-12-20
+3740,8828,Moez Mansouri,moez.mansouri406@outlook.com,185,Microsoft Azure Administrator,2024-12-25,2024-12-02
+3741,9105,Hichem Guesmi,hichem.guesmi698@orange.tn,185,Microsoft Azure Administrator,2024-12-25,2024-12-22
+3742,9262,Samir Ghanmi,samir.ghanmi748@live.com,185,Microsoft Azure Administrator,2024-12-25,2024-12-13
+3743,8967,Mariam Hmida,mariam.hmida481@yahoo.fr,185,Microsoft Azure Administrator,2024-12-25,2024-12-11
+3744,9254,Dorra Marzouki,dorra.marzouki728@laposte.net,185,Microsoft Azure Administrator,2024-12-25,2024-12-05
+3745,9159,Walid Mahjoub,walid.mahjoub766@outlook.com,185,Microsoft Azure Administrator,2024-12-25,2024-12-02
+3746,8830,Amel Trabelsi,amel.trabelsi412@gmail.com,185,Microsoft Azure Administrator,2024-12-25,2024-12-23
+3747,9227,Chedly Hachicha,chedly.hachicha183@orange.tn,185,Microsoft Azure Administrator,2024-12-25,2024-12-15
+3748,9003,Yosra Layouni,yosra.layouni207@yahoo.fr,185,Microsoft Azure Administrator,2024-12-25,2024-12-15
+3749,9243,Fadia Neffati,fadia.neffati985@laposte.net,185,Microsoft Azure Administrator,2024-12-25,2024-12-18
+3750,8916,Maher Jazi,maher.jazi417@yahoo.fr,185,Microsoft Azure Administrator,2024-12-25,2024-12-18
+3751,8745,Wassim Sellami,wassim.sellami86@orange.tn,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-18
+3752,9189,Wided Layouni,wided.layouni467@orange.tn,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-16
+3753,8584,Latifa Ferchichi,latifa.ferchichi844@live.com,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-09
+3754,8637,Noureddine Fatnassi,noureddine.fatnassi130@outlook.com,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-24
+3755,8562,Manel Kchir,manel.kchir385@orange.tn,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-28
+3756,8615,Youssef Landolsi,youssef.landolsi573@laposte.net,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-25
+3757,8621,Emna Ghorbel,emna.ghorbel934@gmail.com,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-16
+3758,8598,Dali Bouhamed,dali.bouhamed770@orange.tn,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-15
+3759,8555,Nader Ferjani,nader.ferjani671@live.com,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-13
+3760,8620,Maroua Jouini,maroua.jouini166@laposte.net,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-05
+3761,8613,Chedly Daoud,chedly.daoud86@yahoo.fr,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-10
+3762,8589,Hajer Laabidi,hajer.laabidi37@topnet.tn,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-17
+3763,8583,Marwan Louati,marwan.louati915@laposte.net,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-08
+3764,8645,Maroua Hamza,maroua.hamza674@topnet.tn,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-05
+3765,8544,Yosra Mahjoub,yosra.mahjoub489@live.com,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-13
+3766,8642,Salah Fatnassi,salah.fatnassi464@topnet.tn,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-27
+3767,8588,Yasmine Khedher,yasmine.khedher883@outlook.com,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-25
+3768,8539,Nabil Nabli,nabil.nabli647@gmail.com,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-14
+3769,8513,Rim Mabrouk,rim.mabrouk784@yahoo.fr,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-04
+3770,8522,Ahmed Guesmi,ahmed.guesmi498@yahoo.fr,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-22
+3771,8609,Samia Marzouki,samia.marzouki470@laposte.net,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-03
+3772,8574,Amel Hamdi,amel.hamdi339@live.com,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-29
+3773,8594,Mohamed Ben Ahmed,mohamed.ben.ahmed558@live.com,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-16
+3774,8337,Rim Dhouib,rim.dhouib544@gmail.com,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-29
+3775,8477,Tarek Chaieb,tarek.chaieb488@yahoo.fr,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-20
+3776,8351,Marwan Ben Youssef,marwan.ben.youssef306@hotmail.com,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-12
+3777,8461,Wafa Gabsi,wafa.gabsi777@yahoo.fr,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-06
+3778,8470,Ridha Fourati,ridha.fourati480@outlook.com,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-16
+3779,8603,Bilel Bouzid,bilel.bouzid971@live.com,186,Google Cloud Professional Cloud Architect,2025-03-30,2025-03-08
+3780,8799,Zohra Sellami,zohra.sellami761@live.com,187,Scrum Master Certified,2025-02-09,2025-02-02
+3781,8421,Omar Khedher,omar.khedher125@yahoo.fr,187,Scrum Master Certified,2025-02-09,2025-01-30
+3782,8485,Fethi Jazi,fethi.jazi164@topnet.tn,187,Scrum Master Certified,2025-02-09,2025-02-08
+3783,8409,Hiba Nasri,hiba.nasri280@outlook.com,187,Scrum Master Certified,2025-02-09,2025-01-23
+3784,8711,Kenza Fatnassi,kenza.fatnassi901@gmail.com,187,Scrum Master Certified,2025-02-09,2025-02-02
+3785,8499,Hatem Bouslama,hatem.bouslama523@yahoo.fr,187,Scrum Master Certified,2025-02-09,2025-02-08
+3786,8587,Wided Nasri,wided.nasri475@outlook.com,187,Scrum Master Certified,2025-02-09,2025-02-01
+3787,8621,Emna Ghorbel,emna.ghorbel934@gmail.com,187,Scrum Master Certified,2025-02-09,2025-01-25
+3788,8448,Kais Hleli,kais.hleli593@laposte.net,187,Scrum Master Certified,2025-02-09,2025-02-06
+3789,8429,Samia Mestiri,samia.mestiri99@gmail.com,187,Scrum Master Certified,2025-02-09,2025-01-27
+3790,8575,Kais Bouhamed,kais.bouhamed521@topnet.tn,187,Scrum Master Certified,2025-02-09,2025-01-28
+3791,8510,Omar Layouni,omar.layouni761@live.com,187,Scrum Master Certified,2025-02-09,2025-02-01
+3792,8536,Youssef Rekik,youssef.rekik601@topnet.tn,187,Scrum Master Certified,2025-02-09,2025-02-07
+3793,8522,Ahmed Guesmi,ahmed.guesmi498@yahoo.fr,187,Scrum Master Certified,2025-02-09,2025-01-24
+3794,8513,Rim Mabrouk,rim.mabrouk784@yahoo.fr,187,Scrum Master Certified,2025-02-09,2025-01-28
+3795,8554,Yosra Fatnassi,yosra.fatnassi311@hotmail.com,187,Scrum Master Certified,2025-02-09,2025-02-08
+3796,8589,Hajer Laabidi,hajer.laabidi37@topnet.tn,187,Scrum Master Certified,2025-02-09,2025-01-25
+3797,8826,Fethi Laabidi,fethi.laabidi373@topnet.tn,188,Project Management Professional (PMP),2025-02-21,2025-01-29
+3798,8321,Sonia Kammoun,sonia.kammoun700@laposte.net,188,Project Management Professional (PMP),2025-02-21,2025-02-07
+3799,8593,Amira Derbali,amira.derbali142@gmail.com,188,Project Management Professional (PMP),2025-02-21,2025-02-05
+3800,8389,Karima Dali,karima.dali172@outlook.com,188,Project Management Professional (PMP),2025-02-21,2025-01-23
+3801,8727,Aymen Gabsi,aymen.gabsi288@gmail.com,188,Project Management Professional (PMP),2025-02-21,2025-01-29
+3802,8585,Kenza Ktari,kenza.ktari313@hotmail.com,188,Project Management Professional (PMP),2025-02-21,2025-02-08
+3803,8571,Hana Guesmi,hana.guesmi824@topnet.tn,188,Project Management Professional (PMP),2025-02-21,2025-02-09
+3804,8583,Marwan Louati,marwan.louati915@laposte.net,188,Project Management Professional (PMP),2025-02-21,2025-01-27
+3805,8635,Hedi Neffati,hedi.neffati751@gmail.com,188,Project Management Professional (PMP),2025-02-21,2025-02-10
+3806,8352,Jihene Ouali,jihene.ouali515@live.com,188,Project Management Professional (PMP),2025-02-21,2025-02-17
+3807,8562,Manel Kchir,manel.kchir385@orange.tn,188,Project Management Professional (PMP),2025-02-21,2025-01-27
+3808,8645,Maroua Hamza,maroua.hamza674@topnet.tn,188,Project Management Professional (PMP),2025-02-21,2025-02-16
+3809,8541,Nour Ben Ali,nour.ben.ali147@orange.tn,188,Project Management Professional (PMP),2025-02-21,2025-01-31
+3810,8614,Maroua Louati,maroua.louati398@hotmail.com,188,Project Management Professional (PMP),2025-02-21,2025-02-10
+3811,8500,Moncef Gasmi,moncef.gasmi132@gmail.com,188,Project Management Professional (PMP),2025-02-21,2025-02-20
+3812,8520,Ikram Mestiri,ikram.mestiri159@laposte.net,188,Project Management Professional (PMP),2025-02-21,2025-01-31
+3813,8654,Intissar Horchani,intissar.horchani995@yahoo.fr,188,Project Management Professional (PMP),2025-02-21,2025-02-18
+3814,8542,Nour Essid,nour.essid817@yahoo.fr,188,Project Management Professional (PMP),2025-02-21,2025-01-27
+3815,8606,Yassine Bouaziz,yassine.bouaziz955@hotmail.com,188,Project Management Professional (PMP),2025-02-21,2025-01-26
+3816,8419,Dali Jelassi,dali.jelassi829@live.com,188,Project Management Professional (PMP),2025-02-21,2025-01-22
+3817,8653,Dali Sellami,dali.sellami755@hotmail.com,188,Project Management Professional (PMP),2025-02-21,2025-02-05
+3818,8594,Mohamed Ben Ahmed,mohamed.ben.ahmed558@live.com,188,Project Management Professional (PMP),2025-02-21,2025-02-10
+3819,8130,Test Apprenant,testapprenant25@gmail.com,188,Project Management Professional (PMP),2025-02-21,2025-02-08
+3820,8319,Manel Ben Ahmed,manel.ben.ahmed610@live.com,188,Project Management Professional (PMP),2025-02-21,2025-02-04
+3821,8632,Ghazi Bouzid,ghazi.bouzid103@yahoo.fr,188,Project Management Professional (PMP),2025-02-21,2025-02-11
+3822,8300,Nesrine Laabidi,nesrine.laabidi423@live.com,188,Project Management Professional (PMP),2025-02-21,2025-02-16
+3823,8558,Imed Ktari,imed.ktari236@yahoo.fr,188,Project Management Professional (PMP),2025-02-21,2025-02-04
+3824,8671,Ahmed Kchir,ahmed.kchir462@orange.tn,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-10
+3825,9225,Fares Ouali,fares.ouali792@yahoo.fr,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-13
+3826,8632,Ghazi Bouzid,ghazi.bouzid103@yahoo.fr,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-11
+3827,8648,Samia Hajji,samia.hajji944@hotmail.com,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-03-31
+3828,8600,Takwa Jemli,takwa.jemli725@laposte.net,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-07
+3829,8639,Makram Hmida,makram.hmida803@yahoo.fr,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-19
+3830,8606,Yassine Bouaziz,yassine.bouaziz955@hotmail.com,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-10
+3831,8641,Yassine Ghali,yassine.ghali400@yahoo.fr,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-03-30
+3832,8618,Emna Khedher,emna.khedher613@hotmail.com,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-18
+3833,8717,Rim Nabli,rim.nabli43@live.com,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-09
+3834,8644,Chedly Nasri,chedly.nasri590@live.com,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-05
+3835,8722,Nabil Khlif,nabil.khlif960@orange.tn,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-08
+3836,8958,Amine Layouni,amine.layouni776@gmail.com,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-09
+3837,8797,Ahlem Miled,ahlem.miled577@yahoo.fr,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-20
+3838,8652,Takwa Dhouib,takwa.dhouib359@topnet.tn,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-03-31
+3839,8849,Ridha Fatnassi,ridha.fatnassi659@topnet.tn,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-16
+3840,8629,Taoufik Chihaoui,taoufik.chihaoui644@orange.tn,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-20
+3841,8664,Maher Mestiri,maher.mestiri851@topnet.tn,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-01
+3842,8704,Yassine Hmida,yassine.hmida193@topnet.tn,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-14
+3843,8831,Maroua Chedly,maroua.chedly858@orange.tn,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-21
+3844,8598,Dali Bouhamed,dali.bouhamed770@orange.tn,189,Certified Information Systems Security Professional (CISSP),2025-04-21,2025-04-20
+3845,8729,Rami Guesmi,rami.guesmi604@hotmail.com,190,Data Science avec Python,2024-12-07,2024-11-19
+3846,8924,Emad Hajji,emad.hajji182@yahoo.fr,190,Data Science avec Python,2024-12-07,2024-11-24
+3847,8549,Marwan Kammoun,marwan.kammoun503@live.com,190,Data Science avec Python,2024-12-07,2024-11-30
+3848,8429,Samia Mestiri,samia.mestiri99@gmail.com,190,Data Science avec Python,2024-12-07,2024-11-22
+3849,8469,Amira Feriani,amira.feriani295@hotmail.com,190,Data Science avec Python,2024-12-07,2024-12-03
+3850,8632,Ghazi Bouzid,ghazi.bouzid103@yahoo.fr,190,Data Science avec Python,2024-12-07,2024-11-14
+3851,8462,Karima Kchir,karima.kchir598@laposte.net,190,Data Science avec Python,2024-12-07,2024-11-10
+3852,8414,Hichem Jemli,hichem.jemli753@live.com,190,Data Science avec Python,2024-12-07,2024-11-07
+3853,8306,Samir Ghali,samir.ghali425@live.com,190,Data Science avec Python,2024-12-07,2024-11-09
+3854,8301,Rim Ferjani,rim.ferjani989@hotmail.com,190,Data Science avec Python,2024-12-07,2024-12-03
+3855,8500,Moncef Gasmi,moncef.gasmi132@gmail.com,190,Data Science avec Python,2024-12-07,2024-11-30
+3856,8535,Ghazi Chaieb,ghazi.chaieb567@yahoo.fr,190,Data Science avec Python,2024-12-07,2024-11-27
+3857,8947,Jihene Ben Ahmed,jihene.ben.ahmed729@live.com,190,Data Science avec Python,2024-12-07,2024-11-17
+3858,9020,Sami Mahjoub,sami.mahjoub359@live.com,190,Data Science avec Python,2024-12-07,2024-11-30
+3859,9014,Jamel Sellami,jamel.sellami70@hotmail.com,190,Data Science avec Python,2024-12-07,2024-11-27
+3860,8432,Nader Fatnassi,nader.fatnassi750@hotmail.com,190,Data Science avec Python,2024-12-07,2024-11-09
+3861,8840,Cyrine Bouaziz,cyrine.bouaziz528@gmail.com,190,Data Science avec Python,2024-12-07,2024-11-21
+3862,8657,Khaled Khedher,khaled.khedher919@laposte.net,190,Data Science avec Python,2024-12-07,2024-11-08
+3863,9107,Dorra Ben Ahmed,dorra.ben.ahmed201@topnet.tn,190,Data Science avec Python,2024-12-07,2024-11-09
+3864,8494,Intissar Jebali,intissar.jebali388@yahoo.fr,190,Data Science avec Python,2024-12-07,2024-11-11
+3865,9048,Sonia Ben Ahmed,sonia.ben.ahmed852@live.com,190,Data Science avec Python,2024-12-07,2024-12-05
+3866,9273,Cyrine Ben Ahmed,cyrine.ben.ahmed328@hotmail.com,190,Data Science avec Python,2024-12-07,2024-11-13
+3867,8783,Yasmine Trabelsi,yasmine.trabelsi185@laposte.net,191,Blockchain pour les entreprises,2025-03-04,2025-02-23
+3868,8768,Ines Chebbi,ines.chebbi764@hotmail.com,191,Blockchain pour les entreprises,2025-03-04,2025-03-04
+3869,8849,Ridha Fatnassi,ridha.fatnassi659@topnet.tn,191,Blockchain pour les entreprises,2025-03-04,2025-02-04
+3870,8457,Zouheir Jazi,zouheir.jazi149@hotmail.com,191,Blockchain pour les entreprises,2025-03-04,2025-02-28
+3871,8291,Salah Ferchichi,salah.ferchichi253@yahoo.fr,191,Blockchain pour les entreprises,2025-03-04,2025-02-25
+3872,8524,Lassad Fatnassi,lassad.fatnassi308@topnet.tn,191,Blockchain pour les entreprises,2025-03-04,2025-03-02
+3873,8843,Takwa Omrani,takwa.omrani240@topnet.tn,191,Blockchain pour les entreprises,2025-03-04,2025-02-16
+3874,8381,Marwan Ouali,marwan.ouali618@live.com,191,Blockchain pour les entreprises,2025-03-04,2025-02-03
+3875,8852,Jamel Benhassan,jamel.benhassan114@outlook.com,191,Blockchain pour les entreprises,2025-03-04,2025-02-28
+3876,9121,Samia Rekik,samia.rekik90@gmail.com,191,Blockchain pour les entreprises,2025-03-04,2025-02-06
+3877,8952,Fares Jouini,fares.jouini45@laposte.net,191,Blockchain pour les entreprises,2025-03-04,2025-02-14
+3878,8472,Sami Hamza,sami.hamza296@topnet.tn,191,Blockchain pour les entreprises,2025-03-04,2025-02-18
+3879,8406,Wassim Hleli,wassim.hleli442@live.com,191,Blockchain pour les entreprises,2025-03-04,2025-02-28
+3880,8357,Sami Layouni,sami.layouni581@hotmail.com,191,Blockchain pour les entreprises,2025-03-04,2025-02-08
+3881,8973,Makram Bouslama,makram.bouslama679@live.com,191,Blockchain pour les entreprises,2025-03-04,2025-02-28
+3882,8958,Amine Layouni,amine.layouni776@gmail.com,191,Blockchain pour les entreprises,2025-03-04,2025-02-20
+3883,8909,Farah Chaabane,farah.chaabane729@laposte.net,191,Blockchain pour les entreprises,2025-03-04,2025-02-22
+3884,8389,Karima Dali,karima.dali172@outlook.com,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-29
+3885,9148,Aymen Ezzine,aymen.ezzine816@gmail.com,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-31
+3886,8483,Jihene Ben Youssef,jihene.ben.youssef26@outlook.com,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-18
+3887,8502,Walid Ouali,walid.ouali554@hotmail.com,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-29
+3888,8296,Bassem Gasmi,bassem.gasmi717@hotmail.com,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-17
+3889,8430,Samia Hleli,samia.hleli214@live.com,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-03
+3890,8459,Yosra Karoui,yosra.karoui630@topnet.tn,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-04
+3891,8498,Khaled Trabelsi,khaled.trabelsi864@live.com,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-18
+3892,8411,Ahmed Nasri,ahmed.nasri694@laposte.net,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-07
+3893,8610,Wafa Gabsi,wafa.gabsi582@orange.tn,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-25
+3894,8346,Wael Ghorbel,wael.ghorbel465@outlook.com,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-08
+3895,8345,Fadia Ezzine,fadia.ezzine458@yahoo.fr,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-17
+3896,8700,Amira Essid,amira.essid26@outlook.com,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-06
+3897,8448,Kais Hleli,kais.hleli593@laposte.net,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-05
+3898,8955,Wael Khedher,wael.khedher253@gmail.com,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-02
+3899,8399,Sofiane Chebbi,sofiane.chebbi652@laposte.net,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-11
+3900,8290,Zeineb Jazi,zeineb.jazi264@hotmail.com,192,Intelligence Artificielle pour managers,2024-12-31,2024-12-11
+3901,9238,Zohra Hamza,zohra.hamza443@yahoo.fr,193,Cybersécurité opérationnelle,2025-01-26,2025-01-21
+3902,9160,Farah Ferjani,farah.ferjani290@hotmail.com,193,Cybersécurité opérationnelle,2025-01-26,2025-01-03
+3903,9027,Dorsaf Ben Salah,dorsaf.ben.salah273@orange.tn,193,Cybersécurité opérationnelle,2025-01-26,2024-12-28
+3904,8898,Mohamed Labidi,mohamed.labidi478@hotmail.com,193,Cybersécurité opérationnelle,2025-01-26,2025-01-16
+3905,8785,Omar Miled,omar.miled979@gmail.com,193,Cybersécurité opérationnelle,2025-01-26,2025-01-04
+3906,8844,Amine Mejri,amine.mejri932@live.com,193,Cybersécurité opérationnelle,2025-01-26,2024-12-27
+3907,9012,Sabrine Trabelsi,sabrine.trabelsi73@hotmail.com,193,Cybersécurité opérationnelle,2025-01-26,2025-01-18
+3908,8813,Najoua Ben Salah,najoua.ben.salah389@topnet.tn,193,Cybersécurité opérationnelle,2025-01-26,2024-12-30
+3909,8784,Wassim Sellami,wassim.sellami70@orange.tn,193,Cybersécurité opérationnelle,2025-01-26,2025-01-05
+3910,8798,Moez Dridi,moez.dridi707@yahoo.fr,193,Cybersécurité opérationnelle,2025-01-26,2025-01-07
+3911,8833,Hajer Hachicha,hajer.hachicha501@topnet.tn,193,Cybersécurité opérationnelle,2025-01-26,2025-01-06
+3912,9042,Manel Bouaziz,manel.bouaziz96@gmail.com,193,Cybersécurité opérationnelle,2025-01-26,2025-01-23
+3913,8999,Hedi Labidi,hedi.labidi833@live.com,193,Cybersécurité opérationnelle,2025-01-26,2025-01-17
+3914,9137,Yasmine Hmida,yasmine.hmida983@hotmail.com,193,Cybersécurité opérationnelle,2025-01-26,2024-12-28
+3915,8843,Takwa Omrani,takwa.omrani240@topnet.tn,193,Cybersécurité opérationnelle,2025-01-26,2024-12-31
+3916,8807,Makram Benhassan,makram.benhassan475@laposte.net,193,Cybersécurité opérationnelle,2025-01-26,2025-01-10
+3917,9038,Marwan Jazi,marwan.jazi62@topnet.tn,193,Cybersécurité opérationnelle,2025-01-26,2025-01-16
+3918,8926,Hajer Marzouki,hajer.marzouki224@topnet.tn,193,Cybersécurité opérationnelle,2025-01-26,2025-01-01
+3919,9049,Maroua Dali,maroua.dali107@gmail.com,193,Cybersécurité opérationnelle,2025-01-26,2025-01-24
+3920,9136,Dali Limam,dali.limam736@topnet.tn,193,Cybersécurité opérationnelle,2025-01-26,2025-01-19
+3921,9034,Taoufik Mahjoub,taoufik.mahjoub552@topnet.tn,193,Cybersécurité opérationnelle,2025-01-26,2025-01-18
+3922,8794,Taoufik Karoui,taoufik.karoui425@outlook.com,193,Cybersécurité opérationnelle,2025-01-26,2024-12-31
+3923,8985,Lassad Chaabane,lassad.chaabane387@orange.tn,193,Cybersécurité opérationnelle,2025-01-26,2025-01-07
+3924,8953,Fethi Omrani,fethi.omrani890@outlook.com,193,Cybersécurité opérationnelle,2025-01-26,2025-01-11
+3925,8357,Sami Layouni,sami.layouni581@hotmail.com,193,Cybersécurité opérationnelle,2025-01-26,2025-01-02
+3926,8313,Hatem Jemli,hatem.jemli558@laposte.net,193,Cybersécurité opérationnelle,2025-01-26,2025-01-13
+3927,8349,Dali Ktari,dali.ktari238@hotmail.com,193,Cybersécurité opérationnelle,2025-01-26,2025-01-17
+3928,8423,Bilel Bouaziz,bilel.bouaziz871@laposte.net,193,Cybersécurité opérationnelle,2025-01-26,2025-01-04
+3929,8351,Marwan Ben Youssef,marwan.ben.youssef306@hotmail.com,193,Cybersécurité opérationnelle,2025-01-26,2025-01-22

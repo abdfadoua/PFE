@@ -1,0 +1,214 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                    Int                  @id @default(autoincrement())
+  email                 String               @unique
+  name                  String?
+  password              String
+  role                  String
+  phone                 String?
+  country               String?
+  city                  String?
+  profileImage          String?
+  refreshToken          String?
+  isVerified            Boolean              @default(false)
+  verificationToken     String?
+  birthDate             DateTime?
+  interests             String[]
+  emargements           Emargement[]         @relation("UserEmargements")
+  validatedEmargements  Emargement[]         @relation("ValidatedEmargements")
+  feedbacks             Feedback[]           @relation("UserFeedbacks")
+  formateurFeedbacks    FormateurFeedback[]  @relation("FormateurFeedbacks")
+  formations            Formation[]          @relation("Formateur")
+  history               History[]            @relation("Actor")
+  receivedNotifications Notification[]       @relation("NotificationRecipient")
+  sentRequests          ParticipantRequest[] @relation("RequestedBy")
+  purchases             Purchase[]           @relation("UserPurchases")
+  skillValidations      SkillValidation[]
+
+  @@map("users")
+}
+
+model Formation {
+  id                 Int                  @id @default(autoincrement())
+  title              String
+  description        String?
+  date               DateTime
+  formateurId        Int
+  formateurFeedbacks FormateurFeedback[]  @relation("FormateurFeedbacks")
+  formateur          User                 @relation("Formateur", fields: [formateurId], references: [id], onDelete: Cascade)
+  requests           ParticipantRequest[] @relation("FormationRequests")
+  purchases          Purchase[]
+  sections           Section[]
+  sessions           Session[]
+
+  @@map("formations")
+}
+
+model FormateurFeedback {
+  id                     Int       @id @default(autoincrement())
+  userId                 Int
+  formationId            Int
+  homogeneity            Int?
+  informationLevel       Int?
+  groupLevel             Int?
+  participantCount       Int?
+  participation          Int?
+  assimilation           Int?
+  environment            Int?
+  welcome                Int?
+  technicalPlatforms     Int?
+  adapted                Boolean?
+  adaptationDetails      String?
+  organizationRemarks    String?
+  trainingImprovement    String?
+  environmentImprovement String?
+  technicalImprovement   String?
+  createdAt              DateTime  @default(now())
+  updatedAt              DateTime  @default(now())
+  formation              Formation @relation("FormateurFeedbacks", fields: [formationId], references: [id], onDelete: Cascade)
+  user                   User      @relation("FormateurFeedbacks", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, formationId])
+  @@map("formateur_feedbacks")
+}
+
+model Section {
+  id          Int       @id @default(autoincrement())
+  title       String
+  formationId Int
+  formation   Formation @relation(fields: [formationId], references: [id], onDelete: Cascade)
+
+  @@map("sections")
+}
+
+model Session {
+  id          Int          @id @default(autoincrement())
+  startTime   DateTime
+  endTime     DateTime
+  formationId Int
+  emargements Emargement[]
+  formation   Formation    @relation(fields: [formationId], references: [id])
+
+  @@map("sessions")
+}
+
+model Purchase {
+  id           Int       @id @default(autoincrement())
+  userId       Int
+  formationId  Int
+  purchaseDate DateTime
+  formation    Formation @relation(fields: [formationId], references: [id])
+  user         User      @relation("UserPurchases", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("purchases")
+}
+
+model Emargement {
+  id               Int              @id @default(autoincrement())
+  userId           Int
+  sessionId        Int
+  isPresent        Boolean?
+  signature        String?
+  emargementDate   DateTime?
+  validatedBy      Int?
+  validationDate   DateTime?
+  session          Session          @relation(fields: [sessionId], references: [id])
+  user             User             @relation("UserEmargements", fields: [userId], references: [id], onDelete: Cascade)
+  validator        User?            @relation("ValidatedEmargements", fields: [validatedBy], references: [id])
+  feedbacks        Feedback?        @relation("EmargementFeedbacks")
+  skillValidations SkillValidation?
+
+  @@unique([userId, sessionId])
+  @@map("emargements")
+}
+
+model ParticipantRequest {
+  id              Int            @id @default(autoincrement())
+  email           String
+  phone           String?
+  formationId     Int
+  requestedById   Int
+  status          String         @default("PENDING")
+  createdAt       DateTime       @default(now())
+  updatedAt       DateTime       @updatedAt
+  rejectionReason String?
+  history         History[]      @relation("RequestHistory")
+  notifications   Notification[]
+  formation       Formation      @relation("FormationRequests", fields: [formationId], references: [id])
+  requestedBy     User           @relation("RequestedBy", fields: [requestedById], references: [id])
+
+  @@map("participant_requests")
+}
+
+model Notification {
+  id          Int                @id @default(autoincrement())
+  message     String
+  recipientId Int
+  requestId   Int
+  createdAt   DateTime           @default(now())
+  read        Boolean            @default(false)
+  recipient   User               @relation("NotificationRecipient", fields: [recipientId], references: [id])
+  request     ParticipantRequest @relation(fields: [requestId], references: [id])
+
+  @@map("notifications")
+}
+
+model History {
+  id        Int                 @id @default(autoincrement())
+  action    String
+  actorId   Int
+  actorType String
+  details   Json
+  requestId Int?
+  createdAt DateTime            @default(now())
+  actor     User                @relation("Actor", fields: [actorId], references: [id])
+  request   ParticipantRequest? @relation("RequestHistory", fields: [requestId], references: [id])
+
+  @@map("history")
+}
+
+model SkillValidation {
+  id                   Int        @id @default(autoincrement())
+  emargementId         Int        @unique
+  userId               Int
+  skillsBeforeTraining Json
+  skillsAfterTraining  Json
+  submittedAt          DateTime   @default(now())
+  emargement           Emargement @relation(fields: [emargementId], references: [id])
+  user                 User       @relation(fields: [userId], references: [id])
+
+  @@unique([emargementId, userId])
+  @@map("skill_validations")
+}
+
+model Feedback {
+  id                   Int        @id @default(autoincrement())
+  userId               Int
+  emargementId         Int        @unique
+  clarity              Int?
+  objectives           Int?
+  level                Int?
+  trainer              Int?
+  materials            Int?
+  comments             String?
+  createdAt            DateTime   @default(now())
+  globalRating         Int?
+  materialOrganization Int?
+  premisesComfort      Int?
+  updatedAt            DateTime   @default(now())
+  welcomeQuality       Int?
+  deepenOtherField     String?
+  deepenSameField      String?
+  emargement           Emargement @relation("EmargementFeedbacks", fields: [emargementId], references: [id], onDelete: Cascade)
+  user                 User       @relation("UserFeedbacks", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("feedbacks")
+}
