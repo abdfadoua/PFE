@@ -1,0 +1,897 @@
+ID,ID Utilisateur,Nom Utilisateur,Formation,Clarté,Objectifs,Niveau,Formateur,Matériels,Note Globale,Commentaires
+15648,19665,Test Apprenant,Formation Test - Développement Web Avancé,5,5,4,3,5,4,Formation très intéressante et bien structurée. Le formateur était très compétent.
+15649,19665,Test Apprenant,Formation Test - Développement Web Avancé,4,3,5,4,3,5,Formation très intéressante et bien structurée. Le formateur était très compétent.
+15650,19665,Test Apprenant,Formation Test - Développement Web Avancé,3,3,5,5,4,3,Formation très intéressante et bien structurée. Le formateur était très compétent.
+15651,19665,Test Apprenant,Formation Test - Cybersécurité Fondamentale,4,4,4,4,4,5,Formation très intéressante et bien structurée. Le formateur était très compétent.
+15652,19665,Test Apprenant,Formation Test - Cybersécurité Fondamentale,4,3,4,4,4,4,Formation très intéressante et bien structurée. Le formateur était très compétent.
+15653,19665,Test Apprenant,Formation Test - Cybersécurité Fondamentale,5,4,5,4,4,3,Formation très intéressante et bien structurée. Le formateur était très compétent.
+15654,19665,Test Apprenant,Formation Test - Développement Web Avancé,5,5,3,4,3,4,Formation très intéressante et bien structurée. Le formateur était très compétent.
+15655,19665,Test Apprenant,Formation Test - Développement Web Avancé,5,5,3,4,4,3,Formation très intéressante et bien structurée. Le formateur était très compétent.
+15656,19665,Test Apprenant,Formation Test - Développement Web Avancé,5,3,5,3,3,3,Formation très intéressante et bien structurée. Le formateur était très compétent.
+15657,19665,Test Apprenant,Formation Test - Cybersécurité Fondamentale,4,3,4,3,4,4,Formation très intéressante et bien structurée. Le formateur était très compétent.
+15658,19665,Test Apprenant,Formation Test - Cybersécurité Fondamentale,3,5,3,3,5,5,Formation très intéressante et bien structurée. Le formateur était très compétent.
+15659,19665,Test Apprenant,Formation Test - Cybersécurité Fondamentale,3,3,5,5,5,4,Formation très intéressante et bien structurée. Le formateur était très compétent.
+15660,20454,Karim Louati,ITIL 4 Foundation - Gestion des Services IT,4,5,4,3,3,5,Formation très intéressante et enrichissante.
+15661,20594,Yosra Gasmi,ITIL 4 Foundation - Gestion des Services IT,4,4,3,3,3,5,Formation très intéressante et enrichissante.
+15662,20384,Wided Hmida,ITIL 4 Foundation - Gestion des Services IT,4,4,4,3,5,5,"Contenu bien structuré, formateur compétent."
+15663,20510,Ahmed Hachicha,ITIL 4 Foundation - Gestion des Services IT,3,4,4,3,5,4,"Contenu bien structuré, formateur compétent."
+15664,20479,Maher Hamdi,ITIL 4 Foundation - Gestion des Services IT,3,5,4,4,5,3,"Contenu bien structuré, formateur compétent."
+15665,20546,Ridha Hachicha,ITIL 4 Foundation - Gestion des Services IT,5,5,4,4,4,4,Formation très intéressante et enrichissante.
+15666,20481,Zied Miled,ITIL 4 Foundation - Gestion des Services IT,4,5,3,4,4,5,"Contenu bien structuré, formateur compétent."
+15667,20541,Taoufik Fkih,ITIL 4 Foundation - Gestion des Services IT,4,3,4,4,3,4,Formation très intéressante et enrichissante.
+15668,20550,Hiba Derbali,ITIL 4 Foundation - Gestion des Services IT,4,5,5,5,4,3,Formation très intéressante et enrichissante.
+15669,19940,Fadia Omrani,ITIL 4 Foundation - Gestion des Services IT,4,4,4,3,4,3,Formation très intéressante et enrichissante.
+15670,20225,Marwan Chaieb,ITIL 4 Foundation - Gestion des Services IT,4,5,3,5,5,5,Formation très intéressante et enrichissante.
+15671,20155,Latifa Hadj,ITIL 4 Foundation - Gestion des Services IT,5,5,3,4,5,3,Formation très intéressante et enrichissante.
+15672,20501,Mohamed Neffati,ITIL 4 Foundation - Gestion des Services IT,4,4,4,3,3,3,Formation très intéressante et enrichissante.
+15673,20454,Karim Louati,ITIL 4 Foundation - Gestion des Services IT,3,3,3,3,5,3,Formation très intéressante et enrichissante.
+15674,20594,Yosra Gasmi,ITIL 4 Foundation - Gestion des Services IT,4,4,5,5,4,5,"Contenu bien structuré, formateur compétent."
+15675,20384,Wided Hmida,ITIL 4 Foundation - Gestion des Services IT,4,3,4,5,5,4,Formation très intéressante et enrichissante.
+15676,20510,Ahmed Hachicha,ITIL 4 Foundation - Gestion des Services IT,5,5,3,5,4,4,"Contenu bien structuré, formateur compétent."
+15677,20500,Samia Horchani,ITIL 4 Foundation - Gestion des Services IT,4,5,4,3,5,5,"Contenu bien structuré, formateur compétent."
+15678,20486,Rim Chaabane,ITIL 4 Foundation - Gestion des Services IT,4,3,5,4,3,3,Formation très intéressante et enrichissante.
+15679,20546,Ridha Hachicha,ITIL 4 Foundation - Gestion des Services IT,5,4,4,5,3,4,Formation très intéressante et enrichissante.
+15680,20481,Zied Miled,ITIL 4 Foundation - Gestion des Services IT,5,4,4,3,3,4,Formation très intéressante et enrichissante.
+15681,20541,Taoufik Fkih,ITIL 4 Foundation - Gestion des Services IT,4,3,4,4,3,3,Formation très intéressante et enrichissante.
+15682,20550,Hiba Derbali,ITIL 4 Foundation - Gestion des Services IT,5,3,4,5,4,5,Formation très intéressante et enrichissante.
+15683,20002,Tarek Hamza,ITIL 4 Foundation - Gestion des Services IT,4,4,5,5,5,5,"Contenu bien structuré, formateur compétent."
+15684,19887,Sabrine Chihaoui,ITIL 4 Foundation - Gestion des Services IT,5,5,3,5,5,5,Formation très intéressante et enrichissante.
+15685,19827,Khaled Maaloul,ITIL 4 Foundation - Gestion des Services IT,4,4,3,5,4,4,Formation très intéressante et enrichissante.
+15686,19940,Fadia Omrani,ITIL 4 Foundation - Gestion des Services IT,4,5,3,4,5,3,"Contenu bien structuré, formateur compétent."
+15687,20225,Marwan Chaieb,ITIL 4 Foundation - Gestion des Services IT,5,3,5,4,3,5,"Contenu bien structuré, formateur compétent."
+15688,20710,Ali Mansouri,ITIL 4 Foundation - Gestion des Services IT,4,5,3,5,5,3,"Contenu bien structuré, formateur compétent."
+15689,20501,Mohamed Neffati,ITIL 4 Foundation - Gestion des Services IT,3,5,4,3,4,3,"Contenu bien structuré, formateur compétent."
+15690,20594,Yosra Gasmi,ITIL 4 Foundation - Gestion des Services IT,5,4,3,3,5,4,Formation très intéressante et enrichissante.
+15691,20438,Farah Ben Ahmed,ITIL 4 Foundation - Gestion des Services IT,3,5,3,4,5,4,Formation très intéressante et enrichissante.
+15692,20500,Samia Horchani,ITIL 4 Foundation - Gestion des Services IT,3,3,3,5,4,3,Formation très intéressante et enrichissante.
+15693,20486,Rim Chaabane,ITIL 4 Foundation - Gestion des Services IT,4,5,5,4,5,4,Formation très intéressante et enrichissante.
+15694,20546,Ridha Hachicha,ITIL 4 Foundation - Gestion des Services IT,5,5,4,3,5,5,"Contenu bien structuré, formateur compétent."
+15695,20541,Taoufik Fkih,ITIL 4 Foundation - Gestion des Services IT,3,4,4,3,3,3,Formation très intéressante et enrichissante.
+15696,19887,Sabrine Chihaoui,ITIL 4 Foundation - Gestion des Services IT,5,5,5,5,5,5,"Contenu bien structuré, formateur compétent."
+15697,20436,Dorsaf Maaloul,ITIL 4 Foundation - Gestion des Services IT,5,4,5,4,4,3,Formation très intéressante et enrichissante.
+15698,19827,Khaled Maaloul,ITIL 4 Foundation - Gestion des Services IT,3,5,4,5,4,3,Formation très intéressante et enrichissante.
+15699,19940,Fadia Omrani,ITIL 4 Foundation - Gestion des Services IT,3,4,4,3,3,3,Formation très intéressante et enrichissante.
+15700,20710,Ali Mansouri,ITIL 4 Foundation - Gestion des Services IT,3,5,3,4,4,5,"Contenu bien structuré, formateur compétent."
+15701,20155,Latifa Hadj,ITIL 4 Foundation - Gestion des Services IT,3,3,3,5,5,5,Formation très intéressante et enrichissante.
+15702,20501,Mohamed Neffati,ITIL 4 Foundation - Gestion des Services IT,5,5,4,5,4,4,"Contenu bien structuré, formateur compétent."
+15703,20384,Wided Hmida,ITIL 4 Foundation - Gestion des Services IT,5,5,4,3,4,4,"Contenu bien structuré, formateur compétent."
+15704,20479,Maher Hamdi,ITIL 4 Foundation - Gestion des Services IT,3,4,4,4,5,3,Formation très intéressante et enrichissante.
+15705,20537,Zied Landolsi,ITIL 4 Foundation - Gestion des Services IT,3,5,5,5,3,5,"Contenu bien structuré, formateur compétent."
+15706,20500,Samia Horchani,ITIL 4 Foundation - Gestion des Services IT,3,5,4,5,5,3,Formation très intéressante et enrichissante.
+15707,20486,Rim Chaabane,ITIL 4 Foundation - Gestion des Services IT,4,3,3,5,5,4,"Contenu bien structuré, formateur compétent."
+15708,20546,Ridha Hachicha,ITIL 4 Foundation - Gestion des Services IT,5,3,4,3,3,3,"Contenu bien structuré, formateur compétent."
+15709,20481,Zied Miled,ITIL 4 Foundation - Gestion des Services IT,5,4,4,5,5,5,Formation très intéressante et enrichissante.
+15710,20550,Hiba Derbali,ITIL 4 Foundation - Gestion des Services IT,3,3,3,4,4,5,"Contenu bien structuré, formateur compétent."
+15711,20436,Dorsaf Maaloul,ITIL 4 Foundation - Gestion des Services IT,4,3,3,4,4,5,Formation très intéressante et enrichissante.
+15712,19940,Fadia Omrani,ITIL 4 Foundation - Gestion des Services IT,3,5,4,4,4,5,"Contenu bien structuré, formateur compétent."
+15713,20710,Ali Mansouri,ITIL 4 Foundation - Gestion des Services IT,4,3,3,3,4,3,"Contenu bien structuré, formateur compétent."
+15714,20501,Mohamed Neffati,ITIL 4 Foundation - Gestion des Services IT,4,5,5,4,5,4,Formation très intéressante et enrichissante.
+15715,20595,Mariam Rekik,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,3,3,5,4,3,"Contenu bien structuré, formateur compétent."
+15716,20156,Mariam Mansouri,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,3,3,5,3,3,Formation très intéressante et enrichissante.
+15717,19894,Takwa Landolsi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,3,3,3,3,5,"Contenu bien structuré, formateur compétent."
+15718,19897,Fatma Kchir,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,4,3,4,3,5,"Contenu bien structuré, formateur compétent."
+15719,19841,Takwa Omrani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,4,5,5,4,3,"Contenu bien structuré, formateur compétent."
+15720,20264,Lobna Trabelsi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,3,4,5,3,4,Formation très intéressante et enrichissante.
+15721,20387,Manel Ouali,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,4,3,4,5,4,Formation très intéressante et enrichissante.
+15722,20175,Hichem Neffati,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,4,5,3,4,5,"Contenu bien structuré, formateur compétent."
+15723,20403,Nesrine Chebbi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,4,3,3,3,4,"Contenu bien structuré, formateur compétent."
+15724,20442,Zied Jouini,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,3,4,4,3,3,"Contenu bien structuré, formateur compétent."
+15725,20421,Bochra Khlif,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,3,4,5,4,4,"Contenu bien structuré, formateur compétent."
+15726,20122,Rania Chedly,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,3,5,4,4,3,"Contenu bien structuré, formateur compétent."
+15727,20230,Nour Dhouib,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,4,3,3,5,5,"Contenu bien structuré, formateur compétent."
+15728,19996,Najoua Chihaoui,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,3,4,5,5,5,Formation très intéressante et enrichissante.
+15729,20413,Yasmine Mejri,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,3,4,4,5,3,Formation très intéressante et enrichissante.
+15730,19893,Nabil Mabrouk,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,3,5,5,3,5,"Contenu bien structuré, formateur compétent."
+15731,19974,Moez Derbali,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,3,3,5,3,5,Formation très intéressante et enrichissante.
+15732,20510,Ahmed Hachicha,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,5,4,5,3,4,"Contenu bien structuré, formateur compétent."
+15733,19918,Salma Guesmi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,4,4,5,5,4,Formation très intéressante et enrichissante.
+15734,20156,Mariam Mansouri,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,5,4,3,5,Formation très intéressante et enrichissante.
+15735,19828,Wassim Gharbi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,4,3,5,5,3,"Contenu bien structuré, formateur compétent."
+15736,19917,Taoufik Ezzine,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,3,5,5,3,5,Formation très intéressante et enrichissante.
+15737,19841,Takwa Omrani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,5,4,3,3,4,"Contenu bien structuré, formateur compétent."
+15738,20264,Lobna Trabelsi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,5,3,3,5,5,"Contenu bien structuré, formateur compétent."
+15739,20387,Manel Ouali,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,3,4,4,4,"Contenu bien structuré, formateur compétent."
+15740,19863,Khadija Mansouri,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,3,5,3,3,Formation très intéressante et enrichissante.
+15741,20421,Bochra Khlif,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,5,5,4,4,5,Formation très intéressante et enrichissante.
+15742,19859,Mohamed Ghorbel,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,5,3,5,3,5,Formation très intéressante et enrichissante.
+15743,20419,Zohra Hmida,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,5,4,3,3,5,Formation très intéressante et enrichissante.
+15744,20476,Olfa Marzouki,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,4,5,5,5,"Contenu bien structuré, formateur compétent."
+15745,20122,Rania Chedly,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,4,3,3,5,4,Formation très intéressante et enrichissante.
+15746,19996,Najoua Chihaoui,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,3,5,3,5,4,"Contenu bien structuré, formateur compétent."
+15747,20558,Karima Bouaziz,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,5,3,3,3,3,Formation très intéressante et enrichissante.
+15748,19974,Moez Derbali,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,4,5,3,5,4,Formation très intéressante et enrichissante.
+15749,20510,Ahmed Hachicha,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,3,5,3,4,"Contenu bien structuré, formateur compétent."
+15750,20595,Mariam Rekik,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,5,4,3,5,5,Formation très intéressante et enrichissante.
+15751,19918,Salma Guesmi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,5,5,3,4,3,"Contenu bien structuré, formateur compétent."
+15752,20156,Mariam Mansouri,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,5,3,5,5,3,Formation très intéressante et enrichissante.
+15753,19828,Wassim Gharbi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,3,3,3,4,5,Formation très intéressante et enrichissante.
+15754,19894,Takwa Landolsi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,4,5,3,3,5,"Contenu bien structuré, formateur compétent."
+15755,19917,Taoufik Ezzine,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,4,4,3,5,3,"Contenu bien structuré, formateur compétent."
+15756,19841,Takwa Omrani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,3,3,3,5,5,"Contenu bien structuré, formateur compétent."
+15757,20264,Lobna Trabelsi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,5,5,4,3,"Contenu bien structuré, formateur compétent."
+15758,20387,Manel Ouali,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,5,5,3,5,3,Formation très intéressante et enrichissante.
+15759,20175,Hichem Neffati,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,5,5,4,3,5,"Contenu bien structuré, formateur compétent."
+15760,20403,Nesrine Chebbi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,5,5,3,4,3,"Contenu bien structuré, formateur compétent."
+15761,20498,Wael Nabli,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,4,4,4,5,Formation très intéressante et enrichissante.
+15762,20442,Zied Jouini,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,3,5,5,4,3,Formation très intéressante et enrichissante.
+15763,20476,Olfa Marzouki,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,5,4,5,5,Formation très intéressante et enrichissante.
+15764,20456,Chiraz Mejri,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,4,3,3,5,3,Formation très intéressante et enrichissante.
+15765,20152,Rami Bouslama,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,3,4,4,5,5,"Contenu bien structuré, formateur compétent."
+15766,20230,Nour Dhouib,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,3,3,4,3,4,"Contenu bien structuré, formateur compétent."
+15767,19996,Najoua Chihaoui,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,5,3,5,4,3,"Contenu bien structuré, formateur compétent."
+15768,20558,Karima Bouaziz,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,4,3,4,5,3,Formation très intéressante et enrichissante.
+15769,19913,Latifa Marzouki,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,4,3,4,3,Formation très intéressante et enrichissante.
+15770,20510,Ahmed Hachicha,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,4,5,3,4,5,"Contenu bien structuré, formateur compétent."
+15771,19918,Salma Guesmi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,5,5,3,4,5,Formation très intéressante et enrichissante.
+15772,20156,Mariam Mansouri,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,5,3,4,4,4,"Contenu bien structuré, formateur compétent."
+15773,19828,Wassim Gharbi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,3,3,3,4,5,Formation très intéressante et enrichissante.
+15774,19917,Taoufik Ezzine,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,5,4,4,4,5,Formation très intéressante et enrichissante.
+15775,19841,Takwa Omrani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,5,5,4,5,5,"Contenu bien structuré, formateur compétent."
+15776,20264,Lobna Trabelsi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,4,4,3,3,4,"Contenu bien structuré, formateur compétent."
+15777,20387,Manel Ouali,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,3,4,3,3,3,Formation très intéressante et enrichissante.
+15778,20175,Hichem Neffati,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,5,4,5,3,5,"Contenu bien structuré, formateur compétent."
+15779,20442,Zied Jouini,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,4,5,5,5,3,"Contenu bien structuré, formateur compétent."
+15780,20421,Bochra Khlif,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,4,5,4,3,5,Formation très intéressante et enrichissante.
+15781,19859,Mohamed Ghorbel,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,5,3,5,4,"Contenu bien structuré, formateur compétent."
+15782,20122,Rania Chedly,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,3,4,3,3,"Contenu bien structuré, formateur compétent."
+15783,20152,Rami Bouslama,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,3,4,4,4,5,Formation très intéressante et enrichissante.
+15784,20230,Nour Dhouib,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,4,3,4,4,5,"Contenu bien structuré, formateur compétent."
+15785,19996,Najoua Chihaoui,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,3,5,4,4,4,"Contenu bien structuré, formateur compétent."
+15786,20413,Yasmine Mejri,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,5,4,3,5,5,Formation très intéressante et enrichissante.
+15787,20558,Karima Bouaziz,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,5,4,4,3,4,"Contenu bien structuré, formateur compétent."
+15788,19893,Nabil Mabrouk,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,4,5,3,5,"Contenu bien structuré, formateur compétent."
+15789,19974,Moez Derbali,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,3,3,5,3,3,Formation très intéressante et enrichissante.
+15790,19913,Latifa Marzouki,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,4,5,3,3,5,"Contenu bien structuré, formateur compétent."
+15791,20510,Ahmed Hachicha,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,4,3,4,5,3,Formation très intéressante et enrichissante.
+15792,20595,Mariam Rekik,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,3,4,3,4,4,"Contenu bien structuré, formateur compétent."
+15793,20156,Mariam Mansouri,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,4,3,3,3,3,"Contenu bien structuré, formateur compétent."
+15794,19828,Wassim Gharbi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,3,5,3,4,5,"Contenu bien structuré, formateur compétent."
+15795,19917,Taoufik Ezzine,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,4,5,3,4,"Contenu bien structuré, formateur compétent."
+15796,19897,Fatma Kchir,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,4,3,5,3,5,Formation très intéressante et enrichissante.
+15797,20264,Lobna Trabelsi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,3,4,4,5,3,Formation très intéressante et enrichissante.
+15798,20387,Manel Ouali,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,3,3,4,3,3,Formation très intéressante et enrichissante.
+15799,20175,Hichem Neffati,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,3,5,5,5,4,"Contenu bien structuré, formateur compétent."
+15800,20498,Wael Nabli,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,5,5,3,3,5,"Contenu bien structuré, formateur compétent."
+15801,19859,Mohamed Ghorbel,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,4,3,3,5,4,"Contenu bien structuré, formateur compétent."
+15802,20419,Zohra Hmida,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,5,3,5,3,4,"Contenu bien structuré, formateur compétent."
+15803,20476,Olfa Marzouki,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,4,4,3,5,4,"Contenu bien structuré, formateur compétent."
+15804,20456,Chiraz Mejri,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,4,4,3,5,5,Formation très intéressante et enrichissante.
+15805,20152,Rami Bouslama,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,4,4,4,3,5,Formation très intéressante et enrichissante.
+15806,20230,Nour Dhouib,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,5,4,4,4,4,"Contenu bien structuré, formateur compétent."
+15807,20413,Yasmine Mejri,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,4,5,4,4,5,"Contenu bien structuré, formateur compétent."
+15808,20558,Karima Bouaziz,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,5,4,4,3,5,"Contenu bien structuré, formateur compétent."
+15809,19893,Nabil Mabrouk,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,5,5,5,3,3,"Contenu bien structuré, formateur compétent."
+15810,19974,Moez Derbali,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,3,5,5,5,3,"Contenu bien structuré, formateur compétent."
+15811,19913,Latifa Marzouki,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,4,4,3,3,3,Formation très intéressante et enrichissante.
+15812,20510,Ahmed Hachicha,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,4,4,3,3,4,Formation très intéressante et enrichissante.
+15813,19821,Ines Bouzid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,3,5,4,5,4,Formation très intéressante et enrichissante.
+15814,20003,Intissar Fatnassi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,5,4,5,4,4,"Contenu bien structuré, formateur compétent."
+15815,19665,Test Apprenant,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,4,4,3,3,4,"Contenu bien structuré, formateur compétent."
+15816,20150,Ikram Chaabane,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,5,3,5,5,3,"Contenu bien structuré, formateur compétent."
+15817,20135,Moez Bouaziz,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,5,3,4,3,5,Formation très intéressante et enrichissante.
+15818,20124,Amira Gasmi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,5,5,5,3,4,Formation très intéressante et enrichissante.
+15819,20179,Omar Jemli,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,3,5,4,5,4,Formation très intéressante et enrichissante.
+15820,20139,Sami Jemli,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,4,3,3,4,4,"Contenu bien structuré, formateur compétent."
+15821,20191,Jamel Dhouib,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,4,3,3,5,4,"Contenu bien structuré, formateur compétent."
+15822,19845,Thouraya Laabidi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,4,5,3,5,5,Formation très intéressante et enrichissante.
+15823,19841,Takwa Omrani,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,3,4,4,3,5,Formation très intéressante et enrichissante.
+15824,20075,Lobna Ghanmi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,5,4,4,4,5,"Contenu bien structuré, formateur compétent."
+15825,19820,Yosra Hachicha,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,5,4,3,4,4,"Contenu bien structuré, formateur compétent."
+15826,20255,Chedly Hajji,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,4,3,4,3,3,"Contenu bien structuré, formateur compétent."
+15827,19911,Manel Khedher,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,3,3,5,4,4,Formation très intéressante et enrichissante.
+15828,19829,Thouraya Derbali,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,4,5,4,3,4,Formation très intéressante et enrichissante.
+15829,19842,Moez Khedher,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,5,5,5,5,3,"Contenu bien structuré, formateur compétent."
+15830,20033,Rim Jazi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,3,5,3,4,5,Formation très intéressante et enrichissante.
+15831,19821,Ines Bouzid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,5,3,5,4,3,Formation très intéressante et enrichissante.
+15832,20003,Intissar Fatnassi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,5,4,3,5,4,"Contenu bien structuré, formateur compétent."
+15833,19665,Test Apprenant,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,5,5,4,5,3,Formation très intéressante et enrichissante.
+15834,20150,Ikram Chaabane,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,5,5,4,3,5,Formation très intéressante et enrichissante.
+15835,20135,Moez Bouaziz,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,3,3,3,3,5,Formation très intéressante et enrichissante.
+15836,20124,Amira Gasmi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,4,3,4,4,5,Formation très intéressante et enrichissante.
+15837,19984,Salah Chebbi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,4,5,3,5,3,"Contenu bien structuré, formateur compétent."
+15838,20139,Sami Jemli,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,3,3,4,5,4,"Contenu bien structuré, formateur compétent."
+15839,19997,Zohra Essid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,4,5,5,3,5,Formation très intéressante et enrichissante.
+15840,20075,Lobna Ghanmi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,3,5,4,3,5,Formation très intéressante et enrichissante.
+15841,20181,Marwan Bouzid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,5,5,4,3,5,"Contenu bien structuré, formateur compétent."
+15842,20112,Ines Ktari,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,3,4,3,3,3,"Contenu bien structuré, formateur compétent."
+15843,19820,Yosra Hachicha,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,4,5,5,5,4,Formation très intéressante et enrichissante.
+15844,20255,Chedly Hajji,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,5,3,5,3,5,"Contenu bien structuré, formateur compétent."
+15845,19911,Manel Khedher,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,3,5,5,5,5,Formation très intéressante et enrichissante.
+15846,19829,Thouraya Derbali,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,4,5,5,4,4,Formation très intéressante et enrichissante.
+15847,20033,Rim Jazi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,3,4,4,3,4,"Contenu bien structuré, formateur compétent."
+15848,19821,Ines Bouzid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,4,5,5,4,4,Formation très intéressante et enrichissante.
+15849,19665,Test Apprenant,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,4,4,4,5,4,Formation très intéressante et enrichissante.
+15850,19844,Emna Labidi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,5,3,4,3,4,"Contenu bien structuré, formateur compétent."
+15851,20179,Omar Jemli,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,4,3,3,4,4,"Contenu bien structuré, formateur compétent."
+15852,20191,Jamel Dhouib,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,3,4,5,5,3,"Contenu bien structuré, formateur compétent."
+15853,19845,Thouraya Laabidi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,5,3,4,3,3,"Contenu bien structuré, formateur compétent."
+15854,20173,Lobna Meddeb,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,4,5,4,4,4,Formation très intéressante et enrichissante.
+15855,20112,Ines Ktari,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,4,3,4,5,5,"Contenu bien structuré, formateur compétent."
+15856,19820,Yosra Hachicha,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,4,3,3,3,3,"Contenu bien structuré, formateur compétent."
+15857,20430,Hichem Marzouki,"ITIL 4 Strategist: Direct, Plan and Improve",4,3,3,5,4,3,Formation très intéressante et enrichissante.
+15858,20591,Mariam Hamza,"ITIL 4 Strategist: Direct, Plan and Improve",4,4,4,4,5,5,Formation très intéressante et enrichissante.
+15859,20793,Intissar Horchani,"ITIL 4 Strategist: Direct, Plan and Improve",4,5,3,4,3,4,Formation très intéressante et enrichissante.
+15860,20753,Ahlem Karoui,"ITIL 4 Strategist: Direct, Plan and Improve",5,4,5,3,5,5,Formation très intéressante et enrichissante.
+15861,20510,Ahmed Hachicha,"ITIL 4 Strategist: Direct, Plan and Improve",4,4,3,5,3,4,Formation très intéressante et enrichissante.
+15862,20334,Najoua Feriani,"ITIL 4 Strategist: Direct, Plan and Improve",4,5,5,3,3,3,Formation très intéressante et enrichissante.
+15863,20761,Rami Bouhamed,"ITIL 4 Strategist: Direct, Plan and Improve",4,4,4,5,5,5,Formation très intéressante et enrichissante.
+15864,19822,Adel Ghorbel,"ITIL 4 Strategist: Direct, Plan and Improve",4,4,4,3,4,4,"Contenu bien structuré, formateur compétent."
+15865,20750,Sonia Laabidi,"ITIL 4 Strategist: Direct, Plan and Improve",5,5,4,3,3,3,"Contenu bien structuré, formateur compétent."
+15866,19997,Zohra Essid,"ITIL 4 Strategist: Direct, Plan and Improve",5,3,5,4,3,4,"Contenu bien structuré, formateur compétent."
+15867,20343,Zied Karoui,"ITIL 4 Strategist: Direct, Plan and Improve",5,3,4,4,3,5,"Contenu bien structuré, formateur compétent."
+15868,20619,Wael Laabidi,"ITIL 4 Strategist: Direct, Plan and Improve",5,4,4,5,3,4,"Contenu bien structuré, formateur compétent."
+15869,19868,Walid Kchir,"ITIL 4 Strategist: Direct, Plan and Improve",4,4,4,5,4,3,Formation très intéressante et enrichissante.
+15870,20516,Imed Marzouki,"ITIL 4 Strategist: Direct, Plan and Improve",5,3,3,5,4,4,"Contenu bien structuré, formateur compétent."
+15871,19869,Karim Dali,"ITIL 4 Strategist: Direct, Plan and Improve",4,4,3,5,5,4,Formation très intéressante et enrichissante.
+15872,20109,Khaled Horchani,"ITIL 4 Strategist: Direct, Plan and Improve",3,5,4,3,3,4,Formation très intéressante et enrichissante.
+15873,19858,Emad Jazi,"ITIL 4 Strategist: Direct, Plan and Improve",4,4,4,3,5,4,Formation très intéressante et enrichissante.
+15874,19861,Kenza Derbali,"ITIL 4 Strategist: Direct, Plan and Improve",4,4,3,5,3,5,Formation très intéressante et enrichissante.
+15875,20190,Hana Chaabane,"ITIL 4 Strategist: Direct, Plan and Improve",3,3,4,3,3,4,Formation très intéressante et enrichissante.
+15876,20430,Hichem Marzouki,"ITIL 4 Strategist: Direct, Plan and Improve",5,5,5,5,5,5,"Contenu bien structuré, formateur compétent."
+15877,20591,Mariam Hamza,"ITIL 4 Strategist: Direct, Plan and Improve",4,3,4,3,3,5,Formation très intéressante et enrichissante.
+15878,20753,Ahlem Karoui,"ITIL 4 Strategist: Direct, Plan and Improve",5,3,3,5,3,3,Formation très intéressante et enrichissante.
+15879,20546,Ridha Hachicha,"ITIL 4 Strategist: Direct, Plan and Improve",4,3,4,4,4,5,Formation très intéressante et enrichissante.
+15880,20526,Makram Miled,"ITIL 4 Strategist: Direct, Plan and Improve",3,5,3,4,4,3,"Contenu bien structuré, formateur compétent."
+15881,20538,Ines Jouini,"ITIL 4 Strategist: Direct, Plan and Improve",5,5,5,5,4,4,Formation très intéressante et enrichissante.
+15882,20573,Yosra Bouzid,"ITIL 4 Strategist: Direct, Plan and Improve",5,3,5,4,3,3,Formation très intéressante et enrichissante.
+15883,20334,Najoua Feriani,"ITIL 4 Strategist: Direct, Plan and Improve",3,5,3,4,5,4,"Contenu bien structuré, formateur compétent."
+15884,20702,Ahmed Jazi,"ITIL 4 Strategist: Direct, Plan and Improve",3,3,3,4,3,5,Formation très intéressante et enrichissante.
+15885,20761,Rami Bouhamed,"ITIL 4 Strategist: Direct, Plan and Improve",5,4,3,5,4,3,Formation très intéressante et enrichissante.
+15886,19997,Zohra Essid,"ITIL 4 Strategist: Direct, Plan and Improve",5,4,4,4,3,3,"Contenu bien structuré, formateur compétent."
+15887,20343,Zied Karoui,"ITIL 4 Strategist: Direct, Plan and Improve",4,3,3,3,4,5,Formation très intéressante et enrichissante.
+15888,20619,Wael Laabidi,"ITIL 4 Strategist: Direct, Plan and Improve",5,3,5,3,5,3,"Contenu bien structuré, formateur compétent."
+15889,19868,Walid Kchir,"ITIL 4 Strategist: Direct, Plan and Improve",3,5,4,5,5,4,Formation très intéressante et enrichissante.
+15890,19869,Karim Dali,"ITIL 4 Strategist: Direct, Plan and Improve",5,5,5,3,5,3,Formation très intéressante et enrichissante.
+15891,19907,Emad Ezzine,"ITIL 4 Strategist: Direct, Plan and Improve",3,5,3,5,4,4,"Contenu bien structuré, formateur compétent."
+15892,20143,Olfa Hajji,"ITIL 4 Strategist: Direct, Plan and Improve",4,3,4,4,4,4,Formation très intéressante et enrichissante.
+15893,19861,Kenza Derbali,"ITIL 4 Strategist: Direct, Plan and Improve",3,5,3,4,4,4,Formation très intéressante et enrichissante.
+15894,20190,Hana Chaabane,"ITIL 4 Strategist: Direct, Plan and Improve",5,4,4,3,4,4,"Contenu bien structuré, formateur compétent."
+15895,20430,Hichem Marzouki,"ITIL 4 Strategist: Direct, Plan and Improve",5,4,3,5,4,4,"Contenu bien structuré, formateur compétent."
+15896,20591,Mariam Hamza,"ITIL 4 Strategist: Direct, Plan and Improve",4,3,3,5,5,3,"Contenu bien structuré, formateur compétent."
+15897,20726,Youssef Nasri,"ITIL 4 Strategist: Direct, Plan and Improve",3,4,4,5,5,5,Formation très intéressante et enrichissante.
+15898,20546,Ridha Hachicha,"ITIL 4 Strategist: Direct, Plan and Improve",3,3,5,4,4,4,Formation très intéressante et enrichissante.
+15899,20526,Makram Miled,"ITIL 4 Strategist: Direct, Plan and Improve",3,3,4,3,5,5,Formation très intéressante et enrichissante.
+15900,20573,Yosra Bouzid,"ITIL 4 Strategist: Direct, Plan and Improve",3,5,3,3,4,5,Formation très intéressante et enrichissante.
+15901,20334,Najoua Feriani,"ITIL 4 Strategist: Direct, Plan and Improve",3,4,4,5,4,5,Formation très intéressante et enrichissante.
+15902,20702,Ahmed Jazi,"ITIL 4 Strategist: Direct, Plan and Improve",4,4,4,5,4,5,"Contenu bien structuré, formateur compétent."
+15903,20761,Rami Bouhamed,"ITIL 4 Strategist: Direct, Plan and Improve",3,5,4,4,4,3,Formation très intéressante et enrichissante.
+15904,19822,Adel Ghorbel,"ITIL 4 Strategist: Direct, Plan and Improve",5,3,5,5,4,5,"Contenu bien structuré, formateur compétent."
+15905,19997,Zohra Essid,"ITIL 4 Strategist: Direct, Plan and Improve",3,4,4,5,3,3,Formation très intéressante et enrichissante.
+15906,20619,Wael Laabidi,"ITIL 4 Strategist: Direct, Plan and Improve",5,3,5,3,4,3,Formation très intéressante et enrichissante.
+15907,19868,Walid Kchir,"ITIL 4 Strategist: Direct, Plan and Improve",5,4,4,3,4,4,"Contenu bien structuré, formateur compétent."
+15908,20622,Chiraz Ben Ahmed,"ITIL 4 Strategist: Direct, Plan and Improve",3,5,3,5,5,3,"Contenu bien structuré, formateur compétent."
+15909,19869,Karim Dali,"ITIL 4 Strategist: Direct, Plan and Improve",3,5,5,4,5,3,Formation très intéressante et enrichissante.
+15910,20109,Khaled Horchani,"ITIL 4 Strategist: Direct, Plan and Improve",5,3,5,5,3,5,"Contenu bien structuré, formateur compétent."
+15911,19858,Emad Jazi,"ITIL 4 Strategist: Direct, Plan and Improve",5,4,5,5,4,5,Formation très intéressante et enrichissante.
+15912,19861,Kenza Derbali,"ITIL 4 Strategist: Direct, Plan and Improve",4,4,3,5,5,3,Formation très intéressante et enrichissante.
+15913,19910,Karima Landolsi,DevOps Foundation,5,4,3,3,5,4,"Contenu bien structuré, formateur compétent."
+15914,20072,Emna Layouni,DevOps Foundation,5,3,5,3,5,3,Formation très intéressante et enrichissante.
+15915,19958,Fares Karray,DevOps Foundation,5,5,5,3,3,3,"Contenu bien structuré, formateur compétent."
+15916,19829,Thouraya Derbali,DevOps Foundation,4,3,4,4,5,5,Formation très intéressante et enrichissante.
+15917,19940,Fadia Omrani,DevOps Foundation,4,3,3,3,4,3,"Contenu bien structuré, formateur compétent."
+15918,20286,Makram Chihaoui,DevOps Foundation,5,3,5,4,5,4,"Contenu bien structuré, formateur compétent."
+15919,19907,Emad Ezzine,DevOps Foundation,3,3,4,4,4,5,"Contenu bien structuré, formateur compétent."
+15920,19987,Ali Daoud,DevOps Foundation,3,3,5,5,5,4,"Contenu bien structuré, formateur compétent."
+15921,19981,Chiraz Mansouri,DevOps Foundation,4,3,5,4,3,3,Formation très intéressante et enrichissante.
+15922,20153,Sonia Guizani,DevOps Foundation,4,4,4,3,3,3,"Contenu bien structuré, formateur compétent."
+15923,19928,Chedly Daoud,DevOps Foundation,5,4,3,3,5,5,Formation très intéressante et enrichissante.
+15924,19861,Kenza Derbali,DevOps Foundation,4,3,3,5,5,5,Formation très intéressante et enrichissante.
+15925,20172,Sami Ezzine,DevOps Foundation,3,3,3,3,3,3,"Contenu bien structuré, formateur compétent."
+15926,20117,Wassim Chihaoui,DevOps Foundation,5,3,3,5,4,4,"Contenu bien structuré, formateur compétent."
+15927,19988,Rania Ktari,DevOps Foundation,3,5,3,4,4,5,Formation très intéressante et enrichissante.
+15928,20069,Nour Dridi,DevOps Foundation,4,3,4,4,4,5,"Contenu bien structuré, formateur compétent."
+15929,19831,Zouheir Limam,DevOps Foundation,4,4,3,3,4,5,"Contenu bien structuré, formateur compétent."
+15930,19910,Karima Landolsi,DevOps Foundation,3,3,3,5,5,4,Formation très intéressante et enrichissante.
+15931,20072,Emna Layouni,DevOps Foundation,3,4,3,3,4,3,Formation très intéressante et enrichissante.
+15932,19829,Thouraya Derbali,DevOps Foundation,3,4,5,5,5,5,Formation très intéressante et enrichissante.
+15933,19948,Ghazi Hmida,DevOps Foundation,5,3,3,5,3,4,"Contenu bien structuré, formateur compétent."
+15934,20142,Emna Gabsi,DevOps Foundation,3,5,3,3,5,4,Formation très intéressante et enrichissante.
+15935,19907,Emad Ezzine,DevOps Foundation,3,5,5,4,3,5,Formation très intéressante et enrichissante.
+15936,19922,Lamia Mahjoub,DevOps Foundation,5,3,4,4,3,5,"Contenu bien structuré, formateur compétent."
+15937,19970,Khadija Meddeb,DevOps Foundation,3,4,5,3,3,5,"Contenu bien structuré, formateur compétent."
+15938,19997,Zohra Essid,DevOps Foundation,4,5,5,4,4,4,Formation très intéressante et enrichissante.
+15939,20153,Sonia Guizani,DevOps Foundation,5,4,4,5,5,3,Formation très intéressante et enrichissante.
+15940,19861,Kenza Derbali,DevOps Foundation,3,5,3,3,3,5,Formation très intéressante et enrichissante.
+15941,20172,Sami Ezzine,DevOps Foundation,4,3,4,4,5,3,Formation très intéressante et enrichissante.
+15942,20117,Wassim Chihaoui,DevOps Foundation,5,5,5,5,5,4,Formation très intéressante et enrichissante.
+15943,19848,Thouraya Ktari,DevOps Foundation,4,3,4,5,5,3,Formation très intéressante et enrichissante.
+15944,19988,Rania Ktari,DevOps Foundation,3,3,3,3,4,4,Formation très intéressante et enrichissante.
+15945,20069,Nour Dridi,DevOps Foundation,4,4,5,5,4,3,"Contenu bien structuré, formateur compétent."
+15946,20083,Sabrine Bouaziz,DevOps Foundation,5,4,5,3,4,4,Formation très intéressante et enrichissante.
+16235,20350,Sabrine Dali,Scrum Master Certified,5,4,3,5,5,3,"Contenu bien structuré, formateur compétent."
+15947,20072,Emna Layouni,DevOps Foundation,4,4,4,3,3,4,Formation très intéressante et enrichissante.
+15948,19829,Thouraya Derbali,DevOps Foundation,4,4,3,3,5,3,"Contenu bien structuré, formateur compétent."
+15949,19948,Ghazi Hmida,DevOps Foundation,4,3,3,4,4,4,Formation très intéressante et enrichissante.
+15950,19940,Fadia Omrani,DevOps Foundation,4,3,4,5,5,5,"Contenu bien structuré, formateur compétent."
+15951,20286,Makram Chihaoui,DevOps Foundation,4,4,5,4,3,3,"Contenu bien structuré, formateur compétent."
+15952,20142,Emna Gabsi,DevOps Foundation,5,3,4,3,4,5,"Contenu bien structuré, formateur compétent."
+15953,19907,Emad Ezzine,DevOps Foundation,5,5,4,4,3,3,"Contenu bien structuré, formateur compétent."
+15954,19922,Lamia Mahjoub,DevOps Foundation,5,3,5,5,5,4,"Contenu bien structuré, formateur compétent."
+15955,19970,Khadija Meddeb,DevOps Foundation,3,4,4,3,3,5,Formation très intéressante et enrichissante.
+15956,19997,Zohra Essid,DevOps Foundation,4,4,5,5,5,3,"Contenu bien structuré, formateur compétent."
+15957,19996,Najoua Chihaoui,DevOps Foundation,4,3,3,5,5,5,"Contenu bien structuré, formateur compétent."
+15958,20153,Sonia Guizani,DevOps Foundation,5,4,5,5,4,5,Formation très intéressante et enrichissante.
+15959,19928,Chedly Daoud,DevOps Foundation,4,3,3,4,5,3,Formation très intéressante et enrichissante.
+15960,19861,Kenza Derbali,DevOps Foundation,5,4,3,3,4,5,"Contenu bien structuré, formateur compétent."
+15961,20172,Sami Ezzine,DevOps Foundation,3,3,3,3,3,3,"Contenu bien structuré, formateur compétent."
+15962,19848,Thouraya Ktari,DevOps Foundation,4,4,5,4,5,4,Formation très intéressante et enrichissante.
+15963,19988,Rania Ktari,DevOps Foundation,5,5,5,4,4,4,"Contenu bien structuré, formateur compétent."
+15964,20069,Nour Dridi,DevOps Foundation,3,3,5,4,3,5,"Contenu bien structuré, formateur compétent."
+15965,20083,Sabrine Bouaziz,DevOps Foundation,4,3,3,4,5,4,Formation très intéressante et enrichissante.
+15966,19831,Zouheir Limam,DevOps Foundation,4,5,4,4,5,4,"Contenu bien structuré, formateur compétent."
+15967,19910,Karima Landolsi,DevOps Foundation,4,5,3,4,3,5,Formation très intéressante et enrichissante.
+15968,20588,Zohra Dridi,DevOps Foundation,5,5,5,5,4,3,Formation très intéressante et enrichissante.
+15969,20072,Emna Layouni,DevOps Foundation,4,4,5,3,4,4,"Contenu bien structuré, formateur compétent."
+15970,19958,Fares Karray,DevOps Foundation,3,5,5,3,3,5,"Contenu bien structuré, formateur compétent."
+15971,19829,Thouraya Derbali,DevOps Foundation,4,4,5,4,5,5,"Contenu bien structuré, formateur compétent."
+15972,20286,Makram Chihaoui,DevOps Foundation,5,3,5,3,4,4,"Contenu bien structuré, formateur compétent."
+15973,20000,Slim Louati,DevOps Foundation,4,4,3,4,3,4,Formation très intéressante et enrichissante.
+15974,20142,Emna Gabsi,DevOps Foundation,5,4,3,4,5,3,"Contenu bien structuré, formateur compétent."
+15975,19907,Emad Ezzine,DevOps Foundation,5,5,3,5,5,5,"Contenu bien structuré, formateur compétent."
+15976,19922,Lamia Mahjoub,DevOps Foundation,3,4,5,5,3,5,Formation très intéressante et enrichissante.
+15977,19987,Ali Daoud,DevOps Foundation,3,4,3,3,3,4,Formation très intéressante et enrichissante.
+15978,19996,Najoua Chihaoui,DevOps Foundation,3,3,4,3,3,3,"Contenu bien structuré, formateur compétent."
+15979,19981,Chiraz Mansouri,DevOps Foundation,5,5,5,3,4,5,"Contenu bien structuré, formateur compétent."
+15980,20153,Sonia Guizani,DevOps Foundation,3,5,5,3,5,3,Formation très intéressante et enrichissante.
+15981,19861,Kenza Derbali,DevOps Foundation,3,3,4,3,4,4,"Contenu bien structuré, formateur compétent."
+15982,20172,Sami Ezzine,DevOps Foundation,3,5,5,4,5,4,"Contenu bien structuré, formateur compétent."
+15983,19848,Thouraya Ktari,DevOps Foundation,3,3,4,5,3,5,"Contenu bien structuré, formateur compétent."
+15984,19988,Rania Ktari,DevOps Foundation,4,5,5,5,5,5,Formation très intéressante et enrichissante.
+15985,20083,Sabrine Bouaziz,DevOps Foundation,5,5,4,4,3,5,Formation très intéressante et enrichissante.
+15986,19831,Zouheir Limam,DevOps Foundation,3,3,4,3,3,5,"Contenu bien structuré, formateur compétent."
+15987,20328,Hatem Layouni,AWS Certified Solutions Architect - Associate,3,3,4,3,5,4,Formation très intéressante et enrichissante.
+15988,20688,Dorsaf Laabidi,AWS Certified Solutions Architect - Associate,3,4,5,3,5,3,"Contenu bien structuré, formateur compétent."
+15989,20353,Ghada Hassen,AWS Certified Solutions Architect - Associate,4,4,3,3,3,4,Formation très intéressante et enrichissante.
+15990,20425,Moez Karoui,AWS Certified Solutions Architect - Associate,4,4,3,3,3,5,Formation très intéressante et enrichissante.
+15991,20384,Wided Hmida,AWS Certified Solutions Architect - Associate,5,4,5,5,4,4,Formation très intéressante et enrichissante.
+15992,20405,Intissar Mahjoub,AWS Certified Solutions Architect - Associate,4,4,4,4,3,4,Formation très intéressante et enrichissante.
+15993,20360,Thouraya Mejri,AWS Certified Solutions Architect - Associate,4,4,5,5,5,3,Formation très intéressante et enrichissante.
+15994,20368,Jamel Hadj,AWS Certified Solutions Architect - Associate,4,4,5,3,5,5,Formation très intéressante et enrichissante.
+15995,20343,Zied Karoui,AWS Certified Solutions Architect - Associate,4,4,5,3,5,3,"Contenu bien structuré, formateur compétent."
+15996,20366,Takwa Bouaziz,AWS Certified Solutions Architect - Associate,3,3,3,3,5,5,"Contenu bien structuré, formateur compétent."
+15997,20433,Noureddine Maaloul,AWS Certified Solutions Architect - Associate,5,5,5,3,3,4,Formation très intéressante et enrichissante.
+15998,20328,Hatem Layouni,AWS Certified Solutions Architect - Associate,4,4,3,4,5,5,Formation très intéressante et enrichissante.
+15999,20688,Dorsaf Laabidi,AWS Certified Solutions Architect - Associate,3,5,4,3,4,4,"Contenu bien structuré, formateur compétent."
+16000,20353,Ghada Hassen,AWS Certified Solutions Architect - Associate,3,5,4,3,4,3,Formation très intéressante et enrichissante.
+16001,20425,Moez Karoui,AWS Certified Solutions Architect - Associate,3,3,5,5,5,4,Formation très intéressante et enrichissante.
+16002,20322,Salma Hachicha,AWS Certified Solutions Architect - Associate,4,3,3,5,4,3,"Contenu bien structuré, formateur compétent."
+16003,20426,Kais Chaieb,AWS Certified Solutions Architect - Associate,5,3,4,3,4,3,Formation très intéressante et enrichissante.
+16004,20384,Wided Hmida,AWS Certified Solutions Architect - Associate,5,3,3,5,4,3,"Contenu bien structuré, formateur compétent."
+16005,20405,Intissar Mahjoub,AWS Certified Solutions Architect - Associate,5,5,4,5,3,4,Formation très intéressante et enrichissante.
+16006,20360,Thouraya Mejri,AWS Certified Solutions Architect - Associate,3,3,4,3,3,4,"Contenu bien structuré, formateur compétent."
+16007,20368,Jamel Hadj,AWS Certified Solutions Architect - Associate,5,5,5,5,5,5,Formation très intéressante et enrichissante.
+16008,20343,Zied Karoui,AWS Certified Solutions Architect - Associate,4,3,3,4,3,3,Formation très intéressante et enrichissante.
+16009,20366,Takwa Bouaziz,AWS Certified Solutions Architect - Associate,3,5,3,5,3,3,"Contenu bien structuré, formateur compétent."
+16010,20433,Noureddine Maaloul,AWS Certified Solutions Architect - Associate,4,3,5,5,4,3,Formation très intéressante et enrichissante.
+16011,20328,Hatem Layouni,AWS Certified Solutions Architect - Associate,3,4,4,3,5,4,"Contenu bien structuré, formateur compétent."
+16012,20688,Dorsaf Laabidi,AWS Certified Solutions Architect - Associate,5,4,4,5,3,3,Formation très intéressante et enrichissante.
+16013,20391,Tarek Ghorbel,AWS Certified Solutions Architect - Associate,3,5,5,5,5,3,Formation très intéressante et enrichissante.
+16014,20353,Ghada Hassen,AWS Certified Solutions Architect - Associate,3,5,3,3,5,5,Formation très intéressante et enrichissante.
+16015,20321,Taoufik Hleli,AWS Certified Solutions Architect - Associate,3,4,3,3,4,5,Formation très intéressante et enrichissante.
+16016,20322,Salma Hachicha,AWS Certified Solutions Architect - Associate,5,5,5,3,4,4,Formation très intéressante et enrichissante.
+16017,20384,Wided Hmida,AWS Certified Solutions Architect - Associate,4,4,3,4,5,3,Formation très intéressante et enrichissante.
+16018,20405,Intissar Mahjoub,AWS Certified Solutions Architect - Associate,3,4,4,5,5,4,Formation très intéressante et enrichissante.
+16019,20360,Thouraya Mejri,AWS Certified Solutions Architect - Associate,4,4,4,3,3,3,Formation très intéressante et enrichissante.
+16020,20368,Jamel Hadj,AWS Certified Solutions Architect - Associate,4,3,4,4,4,5,"Contenu bien structuré, formateur compétent."
+16021,20343,Zied Karoui,AWS Certified Solutions Architect - Associate,5,3,4,3,5,4,"Contenu bien structuré, formateur compétent."
+16022,20349,Sofiane Hamza,AWS Certified Solutions Architect - Associate,4,5,4,3,3,5,"Contenu bien structuré, formateur compétent."
+16023,20433,Noureddine Maaloul,AWS Certified Solutions Architect - Associate,3,4,3,3,3,4,Formation très intéressante et enrichissante.
+16024,20328,Hatem Layouni,AWS Certified Solutions Architect - Associate,5,5,3,4,4,4,Formation très intéressante et enrichissante.
+16025,20688,Dorsaf Laabidi,AWS Certified Solutions Architect - Associate,4,5,4,5,5,3,"Contenu bien structuré, formateur compétent."
+16026,20391,Tarek Ghorbel,AWS Certified Solutions Architect - Associate,4,5,3,3,4,5,Formation très intéressante et enrichissante.
+16027,20321,Taoufik Hleli,AWS Certified Solutions Architect - Associate,3,5,3,5,5,3,Formation très intéressante et enrichissante.
+16028,20426,Kais Chaieb,AWS Certified Solutions Architect - Associate,5,5,3,3,4,5,Formation très intéressante et enrichissante.
+16029,20384,Wided Hmida,AWS Certified Solutions Architect - Associate,5,3,3,5,4,4,"Contenu bien structuré, formateur compétent."
+16030,20405,Intissar Mahjoub,AWS Certified Solutions Architect - Associate,3,4,5,5,3,3,Formation très intéressante et enrichissante.
+16031,20360,Thouraya Mejri,AWS Certified Solutions Architect - Associate,5,5,4,3,3,4,Formation très intéressante et enrichissante.
+16032,20368,Jamel Hadj,AWS Certified Solutions Architect - Associate,4,3,5,4,4,5,Formation très intéressante et enrichissante.
+16033,20343,Zied Karoui,AWS Certified Solutions Architect - Associate,5,3,4,4,5,5,Formation très intéressante et enrichissante.
+16034,20366,Takwa Bouaziz,AWS Certified Solutions Architect - Associate,4,5,5,4,4,3,Formation très intéressante et enrichissante.
+16035,20433,Noureddine Maaloul,AWS Certified Solutions Architect - Associate,3,4,3,4,4,4,"Contenu bien structuré, formateur compétent."
+16036,20328,Hatem Layouni,AWS Certified Solutions Architect - Associate,3,5,5,5,5,5,Formation très intéressante et enrichissante.
+16037,20391,Tarek Ghorbel,AWS Certified Solutions Architect - Associate,3,5,3,4,3,3,Formation très intéressante et enrichissante.
+16038,20425,Moez Karoui,AWS Certified Solutions Architect - Associate,5,3,5,3,3,4,"Contenu bien structuré, formateur compétent."
+16039,20322,Salma Hachicha,AWS Certified Solutions Architect - Associate,3,5,5,3,3,5,Formation très intéressante et enrichissante.
+16040,20384,Wided Hmida,AWS Certified Solutions Architect - Associate,3,5,5,5,3,4,"Contenu bien structuré, formateur compétent."
+16041,20405,Intissar Mahjoub,AWS Certified Solutions Architect - Associate,3,4,4,3,4,4,Formation très intéressante et enrichissante.
+16042,20343,Zied Karoui,AWS Certified Solutions Architect - Associate,5,3,5,5,3,3,Formation très intéressante et enrichissante.
+16043,20366,Takwa Bouaziz,AWS Certified Solutions Architect - Associate,3,3,4,3,5,5,Formation très intéressante et enrichissante.
+16044,20717,Moncef Labidi,Microsoft Azure Administrator,4,3,5,3,5,5,Formation très intéressante et enrichissante.
+16045,20320,Aymen Kchir,Microsoft Azure Administrator,3,5,5,3,4,5,"Contenu bien structuré, formateur compétent."
+16046,20225,Marwan Chaieb,Microsoft Azure Administrator,3,3,4,3,3,3,Formation très intéressante et enrichissante.
+16047,20205,Najoua Omrani,Microsoft Azure Administrator,3,3,4,5,4,4,"Contenu bien structuré, formateur compétent."
+16048,20197,Rania Jemli,Microsoft Azure Administrator,5,3,5,5,4,5,Formation très intéressante et enrichissante.
+16049,20310,Marwan Marzouki,Microsoft Azure Administrator,3,4,5,3,3,5,Formation très intéressante et enrichissante.
+16050,20221,Hedi Karoui,Microsoft Azure Administrator,3,5,4,3,5,3,"Contenu bien structuré, formateur compétent."
+16051,20319,Manel Bouaziz,Microsoft Azure Administrator,4,4,5,3,4,3,Formation très intéressante et enrichissante.
+16052,20350,Sabrine Dali,Microsoft Azure Administrator,3,5,4,5,4,3,Formation très intéressante et enrichissante.
+16053,20377,Sonia Louati,Microsoft Azure Administrator,5,5,4,5,3,3,Formation très intéressante et enrichissante.
+16054,20373,Kenza Mrad,Microsoft Azure Administrator,4,5,3,5,5,3,Formation très intéressante et enrichissante.
+16055,20471,Amel Mansouri,Microsoft Azure Administrator,5,3,5,5,5,3,Formation très intéressante et enrichissante.
+16056,20460,Maroua Ghorbel,Microsoft Azure Administrator,3,5,3,5,3,4,Formation très intéressante et enrichissante.
+16057,20467,Taoufik Ben Ahmed,Microsoft Azure Administrator,5,4,5,3,4,4,Formation très intéressante et enrichissante.
+16058,20482,Emna Feriani,Microsoft Azure Administrator,5,4,5,3,3,3,"Contenu bien structuré, formateur compétent."
+16059,20242,Ridha Mansouri,Microsoft Azure Administrator,4,3,5,3,3,5,"Contenu bien structuré, formateur compétent."
+16060,19989,Sofiane Bouhamed,Microsoft Azure Administrator,4,5,5,4,5,5,"Contenu bien structuré, formateur compétent."
+16061,20271,Amira Hajji,Microsoft Azure Administrator,5,4,3,5,3,3,"Contenu bien structuré, formateur compétent."
+16062,20717,Moncef Labidi,Microsoft Azure Administrator,3,5,3,5,4,3,"Contenu bien structuré, formateur compétent."
+16063,20225,Marwan Chaieb,Microsoft Azure Administrator,5,5,5,5,4,4,"Contenu bien structuré, formateur compétent."
+16064,20205,Najoua Omrani,Microsoft Azure Administrator,5,4,5,3,5,5,"Contenu bien structuré, formateur compétent."
+16065,20221,Hedi Karoui,Microsoft Azure Administrator,3,5,5,5,4,5,"Contenu bien structuré, formateur compétent."
+16066,20350,Sabrine Dali,Microsoft Azure Administrator,4,5,5,5,3,5,Formation très intéressante et enrichissante.
+16067,20564,Noureddine Daoud,Microsoft Azure Administrator,5,5,5,5,3,4,"Contenu bien structuré, formateur compétent."
+16068,20377,Sonia Louati,Microsoft Azure Administrator,4,3,5,4,4,3,"Contenu bien structuré, formateur compétent."
+16069,20373,Kenza Mrad,Microsoft Azure Administrator,5,5,4,5,5,3,Formation très intéressante et enrichissante.
+16070,20269,Besma Dridi,Microsoft Azure Administrator,4,4,5,3,4,4,"Contenu bien structuré, formateur compétent."
+16071,20471,Amel Mansouri,Microsoft Azure Administrator,3,4,3,3,3,4,"Contenu bien structuré, formateur compétent."
+16072,20460,Maroua Ghorbel,Microsoft Azure Administrator,5,4,4,3,5,5,Formation très intéressante et enrichissante.
+16073,20467,Taoufik Ben Ahmed,Microsoft Azure Administrator,3,5,4,4,3,3,"Contenu bien structuré, formateur compétent."
+16074,20242,Ridha Mansouri,Microsoft Azure Administrator,4,4,3,3,4,3,Formation très intéressante et enrichissante.
+16075,20454,Karim Louati,Microsoft Azure Administrator,3,3,3,4,3,3,"Contenu bien structuré, formateur compétent."
+16076,20271,Amira Hajji,Microsoft Azure Administrator,4,5,4,4,4,4,"Contenu bien structuré, formateur compétent."
+16077,20717,Moncef Labidi,Microsoft Azure Administrator,4,5,3,4,4,5,Formation très intéressante et enrichissante.
+16078,20225,Marwan Chaieb,Microsoft Azure Administrator,5,3,3,3,4,3,"Contenu bien structuré, formateur compétent."
+16079,20197,Rania Jemli,Microsoft Azure Administrator,3,5,4,5,4,4,Formation très intéressante et enrichissante.
+16080,20310,Marwan Marzouki,Microsoft Azure Administrator,3,5,3,5,4,3,"Contenu bien structuré, formateur compétent."
+16081,20221,Hedi Karoui,Microsoft Azure Administrator,4,3,5,4,3,3,Formation très intéressante et enrichissante.
+16082,20319,Manel Bouaziz,Microsoft Azure Administrator,3,5,4,4,5,4,"Contenu bien structuré, formateur compétent."
+16083,20350,Sabrine Dali,Microsoft Azure Administrator,3,3,3,3,5,5,Formation très intéressante et enrichissante.
+16084,20564,Noureddine Daoud,Microsoft Azure Administrator,3,4,5,5,5,3,Formation très intéressante et enrichissante.
+16085,20377,Sonia Louati,Microsoft Azure Administrator,3,3,5,3,4,4,"Contenu bien structuré, formateur compétent."
+16086,20453,Takwa Jelassi,Microsoft Azure Administrator,3,5,3,3,3,5,Formation très intéressante et enrichissante.
+16087,20269,Besma Dridi,Microsoft Azure Administrator,4,4,5,4,4,4,"Contenu bien structuré, formateur compétent."
+16088,20471,Amel Mansouri,Microsoft Azure Administrator,3,4,4,3,5,3,"Contenu bien structuré, formateur compétent."
+16089,20460,Maroua Ghorbel,Microsoft Azure Administrator,4,4,4,3,4,5,"Contenu bien structuré, formateur compétent."
+16090,20467,Taoufik Ben Ahmed,Microsoft Azure Administrator,5,3,4,3,5,4,"Contenu bien structuré, formateur compétent."
+16091,20482,Emna Feriani,Microsoft Azure Administrator,5,3,5,4,3,5,"Contenu bien structuré, formateur compétent."
+16092,19989,Sofiane Bouhamed,Microsoft Azure Administrator,5,4,3,5,3,3,"Contenu bien structuré, formateur compétent."
+16093,20271,Amira Hajji,Microsoft Azure Administrator,3,4,3,4,3,5,Formation très intéressante et enrichissante.
+16094,19834,Najoua Neffati,Google Cloud Professional Cloud Architect,3,5,3,4,4,5,Formation très intéressante et enrichissante.
+16095,20263,Zohra Meddeb,Google Cloud Professional Cloud Architect,5,4,3,4,3,4,"Contenu bien structuré, formateur compétent."
+16096,20174,Salah Neffati,Google Cloud Professional Cloud Architect,5,3,3,4,3,3,Formation très intéressante et enrichissante.
+16097,20136,Nabil Gasmi,Google Cloud Professional Cloud Architect,4,5,5,4,4,4,Formation très intéressante et enrichissante.
+16098,19984,Salah Chebbi,Google Cloud Professional Cloud Architect,5,4,3,4,5,3,"Contenu bien structuré, formateur compétent."
+16099,19961,Farouk Gabsi,Google Cloud Professional Cloud Architect,4,3,3,3,3,3,"Contenu bien structuré, formateur compétent."
+16100,20070,Karim Mestiri,Google Cloud Professional Cloud Architect,3,5,5,5,4,4,Formation très intéressante et enrichissante.
+16101,20096,Hiba Hassen,Google Cloud Professional Cloud Architect,5,5,5,3,5,5,"Contenu bien structuré, formateur compétent."
+16102,19949,Ali Nabli,Google Cloud Professional Cloud Architect,5,3,4,5,3,5,"Contenu bien structuré, formateur compétent."
+16103,20004,Marwan Rekik,Google Cloud Professional Cloud Architect,5,3,4,3,4,5,Formation très intéressante et enrichissante.
+16104,19955,Samia Chaabane,Google Cloud Professional Cloud Architect,4,5,3,4,3,3,Formation très intéressante et enrichissante.
+16105,20092,Hichem Kchir,Google Cloud Professional Cloud Architect,4,5,5,5,5,3,Formation très intéressante et enrichissante.
+16106,20189,Sami Jazi,Google Cloud Professional Cloud Architect,5,3,5,3,3,3,Formation très intéressante et enrichissante.
+16107,19971,Bochra Kchir,Google Cloud Professional Cloud Architect,4,5,3,4,3,3,"Contenu bien structuré, formateur compétent."
+16108,20527,Latifa Essid,Google Cloud Professional Cloud Architect,5,5,4,3,5,4,Formation très intéressante et enrichissante.
+16109,19834,Najoua Neffati,Google Cloud Professional Cloud Architect,5,3,4,4,4,3,Formation très intéressante et enrichissante.
+16110,20172,Sami Ezzine,Google Cloud Professional Cloud Architect,5,5,3,5,5,3,Formation très intéressante et enrichissante.
+16111,19984,Salah Chebbi,Google Cloud Professional Cloud Architect,4,4,3,3,3,3,Formation très intéressante et enrichissante.
+16112,19961,Farouk Gabsi,Google Cloud Professional Cloud Architect,3,5,5,3,3,3,"Contenu bien structuré, formateur compétent."
+16113,20096,Hiba Hassen,Google Cloud Professional Cloud Architect,5,3,3,3,4,4,"Contenu bien structuré, formateur compétent."
+16114,20004,Marwan Rekik,Google Cloud Professional Cloud Architect,5,5,5,5,3,3,Formation très intéressante et enrichissante.
+16115,19955,Samia Chaabane,Google Cloud Professional Cloud Architect,3,3,3,4,5,5,Formation très intéressante et enrichissante.
+16116,20092,Hichem Kchir,Google Cloud Professional Cloud Architect,3,4,3,4,4,3,"Contenu bien structuré, formateur compétent."
+16117,19997,Zohra Essid,Google Cloud Professional Cloud Architect,3,3,5,3,5,4,Formation très intéressante et enrichissante.
+16118,20078,Tarek Mestiri,Google Cloud Professional Cloud Architect,4,4,3,3,4,3,Formation très intéressante et enrichissante.
+16119,19985,Rami Omrani,Google Cloud Professional Cloud Architect,3,5,5,3,3,5,Formation très intéressante et enrichissante.
+16120,20072,Emna Layouni,Google Cloud Professional Cloud Architect,5,5,5,4,5,4,Formation très intéressante et enrichissante.
+16121,20527,Latifa Essid,Google Cloud Professional Cloud Architect,4,5,3,4,4,5,"Contenu bien structuré, formateur compétent."
+16122,19834,Najoua Neffati,Google Cloud Professional Cloud Architect,4,4,4,3,4,3,Formation très intéressante et enrichissante.
+16123,20263,Zohra Meddeb,Google Cloud Professional Cloud Architect,5,3,4,4,4,4,Formation très intéressante et enrichissante.
+16124,20007,Mehdi Landolsi,Google Cloud Professional Cloud Architect,3,3,5,4,3,3,Formation très intéressante et enrichissante.
+16125,20172,Sami Ezzine,Google Cloud Professional Cloud Architect,3,3,3,4,4,5,"Contenu bien structuré, formateur compétent."
+16126,20136,Nabil Gasmi,Google Cloud Professional Cloud Architect,4,3,5,3,4,3,Formation très intéressante et enrichissante.
+16127,19950,Ghada Hamza,Google Cloud Professional Cloud Architect,3,4,5,4,5,5,Formation très intéressante et enrichissante.
+16128,19984,Salah Chebbi,Google Cloud Professional Cloud Architect,4,4,3,3,3,3,Formation très intéressante et enrichissante.
+16129,19961,Farouk Gabsi,Google Cloud Professional Cloud Architect,4,4,3,3,4,5,"Contenu bien structuré, formateur compétent."
+16130,20070,Karim Mestiri,Google Cloud Professional Cloud Architect,3,5,5,4,3,4,Formation très intéressante et enrichissante.
+16131,19978,Yosra Bouaziz,Google Cloud Professional Cloud Architect,4,3,3,5,3,3,"Contenu bien structuré, formateur compétent."
+16132,20086,Hatem Chaabane,Google Cloud Professional Cloud Architect,3,5,5,4,4,5,"Contenu bien structuré, formateur compétent."
+16133,20092,Hichem Kchir,Google Cloud Professional Cloud Architect,3,4,3,5,4,4,Formation très intéressante et enrichissante.
+16134,19997,Zohra Essid,Google Cloud Professional Cloud Architect,4,3,4,5,4,5,Formation très intéressante et enrichissante.
+16135,20189,Sami Jazi,Google Cloud Professional Cloud Architect,3,3,5,4,3,4,"Contenu bien structuré, formateur compétent."
+16136,19971,Bochra Kchir,Google Cloud Professional Cloud Architect,5,3,4,5,4,5,Formation très intéressante et enrichissante.
+16477,19898,Yasmine Chedly,Intelligence Artificielle pour managers,5,4,3,4,4,4,Formation très intéressante et enrichissante.
+16137,19985,Rami Omrani,Google Cloud Professional Cloud Architect,5,5,3,5,3,4,Formation très intéressante et enrichissante.
+16138,20527,Latifa Essid,Google Cloud Professional Cloud Architect,4,5,3,3,5,3,"Contenu bien structuré, formateur compétent."
+16139,19834,Najoua Neffati,Google Cloud Professional Cloud Architect,5,4,3,3,5,5,"Contenu bien structuré, formateur compétent."
+16140,20263,Zohra Meddeb,Google Cloud Professional Cloud Architect,3,4,5,3,3,3,Formation très intéressante et enrichissante.
+16141,20174,Salah Neffati,Google Cloud Professional Cloud Architect,4,3,4,5,4,3,"Contenu bien structuré, formateur compétent."
+16142,20136,Nabil Gasmi,Google Cloud Professional Cloud Architect,3,4,3,3,4,3,Formation très intéressante et enrichissante.
+16143,19950,Ghada Hamza,Google Cloud Professional Cloud Architect,3,3,5,5,4,4,"Contenu bien structuré, formateur compétent."
+16144,19984,Salah Chebbi,Google Cloud Professional Cloud Architect,3,4,3,3,3,3,"Contenu bien structuré, formateur compétent."
+16145,20070,Karim Mestiri,Google Cloud Professional Cloud Architect,5,3,3,3,5,3,Formation très intéressante et enrichissante.
+16146,20096,Hiba Hassen,Google Cloud Professional Cloud Architect,4,3,5,4,4,4,Formation très intéressante et enrichissante.
+16147,19949,Ali Nabli,Google Cloud Professional Cloud Architect,3,4,3,4,5,3,"Contenu bien structuré, formateur compétent."
+16148,19955,Samia Chaabane,Google Cloud Professional Cloud Architect,3,4,3,4,4,5,Formation très intéressante et enrichissante.
+16149,20086,Hatem Chaabane,Google Cloud Professional Cloud Architect,5,4,4,4,3,5,"Contenu bien structuré, formateur compétent."
+16150,20092,Hichem Kchir,Google Cloud Professional Cloud Architect,3,4,3,5,4,4,"Contenu bien structuré, formateur compétent."
+16151,19997,Zohra Essid,Google Cloud Professional Cloud Architect,5,3,5,4,4,5,"Contenu bien structuré, formateur compétent."
+16152,19832,Hana Laabidi,Google Cloud Professional Cloud Architect,3,3,3,3,5,5,Formation très intéressante et enrichissante.
+16153,19985,Rami Omrani,Google Cloud Professional Cloud Architect,3,4,5,3,3,3,Formation très intéressante et enrichissante.
+16154,20282,Adel Layouni,Scrum Master Certified,3,3,3,5,5,3,Formation très intéressante et enrichissante.
+16155,20398,Intissar Horchani,Scrum Master Certified,5,5,4,5,4,4,Formation très intéressante et enrichissante.
+16156,20727,Marwan Fourati,Scrum Master Certified,3,5,4,5,4,5,Formation très intéressante et enrichissante.
+16157,20470,Ghada Khedher,Scrum Master Certified,3,5,3,3,5,5,"Contenu bien structuré, formateur compétent."
+16158,20385,Farouk Horchani,Scrum Master Certified,3,4,3,3,3,5,Formation très intéressante et enrichissante.
+16159,20412,Chedly Rekik,Scrum Master Certified,4,5,4,5,5,3,"Contenu bien structuré, formateur compétent."
+16160,20389,Ali Hmida,Scrum Master Certified,3,3,4,4,3,4,Formation très intéressante et enrichissante.
+16161,20322,Salma Hachicha,Scrum Master Certified,5,3,5,3,4,5,"Contenu bien structuré, formateur compétent."
+16162,20417,Ridha Trabelsi,Scrum Master Certified,3,3,4,5,5,4,"Contenu bien structuré, formateur compétent."
+16163,20371,Jihene Hmida,Scrum Master Certified,5,3,4,5,3,4,Formation très intéressante et enrichissante.
+16164,20383,Hedi Gasmi,Scrum Master Certified,4,5,5,3,3,5,Formation très intéressante et enrichissante.
+16165,20351,Chedly Layouni,Scrum Master Certified,5,5,5,4,3,4,Formation très intéressante et enrichissante.
+16166,20339,Amel Landolsi,Scrum Master Certified,4,5,4,5,4,3,Formation très intéressante et enrichissante.
+16167,20337,Latifa Neffati,Scrum Master Certified,5,4,5,5,4,4,"Contenu bien structuré, formateur compétent."
+16168,20323,Khaled Karray,Scrum Master Certified,4,4,3,5,3,3,Formation très intéressante et enrichissante.
+16169,20338,Myriam Gasmi,Scrum Master Certified,3,3,5,4,3,5,Formation très intéressante et enrichissante.
+16170,20398,Intissar Horchani,Scrum Master Certified,4,3,4,4,3,5,Formation très intéressante et enrichissante.
+16171,20727,Marwan Fourati,Scrum Master Certified,3,5,3,3,5,4,"Contenu bien structuré, formateur compétent."
+16172,20470,Ghada Khedher,Scrum Master Certified,4,4,3,5,3,4,"Contenu bien structuré, formateur compétent."
+16173,20385,Farouk Horchani,Scrum Master Certified,3,5,5,5,3,3,Formation très intéressante et enrichissante.
+16174,20345,Fethi Mestiri,Scrum Master Certified,5,3,3,4,3,3,"Contenu bien structuré, formateur compétent."
+16175,20373,Kenza Mrad,Scrum Master Certified,4,5,4,4,5,4,"Contenu bien structuré, formateur compétent."
+16176,20412,Chedly Rekik,Scrum Master Certified,5,3,4,5,4,4,"Contenu bien structuré, formateur compétent."
+16177,20389,Ali Hmida,Scrum Master Certified,4,3,3,4,3,5,Formation très intéressante et enrichissante.
+16178,20322,Salma Hachicha,Scrum Master Certified,4,3,5,3,4,3,"Contenu bien structuré, formateur compétent."
+16179,20375,Ahmed Laabidi,Scrum Master Certified,5,5,4,4,3,4,"Contenu bien structuré, formateur compétent."
+16180,20438,Farah Ben Ahmed,Scrum Master Certified,4,4,4,3,3,5,"Contenu bien structuré, formateur compétent."
+16181,20383,Hedi Gasmi,Scrum Master Certified,3,4,5,5,4,4,Formation très intéressante et enrichissante.
+16182,20351,Chedly Layouni,Scrum Master Certified,3,4,3,3,5,3,"Contenu bien structuré, formateur compétent."
+16183,20337,Latifa Neffati,Scrum Master Certified,3,3,3,4,3,4,"Contenu bien structuré, formateur compétent."
+16184,20350,Sabrine Dali,Scrum Master Certified,5,3,4,4,4,5,Formation très intéressante et enrichissante.
+16185,20323,Khaled Karray,Scrum Master Certified,4,5,4,5,4,5,"Contenu bien structuré, formateur compétent."
+16186,20368,Jamel Hadj,Scrum Master Certified,4,3,5,3,4,3,"Contenu bien structuré, formateur compétent."
+16187,20282,Adel Layouni,Scrum Master Certified,5,5,3,5,3,4,Formation très intéressante et enrichissante.
+16188,20470,Ghada Khedher,Scrum Master Certified,4,5,3,3,5,3,Formation très intéressante et enrichissante.
+16189,20345,Fethi Mestiri,Scrum Master Certified,5,4,5,4,3,4,"Contenu bien structuré, formateur compétent."
+16190,20373,Kenza Mrad,Scrum Master Certified,4,5,4,4,3,5,Formation très intéressante et enrichissante.
+16191,20334,Najoua Feriani,Scrum Master Certified,4,3,4,5,5,4,Formation très intéressante et enrichissante.
+16192,20412,Chedly Rekik,Scrum Master Certified,5,4,3,4,5,4,"Contenu bien structuré, formateur compétent."
+16193,20389,Ali Hmida,Scrum Master Certified,5,3,5,5,4,5,"Contenu bien structuré, formateur compétent."
+16194,20322,Salma Hachicha,Scrum Master Certified,5,5,4,5,4,4,Formation très intéressante et enrichissante.
+16195,20417,Ridha Trabelsi,Scrum Master Certified,4,4,4,4,3,4,Formation très intéressante et enrichissante.
+16196,20375,Ahmed Laabidi,Scrum Master Certified,4,5,4,3,4,5,Formation très intéressante et enrichissante.
+16197,20438,Farah Ben Ahmed,Scrum Master Certified,5,4,3,5,4,4,"Contenu bien structuré, formateur compétent."
+16198,20371,Jihene Hmida,Scrum Master Certified,4,5,4,3,4,4,Formation très intéressante et enrichissante.
+16199,20339,Amel Landolsi,Scrum Master Certified,3,5,5,3,4,5,Formation très intéressante et enrichissante.
+16200,20337,Latifa Neffati,Scrum Master Certified,5,5,3,5,3,3,Formation très intéressante et enrichissante.
+16201,20350,Sabrine Dali,Scrum Master Certified,3,5,3,4,4,3,"Contenu bien structuré, formateur compétent."
+16202,20368,Jamel Hadj,Scrum Master Certified,5,4,3,4,4,5,Formation très intéressante et enrichissante.
+16203,20282,Adel Layouni,Scrum Master Certified,3,4,4,4,5,4,Formation très intéressante et enrichissante.
+16204,20398,Intissar Horchani,Scrum Master Certified,3,5,4,4,3,5,"Contenu bien structuré, formateur compétent."
+16205,20727,Marwan Fourati,Scrum Master Certified,4,5,5,5,3,3,"Contenu bien structuré, formateur compétent."
+16206,20470,Ghada Khedher,Scrum Master Certified,5,3,5,5,5,4,"Contenu bien structuré, formateur compétent."
+16207,20385,Farouk Horchani,Scrum Master Certified,3,4,4,4,4,5,Formation très intéressante et enrichissante.
+16208,20345,Fethi Mestiri,Scrum Master Certified,3,5,5,5,3,5,"Contenu bien structuré, formateur compétent."
+16209,20373,Kenza Mrad,Scrum Master Certified,5,5,3,5,3,4,"Contenu bien structuré, formateur compétent."
+16210,20334,Najoua Feriani,Scrum Master Certified,5,3,4,3,5,3,Formation très intéressante et enrichissante.
+16211,20389,Ali Hmida,Scrum Master Certified,3,3,3,5,4,3,"Contenu bien structuré, formateur compétent."
+16212,20417,Ridha Trabelsi,Scrum Master Certified,3,4,4,4,3,3,"Contenu bien structuré, formateur compétent."
+16213,20438,Farah Ben Ahmed,Scrum Master Certified,3,5,4,5,4,5,"Contenu bien structuré, formateur compétent."
+16214,20371,Jihene Hmida,Scrum Master Certified,3,4,3,4,4,5,Formation très intéressante et enrichissante.
+16215,20383,Hedi Gasmi,Scrum Master Certified,4,3,5,4,3,5,Formation très intéressante et enrichissante.
+16216,20351,Chedly Layouni,Scrum Master Certified,3,5,4,3,3,3,Formation très intéressante et enrichissante.
+16217,20339,Amel Landolsi,Scrum Master Certified,3,4,3,4,4,5,"Contenu bien structuré, formateur compétent."
+16218,20337,Latifa Neffati,Scrum Master Certified,3,5,3,3,5,4,"Contenu bien structuré, formateur compétent."
+16219,20387,Manel Ouali,Scrum Master Certified,4,5,5,4,4,4,Formation très intéressante et enrichissante.
+16220,20323,Khaled Karray,Scrum Master Certified,5,5,4,5,3,4,Formation très intéressante et enrichissante.
+16221,20368,Jamel Hadj,Scrum Master Certified,5,4,3,3,5,3,Formation très intéressante et enrichissante.
+16222,20338,Myriam Gasmi,Scrum Master Certified,3,3,3,4,4,5,"Contenu bien structuré, formateur compétent."
+16223,20282,Adel Layouni,Scrum Master Certified,4,3,4,3,3,4,Formation très intéressante et enrichissante.
+16224,20398,Intissar Horchani,Scrum Master Certified,5,4,3,3,4,4,Formation très intéressante et enrichissante.
+16225,20385,Farouk Horchani,Scrum Master Certified,4,4,3,4,5,5,"Contenu bien structuré, formateur compétent."
+16226,20334,Najoua Feriani,Scrum Master Certified,5,4,3,5,3,5,Formation très intéressante et enrichissante.
+16227,20412,Chedly Rekik,Scrum Master Certified,5,4,3,3,3,4,"Contenu bien structuré, formateur compétent."
+16228,20389,Ali Hmida,Scrum Master Certified,3,4,4,4,5,5,Formation très intéressante et enrichissante.
+16229,20417,Ridha Trabelsi,Scrum Master Certified,3,4,3,5,5,4,Formation très intéressante et enrichissante.
+16230,20375,Ahmed Laabidi,Scrum Master Certified,4,5,3,5,4,3,"Contenu bien structuré, formateur compétent."
+16231,20438,Farah Ben Ahmed,Scrum Master Certified,3,4,5,5,4,5,Formation très intéressante et enrichissante.
+16232,20371,Jihene Hmida,Scrum Master Certified,3,5,3,5,4,3,"Contenu bien structuré, formateur compétent."
+16233,20339,Amel Landolsi,Scrum Master Certified,3,4,5,3,4,3,"Contenu bien structuré, formateur compétent."
+16234,20337,Latifa Neffati,Scrum Master Certified,4,4,3,4,3,5,"Contenu bien structuré, formateur compétent."
+16236,20387,Manel Ouali,Scrum Master Certified,4,3,4,5,5,5,Formation très intéressante et enrichissante.
+16237,20323,Khaled Karray,Scrum Master Certified,4,3,4,4,4,5,Formation très intéressante et enrichissante.
+16238,20368,Jamel Hadj,Scrum Master Certified,4,3,4,5,4,3,"Contenu bien structuré, formateur compétent."
+16239,20338,Myriam Gasmi,Scrum Master Certified,5,3,3,4,4,5,"Contenu bien structuré, formateur compétent."
+16240,19966,Yassine Miled,Project Management Professional (PMP),4,3,5,5,4,5,Formation très intéressante et enrichissante.
+16241,19880,Wassim Meddeb,Project Management Professional (PMP),4,3,4,3,5,3,Formation très intéressante et enrichissante.
+16242,20428,Hajer Ben Ali,Project Management Professional (PMP),4,3,4,5,5,5,"Contenu bien structuré, formateur compétent."
+16243,19839,Fadia Guesmi,Project Management Professional (PMP),3,3,5,3,3,5,Formation très intéressante et enrichissante.
+16244,19818,Amira Bouaziz,Project Management Professional (PMP),5,5,3,5,5,4,Formation très intéressante et enrichissante.
+16245,20159,Ikram Ghorbel,Project Management Professional (PMP),4,5,4,5,4,3,Formation très intéressante et enrichissante.
+16246,19929,Hajer Hadj,Project Management Professional (PMP),4,3,4,4,5,5,Formation très intéressante et enrichissante.
+16247,19887,Sabrine Chihaoui,Project Management Professional (PMP),4,5,5,4,4,4,Formation très intéressante et enrichissante.
+16248,20076,Cyrine Jazi,Project Management Professional (PMP),5,3,5,3,4,5,"Contenu bien structuré, formateur compétent."
+16249,19896,Dorsaf Chaieb,Project Management Professional (PMP),3,5,5,4,5,5,Formation très intéressante et enrichissante.
+16250,20255,Chedly Hajji,Project Management Professional (PMP),4,3,4,5,3,4,Formation très intéressante et enrichissante.
+16251,19966,Yassine Miled,Project Management Professional (PMP),3,4,4,4,5,3,Formation très intéressante et enrichissante.
+16252,19880,Wassim Meddeb,Project Management Professional (PMP),3,3,5,4,4,3,"Contenu bien structuré, formateur compétent."
+16253,19820,Yosra Hachicha,Project Management Professional (PMP),4,5,5,5,5,5,Formation très intéressante et enrichissante.
+16254,19839,Fadia Guesmi,Project Management Professional (PMP),5,4,3,3,4,3,Formation très intéressante et enrichissante.
+16255,19818,Amira Bouaziz,Project Management Professional (PMP),3,4,4,3,3,4,"Contenu bien structuré, formateur compétent."
+16256,20217,Moez Hleli,Project Management Professional (PMP),5,4,4,5,5,5,Formation très intéressante et enrichissante.
+16257,19929,Hajer Hadj,Project Management Professional (PMP),4,4,3,4,5,5,Formation très intéressante et enrichissante.
+16258,20192,Salma Chihaoui,Project Management Professional (PMP),5,4,4,3,4,5,Formation très intéressante et enrichissante.
+16259,19887,Sabrine Chihaoui,Project Management Professional (PMP),5,4,4,3,5,4,"Contenu bien structuré, formateur compétent."
+16260,20069,Nour Dridi,Project Management Professional (PMP),3,3,5,3,3,3,"Contenu bien structuré, formateur compétent."
+16261,20076,Cyrine Jazi,Project Management Professional (PMP),4,5,4,4,5,4,Formation très intéressante et enrichissante.
+16262,19896,Dorsaf Chaieb,Project Management Professional (PMP),3,5,5,5,4,4,"Contenu bien structuré, formateur compétent."
+16263,20709,Khaled Ghanmi,Project Management Professional (PMP),5,3,5,5,5,3,Formation très intéressante et enrichissante.
+16264,20373,Kenza Mrad,Project Management Professional (PMP),5,4,3,5,3,4,Formation très intéressante et enrichissante.
+16265,20262,Yassine Dridi,Project Management Professional (PMP),5,5,3,5,5,3,Formation très intéressante et enrichissante.
+16266,20255,Chedly Hajji,Project Management Professional (PMP),4,3,5,5,4,3,"Contenu bien structuré, formateur compétent."
+16267,19880,Wassim Meddeb,Project Management Professional (PMP),5,4,5,3,5,5,Formation très intéressante et enrichissante.
+16268,20428,Hajer Ben Ali,Project Management Professional (PMP),3,4,3,4,4,3,"Contenu bien structuré, formateur compétent."
+16269,19820,Yosra Hachicha,Project Management Professional (PMP),5,5,4,5,4,3,"Contenu bien structuré, formateur compétent."
+16270,20217,Moez Hleli,Project Management Professional (PMP),3,3,3,3,3,5,"Contenu bien structuré, formateur compétent."
+16271,19929,Hajer Hadj,Project Management Professional (PMP),5,3,3,3,4,5,Formation très intéressante et enrichissante.
+16272,20069,Nour Dridi,Project Management Professional (PMP),3,3,4,5,4,5,"Contenu bien structuré, formateur compétent."
+16273,20076,Cyrine Jazi,Project Management Professional (PMP),3,4,5,5,3,5,Formation très intéressante et enrichissante.
+16274,20373,Kenza Mrad,Project Management Professional (PMP),4,3,3,3,5,5,"Contenu bien structuré, formateur compétent."
+16275,20262,Yassine Dridi,Project Management Professional (PMP),5,5,5,5,4,3,"Contenu bien structuré, formateur compétent."
+16276,20255,Chedly Hajji,Project Management Professional (PMP),5,5,4,5,5,3,"Contenu bien structuré, formateur compétent."
+16277,20428,Hajer Ben Ali,Project Management Professional (PMP),5,4,3,3,5,3,"Contenu bien structuré, formateur compétent."
+16278,19820,Yosra Hachicha,Project Management Professional (PMP),5,4,4,5,4,3,Formation très intéressante et enrichissante.
+16279,19839,Fadia Guesmi,Project Management Professional (PMP),4,4,5,5,3,3,Formation très intéressante et enrichissante.
+16280,20217,Moez Hleli,Project Management Professional (PMP),5,5,3,3,5,3,"Contenu bien structuré, formateur compétent."
+16281,20159,Ikram Ghorbel,Project Management Professional (PMP),5,5,4,4,4,4,"Contenu bien structuré, formateur compétent."
+16282,20192,Salma Chihaoui,Project Management Professional (PMP),5,3,5,4,4,5,Formation très intéressante et enrichissante.
+16283,19887,Sabrine Chihaoui,Project Management Professional (PMP),5,3,5,4,5,5,Formation très intéressante et enrichissante.
+16284,20709,Khaled Ghanmi,Project Management Professional (PMP),5,5,5,3,5,4,"Contenu bien structuré, formateur compétent."
+16285,20373,Kenza Mrad,Project Management Professional (PMP),5,3,3,5,4,4,Formation très intéressante et enrichissante.
+16286,20262,Yassine Dridi,Project Management Professional (PMP),4,4,5,4,4,5,Formation très intéressante et enrichissante.
+16287,19861,Kenza Derbali,Certified Information Systems Security Professional (CISSP),3,5,5,5,3,3,Formation très intéressante et enrichissante.
+16288,20432,Marwan Maaloul,Certified Information Systems Security Professional (CISSP),4,3,3,5,4,5,"Contenu bien structuré, formateur compétent."
+16289,20443,Moncef Jelassi,Certified Information Systems Security Professional (CISSP),5,3,5,5,4,5,Formation très intéressante et enrichissante.
+16290,20506,Intissar Fatnassi,Certified Information Systems Security Professional (CISSP),3,5,3,5,5,5,Formation très intéressante et enrichissante.
+16291,20439,Farouk Maaloul,Certified Information Systems Security Professional (CISSP),5,5,5,4,3,4,"Contenu bien structuré, formateur compétent."
+16292,20509,Ikram Jazi,Certified Information Systems Security Professional (CISSP),5,3,4,3,3,5,Formation très intéressante et enrichissante.
+16293,20458,Nabil Bouhamed,Certified Information Systems Security Professional (CISSP),4,5,4,4,5,5,"Contenu bien structuré, formateur compétent."
+16294,20423,Takwa Khlif,Certified Information Systems Security Professional (CISSP),4,5,4,5,5,5,"Contenu bien structuré, formateur compétent."
+16295,20445,Maher Jebali,Certified Information Systems Security Professional (CISSP),3,5,3,3,3,3,Formation très intéressante et enrichissante.
+16296,20406,Imed Landolsi,Certified Information Systems Security Professional (CISSP),3,4,3,5,4,5,"Contenu bien structuré, formateur compétent."
+16297,20433,Noureddine Maaloul,Certified Information Systems Security Professional (CISSP),5,3,4,5,5,4,"Contenu bien structuré, formateur compétent."
+16298,20286,Makram Chihaoui,Certified Information Systems Security Professional (CISSP),4,4,3,5,3,3,Formation très intéressante et enrichissante.
+16299,20776,Samia Jebali,Certified Information Systems Security Professional (CISSP),5,5,3,5,4,5,"Contenu bien structuré, formateur compétent."
+16300,20432,Marwan Maaloul,Certified Information Systems Security Professional (CISSP),4,3,5,4,5,3,"Contenu bien structuré, formateur compétent."
+16301,20506,Intissar Fatnassi,Certified Information Systems Security Professional (CISSP),4,5,5,4,3,3,"Contenu bien structuré, formateur compétent."
+16302,20456,Chiraz Mejri,Certified Information Systems Security Professional (CISSP),4,5,5,5,5,4,"Contenu bien structuré, formateur compétent."
+16303,20509,Ikram Jazi,Certified Information Systems Security Professional (CISSP),4,5,4,4,4,5,Formation très intéressante et enrichissante.
+16304,20458,Nabil Bouhamed,Certified Information Systems Security Professional (CISSP),5,5,5,4,4,3,"Contenu bien structuré, formateur compétent."
+16305,20393,Maher Khlif,Certified Information Systems Security Professional (CISSP),3,5,3,5,3,5,Formation très intéressante et enrichissante.
+16306,20536,Yasmine Nasri,Certified Information Systems Security Professional (CISSP),4,3,4,4,4,4,"Contenu bien structuré, formateur compétent."
+16307,20423,Takwa Khlif,Certified Information Systems Security Professional (CISSP),5,5,4,3,3,4,Formation très intéressante et enrichissante.
+16308,20433,Noureddine Maaloul,Certified Information Systems Security Professional (CISSP),4,5,5,4,3,4,"Contenu bien structuré, formateur compétent."
+16309,20444,Taoufik Karray,Certified Information Systems Security Professional (CISSP),3,3,4,5,4,5,Formation très intéressante et enrichissante.
+16310,20286,Makram Chihaoui,Certified Information Systems Security Professional (CISSP),4,4,3,5,3,4,"Contenu bien structuré, formateur compétent."
+16311,20038,Zied Hadj,Certified Information Systems Security Professional (CISSP),3,3,3,4,3,4,"Contenu bien structuré, formateur compétent."
+16312,20202,Bochra Mrad,Certified Information Systems Security Professional (CISSP),3,5,4,5,5,5,Formation très intéressante et enrichissante.
+16313,20028,Hajer Neffati,Certified Information Systems Security Professional (CISSP),5,5,4,3,4,4,Formation très intéressante et enrichissante.
+16314,19985,Rami Omrani,Certified Information Systems Security Professional (CISSP),4,4,4,3,4,4,"Contenu bien structuré, formateur compétent."
+16315,20803,Ines Gharbi,Certified Information Systems Security Professional (CISSP),5,4,4,5,5,3,"Contenu bien structuré, formateur compétent."
+16316,19838,Hana Ben Salah,Certified Information Systems Security Professional (CISSP),3,4,3,5,4,5,"Contenu bien structuré, formateur compétent."
+16317,20776,Samia Jebali,Certified Information Systems Security Professional (CISSP),4,5,5,3,3,4,Formation très intéressante et enrichissante.
+16318,20432,Marwan Maaloul,Certified Information Systems Security Professional (CISSP),5,4,3,3,4,3,"Contenu bien structuré, formateur compétent."
+16319,20443,Moncef Jelassi,Certified Information Systems Security Professional (CISSP),5,4,4,3,5,4,Formation très intéressante et enrichissante.
+16320,20506,Intissar Fatnassi,Certified Information Systems Security Professional (CISSP),3,5,4,4,4,4,"Contenu bien structuré, formateur compétent."
+16321,20456,Chiraz Mejri,Certified Information Systems Security Professional (CISSP),3,3,5,3,3,5,"Contenu bien structuré, formateur compétent."
+16322,20509,Ikram Jazi,Certified Information Systems Security Professional (CISSP),4,4,5,3,3,5,Formation très intéressante et enrichissante.
+16323,20403,Nesrine Chebbi,Certified Information Systems Security Professional (CISSP),4,4,4,3,4,4,Formation très intéressante et enrichissante.
+16324,20458,Nabil Bouhamed,Certified Information Systems Security Professional (CISSP),5,4,3,4,5,3,Formation très intéressante et enrichissante.
+16325,20536,Yasmine Nasri,Certified Information Systems Security Professional (CISSP),5,4,5,4,3,4,Formation très intéressante et enrichissante.
+16326,20423,Takwa Khlif,Certified Information Systems Security Professional (CISSP),3,4,4,3,4,5,"Contenu bien structuré, formateur compétent."
+16327,20445,Maher Jebali,Certified Information Systems Security Professional (CISSP),5,3,4,5,4,5,Formation très intéressante et enrichissante.
+16328,20406,Imed Landolsi,Certified Information Systems Security Professional (CISSP),5,4,4,5,5,5,"Contenu bien structuré, formateur compétent."
+16329,20433,Noureddine Maaloul,Certified Information Systems Security Professional (CISSP),4,4,5,4,5,3,"Contenu bien structuré, formateur compétent."
+16330,20444,Taoufik Karray,Certified Information Systems Security Professional (CISSP),4,3,5,4,3,3,Formation très intéressante et enrichissante.
+16331,20286,Makram Chihaoui,Certified Information Systems Security Professional (CISSP),3,4,5,5,3,4,"Contenu bien structuré, formateur compétent."
+16332,20038,Zied Hadj,Certified Information Systems Security Professional (CISSP),3,4,3,5,3,4,"Contenu bien structuré, formateur compétent."
+16333,20202,Bochra Mrad,Certified Information Systems Security Professional (CISSP),5,3,5,4,3,3,Formation très intéressante et enrichissante.
+16334,19941,Hana Hleli,Certified Information Systems Security Professional (CISSP),5,3,3,4,5,4,"Contenu bien structuré, formateur compétent."
+16335,20803,Ines Gharbi,Certified Information Systems Security Professional (CISSP),5,4,3,5,5,3,"Contenu bien structuré, formateur compétent."
+16336,19838,Hana Ben Salah,Certified Information Systems Security Professional (CISSP),3,4,4,4,5,3,"Contenu bien structuré, formateur compétent."
+16337,20776,Samia Jebali,Certified Information Systems Security Professional (CISSP),3,4,5,4,4,3,"Contenu bien structuré, formateur compétent."
+16338,19924,Lobna Layouni,Data Science avec Python,4,5,5,5,5,5,"Contenu bien structuré, formateur compétent."
+16339,20160,Maroua Mrad,Data Science avec Python,5,4,4,5,3,5,Formation très intéressante et enrichissante.
+16340,20018,Takwa Marzouki,Data Science avec Python,3,3,3,4,4,5,"Contenu bien structuré, formateur compétent."
+16341,20140,Myriam Chaabane,Data Science avec Python,4,5,5,5,5,5,Formation très intéressante et enrichissante.
+16342,20183,Farouk Dridi,Data Science avec Python,5,3,4,5,3,4,Formation très intéressante et enrichissante.
+16343,19829,Thouraya Derbali,Data Science avec Python,5,4,4,5,3,4,Formation très intéressante et enrichissante.
+16344,19821,Ines Bouzid,Data Science avec Python,4,5,4,4,5,4,"Contenu bien structuré, formateur compétent."
+16345,19857,Samia Ktari,Data Science avec Python,3,3,5,5,4,3,"Contenu bien structuré, formateur compétent."
+16346,20367,Kais Sellami,Data Science avec Python,5,3,3,4,4,3,"Contenu bien structuré, formateur compétent."
+16347,20163,Samir Dhouib,Data Science avec Python,4,3,5,5,4,5,Formation très intéressante et enrichissante.
+16348,20013,Ghada Karray,Data Science avec Python,4,5,3,4,3,5,"Contenu bien structuré, formateur compétent."
+16349,20018,Takwa Marzouki,Data Science avec Python,3,4,4,4,4,5,Formation très intéressante et enrichissante.
+16350,20178,Jamel Fkih,Data Science avec Python,4,4,3,5,3,4,Formation très intéressante et enrichissante.
+16351,20099,Moez Ghorbel,Data Science avec Python,5,5,5,4,4,5,Formation très intéressante et enrichissante.
+16352,20421,Bochra Khlif,Data Science avec Python,5,4,3,5,3,3,Formation très intéressante et enrichissante.
+16353,20183,Farouk Dridi,Data Science avec Python,5,4,4,4,5,5,Formation très intéressante et enrichissante.
+16354,20109,Khaled Horchani,Data Science avec Python,5,4,5,5,4,3,Formation très intéressante et enrichissante.
+16355,20390,Rami Limam,Data Science avec Python,4,3,5,5,5,3,Formation très intéressante et enrichissante.
+16356,20367,Kais Sellami,Data Science avec Python,4,3,4,3,3,4,"Contenu bien structuré, formateur compétent."
+16357,20163,Samir Dhouib,Data Science avec Python,3,5,3,5,3,5,Formation très intéressante et enrichissante.
+16358,20431,Maher Ghanmi,Data Science avec Python,4,4,3,4,3,3,Formation très intéressante et enrichissante.
+16359,19924,Lobna Layouni,Data Science avec Python,5,3,5,3,5,3,"Contenu bien structuré, formateur compétent."
+16360,20160,Maroua Mrad,Data Science avec Python,3,5,4,4,5,3,"Contenu bien structuré, formateur compétent."
+16361,20013,Ghada Karray,Data Science avec Python,5,4,4,3,5,4,"Contenu bien structuré, formateur compétent."
+16362,20018,Takwa Marzouki,Data Science avec Python,5,3,4,5,5,5,"Contenu bien structuré, formateur compétent."
+16363,20178,Jamel Fkih,Data Science avec Python,3,4,4,5,4,4,Formation très intéressante et enrichissante.
+16364,20099,Moez Ghorbel,Data Science avec Python,3,4,4,3,5,3,"Contenu bien structuré, formateur compétent."
+16365,20421,Bochra Khlif,Data Science avec Python,5,4,4,5,3,4,Formation très intéressante et enrichissante.
+16366,20183,Farouk Dridi,Data Science avec Python,3,3,4,3,3,3,Formation très intéressante et enrichissante.
+16367,19821,Ines Bouzid,Data Science avec Python,5,5,3,4,3,3,Formation très intéressante et enrichissante.
+16368,20109,Khaled Horchani,Data Science avec Python,5,3,3,4,3,3,Formation très intéressante et enrichissante.
+16369,20390,Rami Limam,Data Science avec Python,5,5,4,5,5,3,Formation très intéressante et enrichissante.
+16370,20431,Maher Ghanmi,Data Science avec Python,3,4,4,5,5,3,Formation très intéressante et enrichissante.
+16371,19924,Lobna Layouni,Data Science avec Python,5,5,5,3,3,5,"Contenu bien structuré, formateur compétent."
+16372,20018,Takwa Marzouki,Data Science avec Python,3,4,3,5,5,4,"Contenu bien structuré, formateur compétent."
+16373,20092,Hichem Kchir,Data Science avec Python,4,4,3,3,5,4,"Contenu bien structuré, formateur compétent."
+16374,20140,Myriam Chaabane,Data Science avec Python,4,3,3,4,3,3,Formation très intéressante et enrichissante.
+16375,20099,Moez Ghorbel,Data Science avec Python,5,5,4,4,3,3,"Contenu bien structuré, formateur compétent."
+16376,20421,Bochra Khlif,Data Science avec Python,4,4,5,5,3,4,Formation très intéressante et enrichissante.
+16377,19829,Thouraya Derbali,Data Science avec Python,4,3,4,4,3,5,"Contenu bien structuré, formateur compétent."
+16378,20109,Khaled Horchani,Data Science avec Python,4,4,4,3,3,4,Formation très intéressante et enrichissante.
+16379,20367,Kais Sellami,Data Science avec Python,5,3,5,5,4,5,"Contenu bien structuré, formateur compétent."
+16380,20163,Samir Dhouib,Data Science avec Python,4,5,3,3,5,4,"Contenu bien structuré, formateur compétent."
+16381,20704,Fadia Fatnassi,Blockchain pour les entreprises,4,3,4,3,4,4,Formation très intéressante et enrichissante.
+16382,20402,Dalila Derbali,Blockchain pour les entreprises,5,4,5,3,4,3,Formation très intéressante et enrichissante.
+16383,20438,Farah Ben Ahmed,Blockchain pour les entreprises,3,3,5,5,4,5,"Contenu bien structuré, formateur compétent."
+16384,20362,Salma Nabli,Blockchain pour les entreprises,5,5,3,3,4,5,Formation très intéressante et enrichissante.
+16385,20326,Ikram Gasmi,Blockchain pour les entreprises,4,3,4,5,3,3,Formation très intéressante et enrichissante.
+16386,20354,Jihene Mabrouk,Blockchain pour les entreprises,5,3,4,5,3,4,"Contenu bien structuré, formateur compétent."
+16387,20351,Chedly Layouni,Blockchain pour les entreprises,5,3,5,4,5,4,Formation très intéressante et enrichissante.
+16388,20012,Hatem Bouaziz,Blockchain pour les entreprises,4,3,3,4,5,4,Formation très intéressante et enrichissante.
+16389,19991,Khadija Ghali,Blockchain pour les entreprises,3,3,3,4,5,3,"Contenu bien structuré, formateur compétent."
+16390,20394,Aymen Gabsi,Blockchain pour les entreprises,5,5,3,4,5,4,Formation très intéressante et enrichissante.
+16391,20355,Kenza Hadj,Blockchain pour les entreprises,4,4,4,4,5,4,Formation très intéressante et enrichissante.
+16392,20363,Hana Miled,Blockchain pour les entreprises,5,5,4,5,4,5,"Contenu bien structuré, formateur compétent."
+16393,20704,Fadia Fatnassi,Blockchain pour les entreprises,5,5,5,4,4,3,Formation très intéressante et enrichissante.
+16394,20568,Bochra Ben Ali,Blockchain pour les entreprises,4,4,3,3,4,4,Formation très intéressante et enrichissante.
+16395,20444,Taoufik Karray,Blockchain pour les entreprises,5,3,4,3,3,3,"Contenu bien structuré, formateur compétent."
+16396,20402,Dalila Derbali,Blockchain pour les entreprises,4,4,3,3,3,3,Formation très intéressante et enrichissante.
+16397,20438,Farah Ben Ahmed,Blockchain pour les entreprises,5,5,4,3,4,4,Formation très intéressante et enrichissante.
+16398,20333,Noureddine Layouni,Blockchain pour les entreprises,3,3,3,4,5,4,Formation très intéressante et enrichissante.
+16399,20381,Omar Mahjoub,Blockchain pour les entreprises,5,4,3,5,3,3,"Contenu bien structuré, formateur compétent."
+16400,20326,Ikram Gasmi,Blockchain pour les entreprises,4,3,3,3,3,3,"Contenu bien structuré, formateur compétent."
+16401,20354,Jihene Mabrouk,Blockchain pour les entreprises,3,4,4,3,3,4,"Contenu bien structuré, formateur compétent."
+16402,20012,Hatem Bouaziz,Blockchain pour les entreprises,5,3,5,4,5,5,"Contenu bien structuré, formateur compétent."
+16403,20256,Zeineb Ferchichi,Blockchain pour les entreprises,5,4,5,3,5,4,"Contenu bien structuré, formateur compétent."
+16404,20394,Aymen Gabsi,Blockchain pour les entreprises,5,4,5,3,3,3,Formation très intéressante et enrichissante.
+16405,20355,Kenza Hadj,Blockchain pour les entreprises,4,4,5,3,5,5,"Contenu bien structuré, formateur compétent."
+16406,20363,Hana Miled,Blockchain pour les entreprises,3,3,4,3,4,3,Formation très intéressante et enrichissante.
+16407,20704,Fadia Fatnassi,Blockchain pour les entreprises,5,3,5,3,5,4,Formation très intéressante et enrichissante.
+16408,20568,Bochra Ben Ali,Blockchain pour les entreprises,4,5,4,3,4,3,Formation très intéressante et enrichissante.
+16409,20402,Dalila Derbali,Blockchain pour les entreprises,4,4,3,3,5,3,Formation très intéressante et enrichissante.
+16410,20439,Farouk Maaloul,Blockchain pour les entreprises,3,5,4,4,4,3,Formation très intéressante et enrichissante.
+16411,20351,Chedly Layouni,Blockchain pour les entreprises,4,5,5,5,3,5,"Contenu bien structuré, formateur compétent."
+16412,20383,Hedi Gasmi,Blockchain pour les entreprises,5,5,4,3,4,4,"Contenu bien structuré, formateur compétent."
+16413,20012,Hatem Bouaziz,Blockchain pour les entreprises,4,4,3,3,5,4,"Contenu bien structuré, formateur compétent."
+16414,19821,Ines Bouzid,Blockchain pour les entreprises,5,4,4,4,4,4,"Contenu bien structuré, formateur compétent."
+16415,20355,Kenza Hadj,Blockchain pour les entreprises,4,5,4,5,3,4,"Contenu bien structuré, formateur compétent."
+16416,20363,Hana Miled,Blockchain pour les entreprises,4,5,5,4,5,5,Formation très intéressante et enrichissante.
+16417,20704,Fadia Fatnassi,Blockchain pour les entreprises,4,4,3,3,4,3,"Contenu bien structuré, formateur compétent."
+16418,20568,Bochra Ben Ali,Blockchain pour les entreprises,3,3,4,5,5,3,"Contenu bien structuré, formateur compétent."
+16419,20402,Dalila Derbali,Blockchain pour les entreprises,4,5,5,5,4,5,"Contenu bien structuré, formateur compétent."
+16420,20439,Farouk Maaloul,Blockchain pour les entreprises,5,4,4,5,5,3,Formation très intéressante et enrichissante.
+16421,20362,Salma Nabli,Blockchain pour les entreprises,5,4,4,3,3,3,Formation très intéressante et enrichissante.
+16422,20354,Jihene Mabrouk,Blockchain pour les entreprises,5,3,4,5,5,5,"Contenu bien structuré, formateur compétent."
+16423,20351,Chedly Layouni,Blockchain pour les entreprises,3,5,4,4,3,4,Formation très intéressante et enrichissante.
+16424,20012,Hatem Bouaziz,Blockchain pour les entreprises,3,3,3,5,4,4,Formation très intéressante et enrichissante.
+16425,19991,Khadija Ghali,Blockchain pour les entreprises,4,3,3,3,5,4,"Contenu bien structuré, formateur compétent."
+16426,20394,Aymen Gabsi,Blockchain pour les entreprises,3,5,5,4,4,5,Formation très intéressante et enrichissante.
+16427,19821,Ines Bouzid,Blockchain pour les entreprises,5,5,5,4,5,5,"Contenu bien structuré, formateur compétent."
+16428,20355,Kenza Hadj,Blockchain pour les entreprises,5,4,3,4,4,3,Formation très intéressante et enrichissante.
+16429,20363,Hana Miled,Blockchain pour les entreprises,3,4,4,3,3,3,Formation très intéressante et enrichissante.
+16430,20377,Sonia Louati,Blockchain pour les entreprises,3,4,5,4,5,5,Formation très intéressante et enrichissante.
+16431,19843,Jamel Mrad,Intelligence Artificielle pour managers,5,4,3,5,4,5,"Contenu bien structuré, formateur compétent."
+16432,20081,Jihene Chaieb,Intelligence Artificielle pour managers,4,4,5,3,4,4,"Contenu bien structuré, formateur compétent."
+16433,20116,Samia Ghali,Intelligence Artificielle pour managers,5,5,4,4,5,5,"Contenu bien structuré, formateur compétent."
+16434,20103,Khadija Essid,Intelligence Artificielle pour managers,4,3,4,4,4,4,Formation très intéressante et enrichissante.
+16435,19950,Ghada Hamza,Intelligence Artificielle pour managers,3,5,4,3,3,5,Formation très intéressante et enrichissante.
+16436,19936,Farouk Jazi,Intelligence Artificielle pour managers,4,3,3,4,3,3,Formation très intéressante et enrichissante.
+16437,19898,Yasmine Chedly,Intelligence Artificielle pour managers,3,5,5,3,5,5,"Contenu bien structuré, formateur compétent."
+16438,19881,Rania Louati,Intelligence Artificielle pour managers,5,5,4,4,3,3,"Contenu bien structuré, formateur compétent."
+16439,19938,Bochra Derbali,Intelligence Artificielle pour managers,4,5,5,5,5,4,"Contenu bien structuré, formateur compétent."
+16440,20121,Fares Ghali,Intelligence Artificielle pour managers,3,4,4,5,5,3,Formation très intéressante et enrichissante.
+16441,19883,Khaled Chaieb,Intelligence Artificielle pour managers,4,5,5,3,3,5,"Contenu bien structuré, formateur compétent."
+16442,20070,Karim Mestiri,Intelligence Artificielle pour managers,4,5,4,5,4,4,Formation très intéressante et enrichissante.
+16443,19875,Mehdi Trabelsi,Intelligence Artificielle pour managers,4,4,5,5,4,4,"Contenu bien structuré, formateur compétent."
+16444,19896,Dorsaf Chaieb,Intelligence Artificielle pour managers,3,4,3,5,3,4,"Contenu bien structuré, formateur compétent."
+16445,19843,Jamel Mrad,Intelligence Artificielle pour managers,4,3,4,5,4,5,"Contenu bien structuré, formateur compétent."
+16446,20218,Kais Ben Ali,Intelligence Artificielle pour managers,4,4,5,3,5,4,Formation très intéressante et enrichissante.
+16447,20116,Samia Ghali,Intelligence Artificielle pour managers,3,5,3,5,5,5,"Contenu bien structuré, formateur compétent."
+16448,20078,Tarek Mestiri,Intelligence Artificielle pour managers,5,4,3,4,4,5,"Contenu bien structuré, formateur compétent."
+16449,19950,Ghada Hamza,Intelligence Artificielle pour managers,5,5,5,3,5,5,Formation très intéressante et enrichissante.
+16450,19888,Imed Hamza,Intelligence Artificielle pour managers,5,3,4,3,5,3,Formation très intéressante et enrichissante.
+16451,19936,Farouk Jazi,Intelligence Artificielle pour managers,4,5,5,5,4,4,Formation très intéressante et enrichissante.
+16452,20087,Moez Mahjoub,Intelligence Artificielle pour managers,5,4,5,3,5,4,Formation très intéressante et enrichissante.
+16453,19898,Yasmine Chedly,Intelligence Artificielle pour managers,5,4,3,5,5,5,"Contenu bien structuré, formateur compétent."
+16454,19881,Rania Louati,Intelligence Artificielle pour managers,4,4,3,4,5,5,Formation très intéressante et enrichissante.
+16455,19938,Bochra Derbali,Intelligence Artificielle pour managers,4,4,3,4,4,5,Formation très intéressante et enrichissante.
+16456,19912,Jihene Mahjoub,Intelligence Artificielle pour managers,3,5,4,5,3,3,Formation très intéressante et enrichissante.
+16457,20105,Noureddine Sellami,Intelligence Artificielle pour managers,5,5,5,4,3,3,"Contenu bien structuré, formateur compétent."
+16458,19896,Dorsaf Chaieb,Intelligence Artificielle pour managers,4,3,5,3,4,4,"Contenu bien structuré, formateur compétent."
+16459,19843,Jamel Mrad,Intelligence Artificielle pour managers,5,4,4,4,4,4,"Contenu bien structuré, formateur compétent."
+16460,20218,Kais Ben Ali,Intelligence Artificielle pour managers,5,3,5,3,4,4,Formation très intéressante et enrichissante.
+16461,20081,Jihene Chaieb,Intelligence Artificielle pour managers,3,4,5,5,3,5,"Contenu bien structuré, formateur compétent."
+16462,20146,Dali Ben Ali,Intelligence Artificielle pour managers,5,3,4,5,5,5,"Contenu bien structuré, formateur compétent."
+16463,20103,Khadija Essid,Intelligence Artificielle pour managers,4,3,5,3,5,4,Formation très intéressante et enrichissante.
+16464,19950,Ghada Hamza,Intelligence Artificielle pour managers,4,3,5,5,3,3,Formation très intéressante et enrichissante.
+16465,19888,Imed Hamza,Intelligence Artificielle pour managers,5,4,5,4,4,3,"Contenu bien structuré, formateur compétent."
+16466,20087,Moez Mahjoub,Intelligence Artificielle pour managers,5,5,4,4,3,5,"Contenu bien structuré, formateur compétent."
+16467,19912,Jihene Mahjoub,Intelligence Artificielle pour managers,4,3,5,5,5,3,"Contenu bien structuré, formateur compétent."
+16468,20070,Karim Mestiri,Intelligence Artificielle pour managers,4,5,5,5,5,4,"Contenu bien structuré, formateur compétent."
+16469,19875,Mehdi Trabelsi,Intelligence Artificielle pour managers,3,5,4,5,3,4,"Contenu bien structuré, formateur compétent."
+16470,20105,Noureddine Sellami,Intelligence Artificielle pour managers,3,3,4,5,3,4,"Contenu bien structuré, formateur compétent."
+16471,19896,Dorsaf Chaieb,Intelligence Artificielle pour managers,5,4,4,3,3,5,Formation très intéressante et enrichissante.
+16472,19843,Jamel Mrad,Intelligence Artificielle pour managers,5,4,4,4,3,4,"Contenu bien structuré, formateur compétent."
+16473,20218,Kais Ben Ali,Intelligence Artificielle pour managers,4,4,4,3,3,3,"Contenu bien structuré, formateur compétent."
+16474,20078,Tarek Mestiri,Intelligence Artificielle pour managers,3,3,3,3,4,3,"Contenu bien structuré, formateur compétent."
+16475,19888,Imed Hamza,Intelligence Artificielle pour managers,5,3,4,5,5,3,"Contenu bien structuré, formateur compétent."
+16476,20087,Moez Mahjoub,Intelligence Artificielle pour managers,5,3,4,3,4,3,"Contenu bien structuré, formateur compétent."
+16478,20121,Fares Ghali,Intelligence Artificielle pour managers,4,3,5,3,4,3,Formation très intéressante et enrichissante.
+16479,19883,Khaled Chaieb,Intelligence Artificielle pour managers,5,3,3,3,5,4,"Contenu bien structuré, formateur compétent."
+16480,20070,Karim Mestiri,Intelligence Artificielle pour managers,5,5,3,4,5,4,Formation très intéressante et enrichissante.
+16481,20105,Noureddine Sellami,Intelligence Artificielle pour managers,3,5,5,3,3,3,"Contenu bien structuré, formateur compétent."
+16482,19884,Fethi Derbali,Intelligence Artificielle pour managers,3,5,3,4,5,5,"Contenu bien structuré, formateur compétent."
+16483,19896,Dorsaf Chaieb,Intelligence Artificielle pour managers,4,5,5,4,3,4,Formation très intéressante et enrichissante.
+16484,19843,Jamel Mrad,Intelligence Artificielle pour managers,5,3,3,5,3,3,Formation très intéressante et enrichissante.
+16485,20218,Kais Ben Ali,Intelligence Artificielle pour managers,5,5,4,3,5,4,Formation très intéressante et enrichissante.
+16486,20081,Jihene Chaieb,Intelligence Artificielle pour managers,3,4,3,4,5,5,Formation très intéressante et enrichissante.
+16487,20146,Dali Ben Ali,Intelligence Artificielle pour managers,4,5,5,4,3,5,"Contenu bien structuré, formateur compétent."
+16488,20116,Samia Ghali,Intelligence Artificielle pour managers,4,3,5,4,3,5,"Contenu bien structuré, formateur compétent."
+16489,20078,Tarek Mestiri,Intelligence Artificielle pour managers,4,4,3,3,3,3,Formation très intéressante et enrichissante.
+16490,20103,Khadija Essid,Intelligence Artificielle pour managers,5,4,4,3,5,4,Formation très intéressante et enrichissante.
+16491,19950,Ghada Hamza,Intelligence Artificielle pour managers,4,3,4,3,5,3,"Contenu bien structuré, formateur compétent."
+16492,19936,Farouk Jazi,Intelligence Artificielle pour managers,4,3,3,3,3,5,"Contenu bien structuré, formateur compétent."
+16493,19881,Rania Louati,Intelligence Artificielle pour managers,4,5,3,5,4,4,Formation très intéressante et enrichissante.
+16494,19938,Bochra Derbali,Intelligence Artificielle pour managers,5,3,3,3,4,5,Formation très intéressante et enrichissante.
+16495,20121,Fares Ghali,Intelligence Artificielle pour managers,4,5,4,5,3,3,"Contenu bien structuré, formateur compétent."
+16496,19883,Khaled Chaieb,Intelligence Artificielle pour managers,5,3,5,4,5,3,Formation très intéressante et enrichissante.
+16497,20070,Karim Mestiri,Intelligence Artificielle pour managers,3,4,3,3,5,3,"Contenu bien structuré, formateur compétent."
+16498,19875,Mehdi Trabelsi,Intelligence Artificielle pour managers,4,5,3,3,5,4,Formation très intéressante et enrichissante.
+16499,20105,Noureddine Sellami,Intelligence Artificielle pour managers,4,3,4,5,4,5,Formation très intéressante et enrichissante.
+16500,19822,Adel Ghorbel,Cybersécurité opérationnelle,5,5,4,4,5,5,"Contenu bien structuré, formateur compétent."
+16501,20193,Zeineb Dridi,Cybersécurité opérationnelle,4,5,3,4,3,3,"Contenu bien structuré, formateur compétent."
+16502,20293,Marwan Karray,Cybersécurité opérationnelle,5,4,3,4,5,4,"Contenu bien structuré, formateur compétent."
+16503,20157,Mariam Chaieb,Cybersécurité opérationnelle,5,5,3,4,3,3,"Contenu bien structuré, formateur compétent."
+16504,20678,Hedi Nasri,Cybersécurité opérationnelle,4,3,4,3,3,3,"Contenu bien structuré, formateur compétent."
+16505,20584,Fatma Landolsi,Cybersécurité opérationnelle,5,5,3,5,3,3,Formation très intéressante et enrichissante.
+16506,20601,Fatma Feriani,Cybersécurité opérationnelle,4,5,3,4,5,5,"Contenu bien structuré, formateur compétent."
+16507,20575,Taoufik Daoud,Cybersécurité opérationnelle,5,5,5,3,4,5,"Contenu bien structuré, formateur compétent."
+16508,20613,Ines Mahjoub,Cybersécurité opérationnelle,3,3,4,3,3,4,"Contenu bien structuré, formateur compétent."
+16509,20046,Kais Chaabane,Cybersécurité opérationnelle,5,3,3,5,5,5,"Contenu bien structuré, formateur compétent."
+16510,20574,Thouraya Dridi,Cybersécurité opérationnelle,3,4,5,5,3,3,Formation très intéressante et enrichissante.
+16511,20606,Slim Chedly,Cybersécurité opérationnelle,4,5,4,3,3,3,Formation très intéressante et enrichissante.
+16512,20599,Wael Landolsi,Cybersécurité opérationnelle,4,4,3,5,4,3,Formation très intéressante et enrichissante.
+16513,19945,Khadija Khlif,Cybersécurité opérationnelle,3,4,4,4,4,5,Formation très intéressante et enrichissante.
+16514,20636,Slim Mansouri,Cybersécurité opérationnelle,5,5,4,3,5,4,"Contenu bien structuré, formateur compétent."
+16515,19822,Adel Ghorbel,Cybersécurité opérationnelle,3,4,5,4,5,5,"Contenu bien structuré, formateur compétent."
+16516,20193,Zeineb Dridi,Cybersécurité opérationnelle,5,4,5,3,3,5,Formation très intéressante et enrichissante.
+16517,20157,Mariam Chaieb,Cybersécurité opérationnelle,4,4,3,3,3,5,"Contenu bien structuré, formateur compétent."
+16518,20678,Hedi Nasri,Cybersécurité opérationnelle,3,5,5,4,4,3,Formation très intéressante et enrichissante.
+16519,20576,Fethi Gabsi,Cybersécurité opérationnelle,5,3,4,4,3,3,"Contenu bien structuré, formateur compétent."
+16520,20601,Fatma Feriani,Cybersécurité opérationnelle,4,4,4,3,5,4,Formation très intéressante et enrichissante.
+16521,20575,Taoufik Daoud,Cybersécurité opérationnelle,4,3,5,4,3,5,"Contenu bien structuré, formateur compétent."
+16522,20089,Imed Benhassan,Cybersécurité opérationnelle,4,4,5,3,4,3,"Contenu bien structuré, formateur compétent."
+16523,20613,Ines Mahjoub,Cybersécurité opérationnelle,4,4,5,4,5,3,Formation très intéressante et enrichissante.
+16524,20046,Kais Chaabane,Cybersécurité opérationnelle,4,3,4,4,5,3,"Contenu bien structuré, formateur compétent."
+16525,20606,Slim Chedly,Cybersécurité opérationnelle,4,5,3,4,4,4,Formation très intéressante et enrichissante.
+16526,20599,Wael Landolsi,Cybersécurité opérationnelle,5,5,4,5,5,3,Formation très intéressante et enrichissante.
+16527,19945,Khadija Khlif,Cybersécurité opérationnelle,3,5,3,5,5,4,Formation très intéressante et enrichissante.
+16528,20636,Slim Mansouri,Cybersécurité opérationnelle,4,5,4,4,5,4,"Contenu bien structuré, formateur compétent."
+16529,20699,Tarek Chaabane,Cybersécurité opérationnelle,4,3,5,3,5,4,"Contenu bien structuré, formateur compétent."
+16530,19822,Adel Ghorbel,Cybersécurité opérationnelle,3,5,5,3,3,5,"Contenu bien structuré, formateur compétent."
+16531,20293,Marwan Karray,Cybersécurité opérationnelle,4,3,4,4,5,5,"Contenu bien structuré, formateur compétent."
+16532,20157,Mariam Chaieb,Cybersécurité opérationnelle,4,5,3,4,5,3,Formation très intéressante et enrichissante.
+16533,20678,Hedi Nasri,Cybersécurité opérationnelle,3,3,3,4,4,5,Formation très intéressante et enrichissante.
+16534,20584,Fatma Landolsi,Cybersécurité opérationnelle,3,5,5,4,4,4,"Contenu bien structuré, formateur compétent."
+16535,20576,Fethi Gabsi,Cybersécurité opérationnelle,5,5,5,4,4,3,Formation très intéressante et enrichissante.
+16536,20601,Fatma Feriani,Cybersécurité opérationnelle,3,5,5,5,5,4,Formation très intéressante et enrichissante.
+16537,20089,Imed Benhassan,Cybersécurité opérationnelle,5,4,5,5,4,3,Formation très intéressante et enrichissante.
+16538,20613,Ines Mahjoub,Cybersécurité opérationnelle,3,3,3,3,5,4,"Contenu bien structuré, formateur compétent."
+16539,20046,Kais Chaabane,Cybersécurité opérationnelle,4,5,5,3,4,5,"Contenu bien structuré, formateur compétent."
+16540,20574,Thouraya Dridi,Cybersécurité opérationnelle,5,5,5,3,5,4,"Contenu bien structuré, formateur compétent."
+16541,20599,Wael Landolsi,Cybersécurité opérationnelle,3,3,4,5,5,5,Formation très intéressante et enrichissante.
+16542,19945,Khadija Khlif,Cybersécurité opérationnelle,5,3,3,5,3,3,Formation très intéressante et enrichissante.
+16543,20636,Slim Mansouri,Cybersécurité opérationnelle,5,5,5,3,5,5,Formation très intéressante et enrichissante.

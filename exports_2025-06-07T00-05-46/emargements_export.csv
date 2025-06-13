@@ -1,0 +1,1392 @@
+ID,ID Utilisateur,Nom Utilisateur,ID Session,Formation,Date Session,Présent,Validé,Feedback,Validation Acquis
+25940,19665,Test Apprenant,1319,Formation Test - Développement Web Avancé,2025-05-19,Oui,Oui,Oui,Oui
+25941,19665,Test Apprenant,1320,Formation Test - Développement Web Avancé,2025-05-22,Oui,Oui,Oui,Oui
+25942,19665,Test Apprenant,1321,Formation Test - Développement Web Avancé,2025-05-25,Oui,Oui,Oui,Oui
+25943,19665,Test Apprenant,1322,Formation Test - Cybersécurité Fondamentale,2025-05-17,Oui,Oui,Oui,Oui
+25944,19665,Test Apprenant,1323,Formation Test - Cybersécurité Fondamentale,2025-05-20,Oui,Oui,Oui,Oui
+25945,19665,Test Apprenant,1324,Formation Test - Cybersécurité Fondamentale,2025-05-23,Oui,Oui,Oui,Oui
+25946,19665,Test Apprenant,1325,Formation Test - Développement Web Avancé,2025-05-20,Oui,Oui,Oui,Oui
+25947,19665,Test Apprenant,1326,Formation Test - Développement Web Avancé,2025-05-23,Oui,Oui,Oui,Oui
+25948,19665,Test Apprenant,1327,Formation Test - Développement Web Avancé,2025-05-26,Oui,Oui,Oui,Oui
+25949,19665,Test Apprenant,1328,Formation Test - Cybersécurité Fondamentale,2025-04-23,Oui,Oui,Oui,Oui
+25950,19665,Test Apprenant,1329,Formation Test - Cybersécurité Fondamentale,2025-04-26,Oui,Oui,Oui,Oui
+25951,19665,Test Apprenant,1330,Formation Test - Cybersécurité Fondamentale,2025-04-29,Oui,Oui,Oui,Oui
+25952,20454,Karim Louati,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Oui,Oui
+25953,20594,Yosra Gasmi,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Oui,Oui
+25954,20384,Wided Hmida,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Oui,Oui
+25955,20438,Farah Ben Ahmed,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Non,Oui
+25956,20510,Ahmed Hachicha,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Oui,Non
+25957,20479,Maher Hamdi,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Oui,Oui
+25958,20537,Zied Landolsi,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Non,Non
+25959,20500,Samia Horchani,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Non,Oui
+25960,20486,Rim Chaabane,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Non,Oui
+25961,20546,Ridha Hachicha,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Oui,Oui
+25962,20481,Zied Miled,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Oui,Oui
+25963,20541,Taoufik Fkih,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Oui,Non
+25964,20550,Hiba Derbali,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Oui,Oui
+25965,20495,Wided Jouini,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Non,Oui
+25966,19871,Nader Trabelsi,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Non,Non,Non,Non
+25967,20002,Tarek Hamza,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Non,Oui
+25968,19887,Sabrine Chihaoui,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Non,Oui
+25969,20436,Dorsaf Maaloul,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Non,Non,Non,Non
+25970,19827,Khaled Maaloul,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Non,Oui
+25971,19940,Fadia Omrani,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Oui,Oui
+25972,20225,Marwan Chaieb,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Oui,Non
+25973,20710,Ali Mansouri,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Non,Oui
+25974,20155,Latifa Hadj,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Oui,Oui
+25975,20501,Mohamed Neffati,1331,ITIL 4 Foundation - Gestion des Services IT,2025-02-21,Oui,Oui,Oui,Oui
+25976,20454,Karim Louati,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Non
+25977,20594,Yosra Gasmi,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Non
+25978,20384,Wided Hmida,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Non
+25979,20438,Farah Ben Ahmed,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Non,Oui
+25980,20510,Ahmed Hachicha,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Oui
+25981,20479,Maher Hamdi,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Non,Oui
+25982,20537,Zied Landolsi,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Non,Oui
+25983,20500,Samia Horchani,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Oui
+25984,20486,Rim Chaabane,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Non
+25985,20546,Ridha Hachicha,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Non
+25986,20481,Zied Miled,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Oui
+25987,20541,Taoufik Fkih,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Oui
+25988,20550,Hiba Derbali,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Oui
+25989,20495,Wided Jouini,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Non,Oui
+25990,19871,Nader Trabelsi,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Non,Oui
+25991,20002,Tarek Hamza,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Oui
+25992,19887,Sabrine Chihaoui,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Oui
+25993,20436,Dorsaf Maaloul,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Non,Non,Non,Non
+25994,19827,Khaled Maaloul,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Oui
+25995,19940,Fadia Omrani,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Oui
+25996,20225,Marwan Chaieb,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Oui
+25997,20710,Ali Mansouri,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Non
+25998,20155,Latifa Hadj,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Non,Oui
+25999,20501,Mohamed Neffati,1332,ITIL 4 Foundation - Gestion des Services IT,2025-02-23,Oui,Oui,Oui,Non
+26000,20454,Karim Louati,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Non,Oui
+26001,20594,Yosra Gasmi,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Oui,Oui
+26002,20384,Wided Hmida,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Non,Oui
+26003,20438,Farah Ben Ahmed,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Oui,Oui
+26004,20510,Ahmed Hachicha,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Non,Oui
+26005,20479,Maher Hamdi,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Non,Oui
+26006,20537,Zied Landolsi,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Non,Oui
+26007,20500,Samia Horchani,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Oui,Non
+26008,20486,Rim Chaabane,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Oui,Oui
+26009,20546,Ridha Hachicha,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Oui,Oui
+26010,20481,Zied Miled,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Non,Non,Non,Non
+26011,20541,Taoufik Fkih,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Oui,Oui
+26012,20550,Hiba Derbali,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Non,Non,Non,Non
+26013,20495,Wided Jouini,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Non,Oui
+26014,19871,Nader Trabelsi,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Non,Non
+26015,20002,Tarek Hamza,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Non,Non,Non,Non
+26016,19887,Sabrine Chihaoui,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Oui,Oui
+26017,20436,Dorsaf Maaloul,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Oui,Oui
+26018,19827,Khaled Maaloul,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Oui,Oui
+26019,19940,Fadia Omrani,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Oui,Oui
+26020,20225,Marwan Chaieb,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Non,Oui
+26021,20710,Ali Mansouri,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Oui,Oui
+26022,20155,Latifa Hadj,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Oui,Oui
+26023,20501,Mohamed Neffati,1333,ITIL 4 Foundation - Gestion des Services IT,2025-02-25,Oui,Oui,Oui,Oui
+26024,20454,Karim Louati,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Non,Oui
+26025,20594,Yosra Gasmi,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Non,Non,Non,Non
+26026,20384,Wided Hmida,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Oui,Oui
+26027,20438,Farah Ben Ahmed,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Non,Oui
+26028,20510,Ahmed Hachicha,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Non,Non
+26029,20479,Maher Hamdi,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Oui,Oui
+26030,20537,Zied Landolsi,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Oui,Oui
+26031,20500,Samia Horchani,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Oui,Oui
+26032,20486,Rim Chaabane,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Oui,Oui
+26033,20546,Ridha Hachicha,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Oui,Non
+26034,20481,Zied Miled,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Oui,Oui
+26035,20541,Taoufik Fkih,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Non,Oui
+26036,20550,Hiba Derbali,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Oui,Non
+26037,20495,Wided Jouini,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Non,Oui
+26038,19871,Nader Trabelsi,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Non,Oui
+26039,20002,Tarek Hamza,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Non,Oui
+26040,19887,Sabrine Chihaoui,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Non,Oui
+26041,20436,Dorsaf Maaloul,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Oui,Non
+26042,19827,Khaled Maaloul,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Non,Non
+26043,19940,Fadia Omrani,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Oui,Oui
+26044,20225,Marwan Chaieb,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Non,Non
+26045,20710,Ali Mansouri,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Oui,Oui
+26046,20155,Latifa Hadj,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Non,Oui
+26047,20501,Mohamed Neffati,1334,ITIL 4 Foundation - Gestion des Services IT,2025-02-27,Oui,Oui,Oui,Oui
+26048,20595,Mariam Rekik,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Non
+26049,19918,Salma Guesmi,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Non,Oui
+26050,20156,Mariam Mansouri,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Non
+26051,19828,Wassim Gharbi,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Non,Oui
+26052,19894,Takwa Landolsi,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Oui
+26053,19917,Taoufik Ezzine,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Non,Oui
+26054,19897,Fatma Kchir,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Oui
+26055,19841,Takwa Omrani,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Oui
+26056,20264,Lobna Trabelsi,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Oui
+26057,20387,Manel Ouali,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Non
+26058,20175,Hichem Neffati,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Non
+26059,19863,Khadija Mansouri,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Non,Oui
+26060,20403,Nesrine Chebbi,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Oui
+26061,20498,Wael Nabli,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Non,Oui
+26062,20442,Zied Jouini,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Oui
+26063,20421,Bochra Khlif,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Oui
+26064,19859,Mohamed Ghorbel,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Non,Non,Non,Non
+26065,20419,Zohra Hmida,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Non,Oui
+26066,20476,Olfa Marzouki,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Non,Oui
+26067,20456,Chiraz Mejri,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Non,Oui
+26068,20122,Rania Chedly,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Oui
+26069,20152,Rami Bouslama,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Non,Oui
+26070,20230,Nour Dhouib,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Non
+26071,19996,Najoua Chihaoui,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Oui
+26072,20413,Yasmine Mejri,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Oui
+26073,20558,Karima Bouaziz,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Non,Non,Non,Non
+26074,19893,Nabil Mabrouk,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Oui
+26075,19974,Moez Derbali,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Oui
+26076,19913,Latifa Marzouki,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Non,Non,Non,Non
+26077,20510,Ahmed Hachicha,1335,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-03-31,Oui,Oui,Oui,Non
+26078,20595,Mariam Rekik,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Non,Non,Non,Non
+26079,19918,Salma Guesmi,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26080,20156,Mariam Mansouri,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26081,19828,Wassim Gharbi,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26082,19894,Takwa Landolsi,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Non,Non
+26083,19917,Taoufik Ezzine,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26084,19897,Fatma Kchir,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Non,Oui
+26085,19841,Takwa Omrani,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26086,20264,Lobna Trabelsi,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26087,20387,Manel Ouali,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26088,20175,Hichem Neffati,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Non,Oui
+26089,19863,Khadija Mansouri,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26090,20403,Nesrine Chebbi,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Non,Oui
+26091,20498,Wael Nabli,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Non,Oui
+26092,20442,Zied Jouini,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Non,Oui
+26093,20421,Bochra Khlif,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26094,19859,Mohamed Ghorbel,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26095,20419,Zohra Hmida,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26096,20476,Olfa Marzouki,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26097,20456,Chiraz Mejri,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Non,Oui
+26098,20122,Rania Chedly,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26099,20152,Rami Bouslama,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Non,Oui
+26100,20230,Nour Dhouib,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Non,Oui
+26101,19996,Najoua Chihaoui,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26102,20413,Yasmine Mejri,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Non,Oui
+26103,20558,Karima Bouaziz,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26104,19893,Nabil Mabrouk,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Non,Oui
+26105,19974,Moez Derbali,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26106,19913,Latifa Marzouki,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Non,Oui
+26107,20510,Ahmed Hachicha,1336,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-02,Oui,Oui,Oui,Oui
+26108,20595,Mariam Rekik,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26109,19918,Salma Guesmi,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26110,20156,Mariam Mansouri,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26111,19828,Wassim Gharbi,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26112,19894,Takwa Landolsi,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Non
+26113,19917,Taoufik Ezzine,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26114,19897,Fatma Kchir,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Non,Non,Non,Non
+26115,19841,Takwa Omrani,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Non
+26116,20264,Lobna Trabelsi,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26117,20387,Manel Ouali,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26118,20175,Hichem Neffati,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26119,19863,Khadija Mansouri,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Non,Oui
+26120,20403,Nesrine Chebbi,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26121,20498,Wael Nabli,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Non
+26122,20442,Zied Jouini,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26123,20421,Bochra Khlif,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Non,Oui
+26124,19859,Mohamed Ghorbel,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Non,Oui
+26125,20419,Zohra Hmida,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Non,Non
+26126,20476,Olfa Marzouki,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26127,20456,Chiraz Mejri,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26128,20122,Rania Chedly,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Non,Non
+26129,20152,Rami Bouslama,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26130,20230,Nour Dhouib,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26131,19996,Najoua Chihaoui,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26132,20413,Yasmine Mejri,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Non,Oui
+26133,20558,Karima Bouaziz,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26134,19893,Nabil Mabrouk,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Non,Oui
+26135,19974,Moez Derbali,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Non,Oui
+26136,19913,Latifa Marzouki,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26137,20510,Ahmed Hachicha,1337,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-04,Oui,Oui,Oui,Oui
+26138,20595,Mariam Rekik,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Non,Non,Non,Non
+26139,19918,Salma Guesmi,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26140,20156,Mariam Mansouri,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26141,19828,Wassim Gharbi,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26142,19894,Takwa Landolsi,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Non,Oui
+26143,19917,Taoufik Ezzine,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26144,19897,Fatma Kchir,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Non,Oui
+26145,19841,Takwa Omrani,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26146,20264,Lobna Trabelsi,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26147,20387,Manel Ouali,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Non
+26148,20175,Hichem Neffati,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26149,19863,Khadija Mansouri,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Non,Oui
+26150,20403,Nesrine Chebbi,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Non,Oui
+26151,20498,Wael Nabli,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Non,Non
+26152,20442,Zied Jouini,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Non
+26153,20421,Bochra Khlif,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Non
+26154,19859,Mohamed Ghorbel,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26155,20419,Zohra Hmida,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Non,Oui
+26156,20476,Olfa Marzouki,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Non,Non,Non,Non
+26157,20456,Chiraz Mejri,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Non,Non,Non,Non
+26158,20122,Rania Chedly,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26159,20152,Rami Bouslama,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26160,20230,Nour Dhouib,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Non
+26161,19996,Najoua Chihaoui,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26162,20413,Yasmine Mejri,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26163,20558,Karima Bouaziz,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26164,19893,Nabil Mabrouk,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26165,19974,Moez Derbali,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26166,19913,Latifa Marzouki,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Non
+26167,20510,Ahmed Hachicha,1338,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-06,Oui,Oui,Oui,Oui
+26168,20595,Mariam Rekik,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26169,19918,Salma Guesmi,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Non,Oui
+26170,20156,Mariam Mansouri,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26171,19828,Wassim Gharbi,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26172,19894,Takwa Landolsi,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Non,Oui
+26173,19917,Taoufik Ezzine,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26174,19897,Fatma Kchir,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26175,19841,Takwa Omrani,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Non,Oui
+26176,20264,Lobna Trabelsi,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26177,20387,Manel Ouali,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26178,20175,Hichem Neffati,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26179,19863,Khadija Mansouri,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Non,Oui
+26180,20403,Nesrine Chebbi,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Non,Non,Non,Non
+26181,20498,Wael Nabli,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Non
+26182,20442,Zied Jouini,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Non,Oui
+26183,20421,Bochra Khlif,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Non,Non,Non,Non
+26184,19859,Mohamed Ghorbel,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26185,20419,Zohra Hmida,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26186,20476,Olfa Marzouki,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Non
+26187,20456,Chiraz Mejri,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26188,20122,Rania Chedly,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Non,Oui
+26189,20152,Rami Bouslama,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26190,20230,Nour Dhouib,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26191,19996,Najoua Chihaoui,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Non,Non,Non,Non
+26192,20413,Yasmine Mejri,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Non
+26193,20558,Karima Bouaziz,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26194,19893,Nabil Mabrouk,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Non
+26195,19974,Moez Derbali,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Non
+26196,19913,Latifa Marzouki,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26197,20510,Ahmed Hachicha,1339,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2025-04-08,Oui,Oui,Oui,Oui
+26198,20669,Chiraz Khlif,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Non,Non,Non,Non
+26199,19911,Manel Khedher,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Non,Non,Non,Non
+26200,19829,Thouraya Derbali,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Non,Non,Non,Non
+26201,19842,Moez Khedher,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Non,Non
+26202,20033,Rim Jazi,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Non,Oui
+26203,19821,Ines Bouzid,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Oui
+26204,20003,Intissar Fatnassi,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Oui
+26205,19665,Test Apprenant,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Oui
+26206,20150,Ikram Chaabane,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Oui
+26207,20135,Moez Bouaziz,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Oui
+26208,19950,Ghada Hamza,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Non,Oui
+26209,19844,Emna Labidi,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Non,Oui
+26210,20124,Amira Gasmi,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Oui
+26211,20179,Omar Jemli,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Oui
+26212,19984,Salah Chebbi,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Non,Non,Non,Non
+26213,20139,Sami Jemli,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Non
+26214,20191,Jamel Dhouib,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Non
+26215,19845,Thouraya Laabidi,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Oui
+26216,19841,Takwa Omrani,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Oui
+26217,20173,Lobna Meddeb,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Non,Non,Non,Non
+26218,19997,Zohra Essid,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Non,Non,Non,Non
+26219,20075,Lobna Ghanmi,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Oui
+26220,20181,Marwan Bouzid,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Non,Oui
+26221,20112,Ines Ktari,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Non,Non,Non,Non
+26222,19820,Yosra Hachicha,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Oui
+26223,20255,Chedly Hajji,1340,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-08,Oui,Oui,Oui,Oui
+26224,20669,Chiraz Khlif,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Non,Oui
+26225,19911,Manel Khedher,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26226,19829,Thouraya Derbali,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26227,19842,Moez Khedher,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26228,20033,Rim Jazi,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26229,19821,Ines Bouzid,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26230,20003,Intissar Fatnassi,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Non
+26231,19665,Test Apprenant,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26232,20150,Ikram Chaabane,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Non
+26233,20135,Moez Bouaziz,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26234,19950,Ghada Hamza,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Non,Oui
+26235,19844,Emna Labidi,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Non,Oui
+26236,20124,Amira Gasmi,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26237,20179,Omar Jemli,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Non,Oui
+26238,19984,Salah Chebbi,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26239,20139,Sami Jemli,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26240,20191,Jamel Dhouib,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Non,Oui
+26241,19845,Thouraya Laabidi,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Non,Oui
+26242,19841,Takwa Omrani,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Non,Non,Non,Non
+26243,20173,Lobna Meddeb,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Non,Oui
+26244,19997,Zohra Essid,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26245,20075,Lobna Ghanmi,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26246,20181,Marwan Bouzid,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26247,20112,Ines Ktari,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26248,19820,Yosra Hachicha,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26249,20255,Chedly Hajji,1341,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-10,Oui,Oui,Oui,Oui
+26250,20669,Chiraz Khlif,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Non,Non,Non,Non
+26251,19911,Manel Khedher,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Oui,Oui
+26252,19829,Thouraya Derbali,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Oui,Oui
+26253,19842,Moez Khedher,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Non,Oui
+26254,20033,Rim Jazi,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Oui,Oui
+26255,19821,Ines Bouzid,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Oui,Oui
+26256,20003,Intissar Fatnassi,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Non,Non,Non,Non
+26257,19665,Test Apprenant,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Oui,Oui
+26258,20150,Ikram Chaabane,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Non,Oui
+26259,20135,Moez Bouaziz,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Non,Non
+26260,19950,Ghada Hamza,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Non,Oui
+26261,19844,Emna Labidi,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Oui,Oui
+26262,20124,Amira Gasmi,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Non,Oui
+26263,20179,Omar Jemli,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Oui,Oui
+26264,19984,Salah Chebbi,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Non,Non,Non,Non
+26265,20139,Sami Jemli,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Non,Oui
+26266,20191,Jamel Dhouib,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Oui,Oui
+26267,19845,Thouraya Laabidi,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Oui,Oui
+26268,19841,Takwa Omrani,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Non,Oui
+26269,20173,Lobna Meddeb,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Oui,Oui
+26270,19997,Zohra Essid,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Non,Oui
+26271,20075,Lobna Ghanmi,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Non,Oui
+26272,20181,Marwan Bouzid,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Non,Oui
+26273,20112,Ines Ktari,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Oui,Non
+26274,19820,Yosra Hachicha,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Oui,Non
+26275,20255,Chedly Hajji,1342,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2025-04-12,Oui,Oui,Non,Oui
+26276,20430,Hichem Marzouki,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26277,20591,Mariam Hamza,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26278,20793,Intissar Horchani,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Non
+26279,20753,Ahlem Karoui,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26280,20726,Youssef Nasri,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Non,Non
+26281,20510,Ahmed Hachicha,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26282,20546,Ridha Hachicha,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Non,Non,Non,Non
+26283,20526,Makram Miled,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Non,Non
+26284,20538,Ines Jouini,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Non,Non
+26285,20573,Yosra Bouzid,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Non,Oui
+26286,20334,Najoua Feriani,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26287,20702,Ahmed Jazi,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Non,Oui
+26288,20761,Rami Bouhamed,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26289,19822,Adel Ghorbel,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26290,20750,Sonia Laabidi,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26291,19997,Zohra Essid,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26292,20343,Zied Karoui,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26293,20619,Wael Laabidi,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26294,19868,Walid Kchir,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26295,20516,Imed Marzouki,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26296,20622,Chiraz Ben Ahmed,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Non,Non
+26297,19869,Karim Dali,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Non
+26298,19907,Emad Ezzine,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Non,Non,Non,Non
+26299,20109,Khaled Horchani,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Non
+26300,19858,Emad Jazi,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26301,20143,Olfa Hajji,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Non,Oui
+26302,19861,Kenza Derbali,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26303,20190,Hana Chaabane,1343,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-10,Oui,Oui,Oui,Oui
+26304,20430,Hichem Marzouki,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Oui
+26305,20591,Mariam Hamza,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Oui
+26306,20793,Intissar Horchani,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Non,Non,Non,Non
+26307,20753,Ahlem Karoui,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Oui
+26308,20726,Youssef Nasri,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Non,Oui
+26309,20510,Ahmed Hachicha,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Non,Oui
+26310,20546,Ridha Hachicha,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Oui
+26311,20526,Makram Miled,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Oui
+26312,20538,Ines Jouini,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Oui
+26313,20573,Yosra Bouzid,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Oui
+26314,20334,Najoua Feriani,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Oui
+26315,20702,Ahmed Jazi,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Non
+26316,20761,Rami Bouhamed,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Non
+26317,19822,Adel Ghorbel,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Non,Non,Non,Non
+26318,20750,Sonia Laabidi,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Non,Non
+26319,19997,Zohra Essid,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Non
+26320,20343,Zied Karoui,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Oui
+26321,20619,Wael Laabidi,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Non
+26322,19868,Walid Kchir,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Non
+26323,20516,Imed Marzouki,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Non,Oui
+26324,20622,Chiraz Ben Ahmed,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Non,Non,Non,Non
+26325,19869,Karim Dali,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Non
+26326,19907,Emad Ezzine,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Oui
+26327,20109,Khaled Horchani,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Non,Non,Non,Non
+26328,19858,Emad Jazi,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Non,Non
+26329,20143,Olfa Hajji,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Oui
+26330,19861,Kenza Derbali,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Oui
+26331,20190,Hana Chaabane,1344,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-12,Oui,Oui,Oui,Oui
+26332,20430,Hichem Marzouki,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Oui
+26333,20591,Mariam Hamza,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Non
+26334,20793,Intissar Horchani,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Non,Oui
+26335,20753,Ahlem Karoui,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Non,Non,Non,Non
+26336,20726,Youssef Nasri,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Oui
+26337,20510,Ahmed Hachicha,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Non,Oui
+26338,20546,Ridha Hachicha,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Non
+26339,20526,Makram Miled,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Non
+26340,20538,Ines Jouini,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Non,Oui
+26341,20573,Yosra Bouzid,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Oui
+26342,20334,Najoua Feriani,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Oui
+26343,20702,Ahmed Jazi,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Oui
+26344,20761,Rami Bouhamed,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Non
+26345,19822,Adel Ghorbel,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Non
+26346,20750,Sonia Laabidi,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Non,Oui
+26347,19997,Zohra Essid,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Non
+26348,20343,Zied Karoui,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Non,Oui
+26349,20619,Wael Laabidi,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Non
+26350,19868,Walid Kchir,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Oui
+26351,20516,Imed Marzouki,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Non,Oui
+26352,20622,Chiraz Ben Ahmed,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Oui
+26353,19869,Karim Dali,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Non
+26354,19907,Emad Ezzine,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Non,Oui
+26355,20109,Khaled Horchani,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Oui
+26356,19858,Emad Jazi,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Oui
+26357,20143,Olfa Hajji,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Non,Non
+26358,19861,Kenza Derbali,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Oui,Oui,Oui,Oui
+26359,20190,Hana Chaabane,1345,"ITIL 4 Strategist: Direct, Plan and Improve",2025-01-14,Non,Non,Non,Non
+26360,19910,Karima Landolsi,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26361,20588,Zohra Dridi,1346,DevOps Foundation,2025-03-24,Non,Non,Non,Non
+26362,20072,Emna Layouni,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26363,19958,Fares Karray,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26364,19829,Thouraya Derbali,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26365,19948,Ghazi Hmida,1346,DevOps Foundation,2025-03-24,Non,Non,Non,Non
+26366,19940,Fadia Omrani,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26367,20286,Makram Chihaoui,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26368,20000,Slim Louati,1346,DevOps Foundation,2025-03-24,Oui,Oui,Non,Oui
+26369,20142,Emna Gabsi,1346,DevOps Foundation,2025-03-24,Non,Non,Non,Non
+26370,19907,Emad Ezzine,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26371,19922,Lamia Mahjoub,1346,DevOps Foundation,2025-03-24,Non,Non,Non,Non
+26372,19970,Khadija Meddeb,1346,DevOps Foundation,2025-03-24,Oui,Oui,Non,Oui
+26373,19997,Zohra Essid,1346,DevOps Foundation,2025-03-24,Oui,Oui,Non,Non
+26374,19987,Ali Daoud,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Non
+26375,19996,Najoua Chihaoui,1346,DevOps Foundation,2025-03-24,Oui,Oui,Non,Oui
+26376,19981,Chiraz Mansouri,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26377,20153,Sonia Guizani,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Non
+26378,19928,Chedly Daoud,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26379,19861,Kenza Derbali,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26380,20172,Sami Ezzine,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26381,20117,Wassim Chihaoui,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26382,19848,Thouraya Ktari,1346,DevOps Foundation,2025-03-24,Oui,Oui,Non,Oui
+26383,19988,Rania Ktari,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26384,20069,Nour Dridi,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26385,20083,Sabrine Bouaziz,1346,DevOps Foundation,2025-03-24,Oui,Oui,Non,Oui
+26386,19831,Zouheir Limam,1346,DevOps Foundation,2025-03-24,Oui,Oui,Oui,Oui
+26387,19910,Karima Landolsi,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Oui
+26388,20588,Zohra Dridi,1347,DevOps Foundation,2025-03-26,Oui,Oui,Non,Oui
+26389,20072,Emna Layouni,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Oui
+26390,19958,Fares Karray,1347,DevOps Foundation,2025-03-26,Oui,Oui,Non,Oui
+26391,19829,Thouraya Derbali,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Oui
+26392,19948,Ghazi Hmida,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Non
+26393,19940,Fadia Omrani,1347,DevOps Foundation,2025-03-26,Oui,Oui,Non,Non
+26394,20286,Makram Chihaoui,1347,DevOps Foundation,2025-03-26,Non,Non,Non,Non
+26395,20000,Slim Louati,1347,DevOps Foundation,2025-03-26,Non,Non,Non,Non
+26396,20142,Emna Gabsi,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Oui
+26397,19907,Emad Ezzine,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Oui
+26398,19922,Lamia Mahjoub,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Oui
+26399,19970,Khadija Meddeb,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Oui
+26400,19997,Zohra Essid,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Oui
+26401,19987,Ali Daoud,1347,DevOps Foundation,2025-03-26,Non,Non,Non,Non
+26402,19996,Najoua Chihaoui,1347,DevOps Foundation,2025-03-26,Oui,Oui,Non,Non
+26403,19981,Chiraz Mansouri,1347,DevOps Foundation,2025-03-26,Oui,Oui,Non,Oui
+26404,20153,Sonia Guizani,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Oui
+26405,19928,Chedly Daoud,1347,DevOps Foundation,2025-03-26,Oui,Oui,Non,Oui
+26406,19861,Kenza Derbali,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Oui
+26407,20172,Sami Ezzine,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Non
+26408,20117,Wassim Chihaoui,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Non
+26409,19848,Thouraya Ktari,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Oui
+26410,19988,Rania Ktari,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Non
+26411,20069,Nour Dridi,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Non
+26412,20083,Sabrine Bouaziz,1347,DevOps Foundation,2025-03-26,Oui,Oui,Oui,Oui
+26413,19831,Zouheir Limam,1347,DevOps Foundation,2025-03-26,Non,Non,Non,Non
+26414,19910,Karima Landolsi,1348,DevOps Foundation,2025-03-28,Oui,Oui,Non,Oui
+26415,20588,Zohra Dridi,1348,DevOps Foundation,2025-03-28,Non,Non,Non,Non
+26416,20072,Emna Layouni,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26417,19958,Fares Karray,1348,DevOps Foundation,2025-03-28,Oui,Oui,Non,Oui
+26418,19829,Thouraya Derbali,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26419,19948,Ghazi Hmida,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26420,19940,Fadia Omrani,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26421,20286,Makram Chihaoui,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26422,20000,Slim Louati,1348,DevOps Foundation,2025-03-28,Oui,Oui,Non,Oui
+26423,20142,Emna Gabsi,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26424,19907,Emad Ezzine,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26425,19922,Lamia Mahjoub,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26426,19970,Khadija Meddeb,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26427,19997,Zohra Essid,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26428,19987,Ali Daoud,1348,DevOps Foundation,2025-03-28,Non,Non,Non,Non
+26429,19996,Najoua Chihaoui,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26430,19981,Chiraz Mansouri,1348,DevOps Foundation,2025-03-28,Non,Non,Non,Non
+26431,20153,Sonia Guizani,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26432,19928,Chedly Daoud,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26433,19861,Kenza Derbali,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26434,20172,Sami Ezzine,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26435,20117,Wassim Chihaoui,1348,DevOps Foundation,2025-03-28,Oui,Oui,Non,Oui
+26436,19848,Thouraya Ktari,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26437,19988,Rania Ktari,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26438,20069,Nour Dridi,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26439,20083,Sabrine Bouaziz,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26440,19831,Zouheir Limam,1348,DevOps Foundation,2025-03-28,Oui,Oui,Oui,Oui
+26441,19910,Karima Landolsi,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26442,20588,Zohra Dridi,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Non
+26443,20072,Emna Layouni,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26444,19958,Fares Karray,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26445,19829,Thouraya Derbali,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26446,19948,Ghazi Hmida,1349,DevOps Foundation,2025-03-30,Oui,Oui,Non,Oui
+26447,19940,Fadia Omrani,1349,DevOps Foundation,2025-03-30,Oui,Oui,Non,Oui
+26448,20286,Makram Chihaoui,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Non
+26449,20000,Slim Louati,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26450,20142,Emna Gabsi,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Non
+26451,19907,Emad Ezzine,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26452,19922,Lamia Mahjoub,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Non
+26453,19970,Khadija Meddeb,1349,DevOps Foundation,2025-03-30,Oui,Oui,Non,Non
+26454,19997,Zohra Essid,1349,DevOps Foundation,2025-03-30,Non,Non,Non,Non
+26455,19987,Ali Daoud,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26456,19996,Najoua Chihaoui,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26457,19981,Chiraz Mansouri,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26458,20153,Sonia Guizani,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26459,19928,Chedly Daoud,1349,DevOps Foundation,2025-03-30,Oui,Oui,Non,Oui
+26460,19861,Kenza Derbali,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26461,20172,Sami Ezzine,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26462,20117,Wassim Chihaoui,1349,DevOps Foundation,2025-03-30,Oui,Oui,Non,Oui
+26463,19848,Thouraya Ktari,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26464,19988,Rania Ktari,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26465,20069,Nour Dridi,1349,DevOps Foundation,2025-03-30,Oui,Oui,Non,Oui
+26466,20083,Sabrine Bouaziz,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26467,19831,Zouheir Limam,1349,DevOps Foundation,2025-03-30,Oui,Oui,Oui,Oui
+26468,20328,Hatem Layouni,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Oui,Oui
+26469,20688,Dorsaf Laabidi,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Oui,Oui
+26470,20391,Tarek Ghorbel,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Non,Non,Non,Non
+26471,20353,Ghada Hassen,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Oui,Oui
+26472,20425,Moez Karoui,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Oui,Oui
+26473,20321,Taoufik Hleli,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Non,Non
+26474,20322,Salma Hachicha,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Non,Oui
+26475,20426,Kais Chaieb,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Non,Oui
+26476,20384,Wided Hmida,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Oui,Oui
+26477,20405,Intissar Mahjoub,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Oui,Oui
+26478,20360,Thouraya Mejri,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Oui,Oui
+26479,20368,Jamel Hadj,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Oui,Oui
+26480,20343,Zied Karoui,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Oui,Oui
+26481,20366,Takwa Bouaziz,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Oui,Oui
+26482,20349,Sofiane Hamza,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Non,Oui
+26483,20433,Noureddine Maaloul,1350,AWS Certified Solutions Architect - Associate,2025-04-24,Oui,Oui,Oui,Non
+26484,20328,Hatem Layouni,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Oui,Oui
+26485,20688,Dorsaf Laabidi,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Oui,Oui
+26486,20391,Tarek Ghorbel,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Non,Oui
+26487,20353,Ghada Hassen,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Oui,Oui
+26488,20425,Moez Karoui,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Oui,Oui
+26489,20321,Taoufik Hleli,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Non,Non,Non,Non
+26490,20322,Salma Hachicha,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Oui,Oui
+26491,20426,Kais Chaieb,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Oui,Oui
+26492,20384,Wided Hmida,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Oui,Oui
+26493,20405,Intissar Mahjoub,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Oui,Oui
+26494,20360,Thouraya Mejri,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Oui,Oui
+26495,20368,Jamel Hadj,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Oui,Oui
+26496,20343,Zied Karoui,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Oui,Oui
+26497,20366,Takwa Bouaziz,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Oui,Oui
+26498,20349,Sofiane Hamza,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Non,Oui
+26499,20433,Noureddine Maaloul,1351,AWS Certified Solutions Architect - Associate,2025-04-26,Oui,Oui,Oui,Oui
+26500,20328,Hatem Layouni,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Oui,Oui
+26501,20688,Dorsaf Laabidi,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Oui,Oui
+26502,20391,Tarek Ghorbel,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Oui,Oui
+26503,20353,Ghada Hassen,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Oui,Oui
+26504,20425,Moez Karoui,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Non,Oui
+26505,20321,Taoufik Hleli,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Oui,Oui
+26506,20322,Salma Hachicha,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Oui,Oui
+26507,20426,Kais Chaieb,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Non,Oui
+26508,20384,Wided Hmida,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Oui,Non
+26509,20405,Intissar Mahjoub,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Oui,Oui
+26510,20360,Thouraya Mejri,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Oui,Oui
+26511,20368,Jamel Hadj,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Oui,Oui
+26512,20343,Zied Karoui,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Oui,Oui
+26513,20366,Takwa Bouaziz,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Non,Non,Non,Non
+26514,20349,Sofiane Hamza,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Oui,Oui
+26515,20433,Noureddine Maaloul,1352,AWS Certified Solutions Architect - Associate,2025-04-28,Oui,Oui,Oui,Oui
+26516,20328,Hatem Layouni,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Oui,Oui
+26517,20688,Dorsaf Laabidi,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Oui,Oui
+26518,20391,Tarek Ghorbel,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Oui,Oui
+26519,20353,Ghada Hassen,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Non,Oui
+26520,20425,Moez Karoui,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Non,Oui
+26521,20321,Taoufik Hleli,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Oui,Non
+26522,20322,Salma Hachicha,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Non,Non,Non,Non
+26523,20426,Kais Chaieb,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Oui,Non
+26524,20384,Wided Hmida,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Oui,Non
+26525,20405,Intissar Mahjoub,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Oui,Oui
+26526,20360,Thouraya Mejri,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Oui,Oui
+26527,20368,Jamel Hadj,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Oui,Non
+26528,20343,Zied Karoui,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Oui,Non
+26529,20366,Takwa Bouaziz,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Oui,Oui
+26530,20349,Sofiane Hamza,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Non,Oui
+26531,20433,Noureddine Maaloul,1353,AWS Certified Solutions Architect - Associate,2025-04-30,Oui,Oui,Oui,Oui
+26532,20328,Hatem Layouni,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Oui,Oui,Oui,Non
+26533,20688,Dorsaf Laabidi,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Non,Non,Non,Non
+26534,20391,Tarek Ghorbel,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Oui,Oui,Oui,Oui
+26535,20353,Ghada Hassen,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Oui,Oui,Non,Oui
+26536,20425,Moez Karoui,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Oui,Oui,Oui,Non
+26537,20321,Taoufik Hleli,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Oui,Oui,Non,Non
+26538,20322,Salma Hachicha,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Oui,Oui,Oui,Oui
+26539,20426,Kais Chaieb,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Oui,Oui,Non,Oui
+26540,20384,Wided Hmida,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Oui,Oui,Oui,Non
+26541,20405,Intissar Mahjoub,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Oui,Oui,Oui,Non
+26542,20360,Thouraya Mejri,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Non,Non,Non,Non
+26543,20368,Jamel Hadj,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Oui,Oui,Non,Oui
+26544,20343,Zied Karoui,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Oui,Oui,Oui,Non
+26545,20366,Takwa Bouaziz,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Oui,Oui,Oui,Non
+26546,20349,Sofiane Hamza,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Non,Non,Non,Non
+26547,20433,Noureddine Maaloul,1354,AWS Certified Solutions Architect - Associate,2025-05-02,Non,Non,Non,Non
+26548,20717,Moncef Labidi,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26549,20320,Aymen Kchir,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26550,20225,Marwan Chaieb,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26551,20205,Najoua Omrani,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26552,20197,Rania Jemli,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26553,20310,Marwan Marzouki,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26554,20221,Hedi Karoui,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26555,20319,Manel Bouaziz,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26556,20407,Hiba Ben Salah,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Non,Oui
+26557,20350,Sabrine Dali,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Non
+26558,20564,Noureddine Daoud,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Non,Oui
+26559,20377,Sonia Louati,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26560,20198,Ridha Labidi,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Non,Non
+26561,20373,Kenza Mrad,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26562,20453,Takwa Jelassi,1355,Microsoft Azure Administrator,2024-12-14,Non,Non,Non,Non
+26563,20269,Besma Dridi,1355,Microsoft Azure Administrator,2024-12-14,Non,Non,Non,Non
+26564,20471,Amel Mansouri,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Non
+26565,20460,Maroua Ghorbel,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Non
+26566,20467,Taoufik Ben Ahmed,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26567,20482,Emna Feriani,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26568,20242,Ridha Mansouri,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Non
+26569,19989,Sofiane Bouhamed,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26570,20454,Karim Louati,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Non,Oui
+26571,20271,Amira Hajji,1355,Microsoft Azure Administrator,2024-12-14,Oui,Oui,Oui,Oui
+26572,20717,Moncef Labidi,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Non
+26573,20320,Aymen Kchir,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Non,Oui
+26574,20225,Marwan Chaieb,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Oui
+26575,20205,Najoua Omrani,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Oui
+26576,20197,Rania Jemli,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Non,Oui
+26577,20310,Marwan Marzouki,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Non,Oui
+27048,19829,Thouraya Derbali,1376,Data Science avec Python,2025-04-05,Non,Non,Non,Non
+26578,20221,Hedi Karoui,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Oui
+26579,20319,Manel Bouaziz,1356,Microsoft Azure Administrator,2024-12-16,Non,Non,Non,Non
+26580,20407,Hiba Ben Salah,1356,Microsoft Azure Administrator,2024-12-16,Non,Non,Non,Non
+26581,20350,Sabrine Dali,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Oui
+26582,20564,Noureddine Daoud,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Oui
+26583,20377,Sonia Louati,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Oui
+26584,20198,Ridha Labidi,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Non,Oui
+26585,20373,Kenza Mrad,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Non
+26586,20453,Takwa Jelassi,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Non,Oui
+26587,20269,Besma Dridi,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Non
+26588,20471,Amel Mansouri,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Oui
+26589,20460,Maroua Ghorbel,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Oui
+26590,20467,Taoufik Ben Ahmed,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Oui
+26591,20482,Emna Feriani,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Non,Oui
+26592,20242,Ridha Mansouri,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Oui
+26593,19989,Sofiane Bouhamed,1356,Microsoft Azure Administrator,2024-12-16,Non,Non,Non,Non
+26594,20454,Karim Louati,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Non
+26595,20271,Amira Hajji,1356,Microsoft Azure Administrator,2024-12-16,Oui,Oui,Oui,Oui
+26596,20717,Moncef Labidi,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Oui
+26597,20320,Aymen Kchir,1357,Microsoft Azure Administrator,2024-12-18,Non,Non,Non,Non
+26598,20225,Marwan Chaieb,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Non
+26599,20205,Najoua Omrani,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Non,Oui
+26600,20197,Rania Jemli,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Oui
+26601,20310,Marwan Marzouki,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Oui
+26602,20221,Hedi Karoui,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Oui
+26603,20319,Manel Bouaziz,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Non
+26604,20407,Hiba Ben Salah,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Non,Non
+26605,20350,Sabrine Dali,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Oui
+26606,20564,Noureddine Daoud,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Oui
+26607,20377,Sonia Louati,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Oui
+26608,20198,Ridha Labidi,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Non,Oui
+26609,20373,Kenza Mrad,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Non,Oui
+26610,20453,Takwa Jelassi,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Oui
+26611,20269,Besma Dridi,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Oui
+26612,20471,Amel Mansouri,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Non
+26613,20460,Maroua Ghorbel,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Oui
+26614,20467,Taoufik Ben Ahmed,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Non
+26615,20482,Emna Feriani,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Oui
+26616,20242,Ridha Mansouri,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Non,Oui
+26617,19989,Sofiane Bouhamed,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Oui
+26618,20454,Karim Louati,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Non,Oui
+26619,20271,Amira Hajji,1357,Microsoft Azure Administrator,2024-12-18,Oui,Oui,Oui,Oui
+26620,20527,Latifa Essid,1358,Google Cloud Professional Cloud Architect,2024-12-11,Non,Non,Non,Non
+26621,19834,Najoua Neffati,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Oui
+26622,20263,Zohra Meddeb,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Oui
+26623,20174,Salah Neffati,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Oui
+26624,20007,Mehdi Landolsi,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Non,Oui
+26625,20172,Sami Ezzine,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Non,Oui
+26626,20136,Nabil Gasmi,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Oui
+26627,19950,Ghada Hamza,1358,Google Cloud Professional Cloud Architect,2024-12-11,Non,Non,Non,Non
+26628,19984,Salah Chebbi,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Oui
+26629,19961,Farouk Gabsi,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Oui
+26630,20070,Karim Mestiri,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Non
+26631,19978,Yosra Bouaziz,1358,Google Cloud Professional Cloud Architect,2024-12-11,Non,Non,Non,Non
+26632,20096,Hiba Hassen,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Oui
+26633,19949,Ali Nabli,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Oui
+26634,20004,Marwan Rekik,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Oui
+26635,19955,Samia Chaabane,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Oui
+26636,20086,Hatem Chaabane,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Non,Oui
+26637,20092,Hichem Kchir,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Oui
+26638,19997,Zohra Essid,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Non,Oui
+26639,20189,Sami Jazi,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Oui
+26640,20078,Tarek Mestiri,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Non,Oui
+26641,19832,Hana Laabidi,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Non,Oui
+26642,19971,Bochra Kchir,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Oui,Oui
+26643,19985,Rami Omrani,1358,Google Cloud Professional Cloud Architect,2024-12-11,Oui,Oui,Non,Oui
+26644,20072,Emna Layouni,1358,Google Cloud Professional Cloud Architect,2024-12-11,Non,Non,Non,Non
+26645,20527,Latifa Essid,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Oui,Oui
+26646,19834,Najoua Neffati,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Oui,Oui
+26647,20263,Zohra Meddeb,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Non,Oui
+26648,20174,Salah Neffati,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Non,Non
+26649,20007,Mehdi Landolsi,1359,Google Cloud Professional Cloud Architect,2024-12-13,Non,Non,Non,Non
+26650,20172,Sami Ezzine,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Oui,Oui
+26651,20136,Nabil Gasmi,1359,Google Cloud Professional Cloud Architect,2024-12-13,Non,Non,Non,Non
+26652,19950,Ghada Hamza,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Non,Oui
+26653,19984,Salah Chebbi,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Oui,Non
+26654,19961,Farouk Gabsi,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Oui,Oui
+26655,20070,Karim Mestiri,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Non,Oui
+26656,19978,Yosra Bouaziz,1359,Google Cloud Professional Cloud Architect,2024-12-13,Non,Non,Non,Non
+26657,20096,Hiba Hassen,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Oui,Oui
+26658,19949,Ali Nabli,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Non,Oui
+26659,20004,Marwan Rekik,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Oui,Oui
+26660,19955,Samia Chaabane,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Oui,Oui
+26661,20086,Hatem Chaabane,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Non,Oui
+26662,20092,Hichem Kchir,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Oui,Oui
+26663,19997,Zohra Essid,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Oui,Non
+26664,20189,Sami Jazi,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Non,Oui
+26665,20078,Tarek Mestiri,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Oui,Non
+26666,19832,Hana Laabidi,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Non,Oui
+26667,19971,Bochra Kchir,1359,Google Cloud Professional Cloud Architect,2024-12-13,Non,Non,Non,Non
+26668,19985,Rami Omrani,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Oui,Oui
+26669,20072,Emna Layouni,1359,Google Cloud Professional Cloud Architect,2024-12-13,Oui,Oui,Oui,Oui
+26670,20527,Latifa Essid,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26671,19834,Najoua Neffati,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26672,20263,Zohra Meddeb,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26673,20174,Salah Neffati,1360,Google Cloud Professional Cloud Architect,2024-12-15,Non,Non,Non,Non
+26674,20007,Mehdi Landolsi,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Non
+26675,20172,Sami Ezzine,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26676,20136,Nabil Gasmi,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26677,19950,Ghada Hamza,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26678,19984,Salah Chebbi,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26679,19961,Farouk Gabsi,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26680,20070,Karim Mestiri,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26681,19978,Yosra Bouaziz,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26682,20096,Hiba Hassen,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Non,Oui
+26683,19949,Ali Nabli,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Non,Oui
+26684,20004,Marwan Rekik,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Non,Oui
+26685,19955,Samia Chaabane,1360,Google Cloud Professional Cloud Architect,2024-12-15,Non,Non,Non,Non
+26686,20086,Hatem Chaabane,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26687,20092,Hichem Kchir,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26688,19997,Zohra Essid,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26689,20189,Sami Jazi,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26690,20078,Tarek Mestiri,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Non,Oui
+26691,19832,Hana Laabidi,1360,Google Cloud Professional Cloud Architect,2024-12-15,Non,Non,Non,Non
+26692,19971,Bochra Kchir,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Oui
+26693,19985,Rami Omrani,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Oui,Non
+26694,20072,Emna Layouni,1360,Google Cloud Professional Cloud Architect,2024-12-15,Oui,Oui,Non,Non
+26695,20527,Latifa Essid,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26696,19834,Najoua Neffati,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26697,20263,Zohra Meddeb,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26698,20174,Salah Neffati,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26699,20007,Mehdi Landolsi,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Non,Oui
+26700,20172,Sami Ezzine,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Non,Oui
+26701,20136,Nabil Gasmi,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26702,19950,Ghada Hamza,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Non
+26703,19984,Salah Chebbi,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26704,19961,Farouk Gabsi,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Non,Non
+26705,20070,Karim Mestiri,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26706,19978,Yosra Bouaziz,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Non,Non
+26707,20096,Hiba Hassen,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26708,19949,Ali Nabli,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26709,20004,Marwan Rekik,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Non,Oui
+26710,19955,Samia Chaabane,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26711,20086,Hatem Chaabane,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26712,20092,Hichem Kchir,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26713,19997,Zohra Essid,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26714,20189,Sami Jazi,1361,Google Cloud Professional Cloud Architect,2024-12-17,Non,Non,Non,Non
+26715,20078,Tarek Mestiri,1361,Google Cloud Professional Cloud Architect,2024-12-17,Non,Non,Non,Non
+26716,19832,Hana Laabidi,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26717,19971,Bochra Kchir,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Non,Oui
+26718,19985,Rami Omrani,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Oui,Oui
+26719,20072,Emna Layouni,1361,Google Cloud Professional Cloud Architect,2024-12-17,Oui,Oui,Non,Oui
+26720,20282,Adel Layouni,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Non
+26721,20398,Intissar Horchani,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26722,20727,Marwan Fourati,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26723,20470,Ghada Khedher,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26724,20385,Farouk Horchani,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26725,20345,Fethi Mestiri,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Non,Oui
+26726,20373,Kenza Mrad,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Non,Oui
+26727,20334,Najoua Feriani,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Non,Oui
+26728,20412,Chedly Rekik,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26729,20389,Ali Hmida,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26730,20322,Salma Hachicha,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26731,20417,Ridha Trabelsi,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26732,20375,Ahmed Laabidi,1362,Scrum Master Certified,2025-04-18,Non,Non,Non,Non
+26733,20438,Farah Ben Ahmed,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Non,Oui
+26734,20371,Jihene Hmida,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Non
+26735,20383,Hedi Gasmi,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26736,20351,Chedly Layouni,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26737,20339,Amel Landolsi,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26738,20337,Latifa Neffati,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26739,20350,Sabrine Dali,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Non,Oui
+26740,20387,Manel Ouali,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Non,Non
+26741,20323,Khaled Karray,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26742,20368,Jamel Hadj,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Non,Oui
+26743,20338,Myriam Gasmi,1362,Scrum Master Certified,2025-04-18,Oui,Oui,Oui,Oui
+26744,20282,Adel Layouni,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Non,Non
+26745,20398,Intissar Horchani,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Oui
+26746,20727,Marwan Fourati,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Non
+26747,20470,Ghada Khedher,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Oui
+26748,20385,Farouk Horchani,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Oui
+26749,20345,Fethi Mestiri,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Non
+26750,20373,Kenza Mrad,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Oui
+26751,20334,Najoua Feriani,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Non,Oui
+26752,20412,Chedly Rekik,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Oui
+26753,20389,Ali Hmida,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Oui
+26754,20322,Salma Hachicha,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Oui
+26755,20417,Ridha Trabelsi,1363,Scrum Master Certified,2025-04-20,Non,Non,Non,Non
+26756,20375,Ahmed Laabidi,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Oui
+26757,20438,Farah Ben Ahmed,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Oui
+26758,20371,Jihene Hmida,1363,Scrum Master Certified,2025-04-20,Non,Non,Non,Non
+26759,20383,Hedi Gasmi,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Oui
+26760,20351,Chedly Layouni,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Oui
+26761,20339,Amel Landolsi,1363,Scrum Master Certified,2025-04-20,Non,Non,Non,Non
+26762,20337,Latifa Neffati,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Non
+26763,20350,Sabrine Dali,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Oui
+26764,20387,Manel Ouali,1363,Scrum Master Certified,2025-04-20,Non,Non,Non,Non
+26765,20323,Khaled Karray,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Non
+26766,20368,Jamel Hadj,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Oui,Oui
+26767,20338,Myriam Gasmi,1363,Scrum Master Certified,2025-04-20,Oui,Oui,Non,Non
+26768,20282,Adel Layouni,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Oui
+26769,20398,Intissar Horchani,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Non,Non
+26770,20727,Marwan Fourati,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Non,Non
+26771,20470,Ghada Khedher,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Non
+26772,20385,Farouk Horchani,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Non,Oui
+26773,20345,Fethi Mestiri,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Oui
+26774,20373,Kenza Mrad,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Non
+26775,20334,Najoua Feriani,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Oui
+26776,20412,Chedly Rekik,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Non
+26777,20389,Ali Hmida,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Non
+26778,20322,Salma Hachicha,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Oui
+26779,20417,Ridha Trabelsi,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Oui
+26780,20375,Ahmed Laabidi,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Oui
+26781,20438,Farah Ben Ahmed,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Oui
+26782,20371,Jihene Hmida,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Non
+26783,20383,Hedi Gasmi,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Non,Oui
+26784,20351,Chedly Layouni,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Non,Oui
+26785,20339,Amel Landolsi,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Non
+26786,20337,Latifa Neffati,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Oui
+26787,20350,Sabrine Dali,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Oui
+26788,20387,Manel Ouali,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Non,Oui
+26789,20323,Khaled Karray,1364,Scrum Master Certified,2025-04-22,Non,Non,Non,Non
+26790,20368,Jamel Hadj,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Oui,Oui
+26791,20338,Myriam Gasmi,1364,Scrum Master Certified,2025-04-22,Oui,Oui,Non,Oui
+26792,20282,Adel Layouni,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Oui
+26793,20398,Intissar Horchani,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Oui
+26794,20727,Marwan Fourati,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Non
+26795,20470,Ghada Khedher,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Oui
+26796,20385,Farouk Horchani,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Non
+26797,20345,Fethi Mestiri,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Non
+26798,20373,Kenza Mrad,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Oui
+26799,20334,Najoua Feriani,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Non
+26800,20412,Chedly Rekik,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Non,Oui
+26801,20389,Ali Hmida,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Oui
+26802,20322,Salma Hachicha,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Non,Non
+26803,20417,Ridha Trabelsi,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Oui
+26804,20375,Ahmed Laabidi,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Non,Oui
+26805,20438,Farah Ben Ahmed,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Non
+26806,20371,Jihene Hmida,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Oui
+26807,20383,Hedi Gasmi,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Oui
+26808,20351,Chedly Layouni,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Oui
+26809,20339,Amel Landolsi,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Oui
+26810,20337,Latifa Neffati,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Oui
+26811,20350,Sabrine Dali,1365,Scrum Master Certified,2025-04-24,Non,Non,Non,Non
+26812,20387,Manel Ouali,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Non
+26813,20323,Khaled Karray,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Non
+26814,20368,Jamel Hadj,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Oui
+26815,20338,Myriam Gasmi,1365,Scrum Master Certified,2025-04-24,Oui,Oui,Oui,Oui
+26816,20282,Adel Layouni,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Oui
+26817,20398,Intissar Horchani,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Non
+26818,20727,Marwan Fourati,1366,Scrum Master Certified,2025-04-26,Non,Non,Non,Non
+26819,20470,Ghada Khedher,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Non,Oui
+26820,20385,Farouk Horchani,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Non
+26821,20345,Fethi Mestiri,1366,Scrum Master Certified,2025-04-26,Non,Non,Non,Non
+26822,20373,Kenza Mrad,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Non,Oui
+26823,20334,Najoua Feriani,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Oui
+26824,20412,Chedly Rekik,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Oui
+26825,20389,Ali Hmida,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Non
+26826,20322,Salma Hachicha,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Non,Oui
+26827,20417,Ridha Trabelsi,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Oui
+26828,20375,Ahmed Laabidi,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Oui
+26829,20438,Farah Ben Ahmed,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Oui
+26830,20371,Jihene Hmida,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Oui
+26831,20383,Hedi Gasmi,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Non,Oui
+26832,20351,Chedly Layouni,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Non,Oui
+26833,20339,Amel Landolsi,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Oui
+26834,20337,Latifa Neffati,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Oui
+26835,20350,Sabrine Dali,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Oui
+26836,20387,Manel Ouali,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Oui
+26837,20323,Khaled Karray,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Oui
+26838,20368,Jamel Hadj,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Oui
+26839,20338,Myriam Gasmi,1366,Scrum Master Certified,2025-04-26,Oui,Oui,Oui,Non
+26840,20255,Chedly Hajji,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Non,Oui
+26841,19966,Yassine Miled,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Oui,Oui
+26842,19880,Wassim Meddeb,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Oui,Non
+26843,20428,Hajer Ben Ali,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Oui,Non
+26844,19820,Yosra Hachicha,1367,Project Management Professional (PMP),2025-05-02,Non,Non,Non,Non
+26845,19839,Fadia Guesmi,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Oui,Oui
+26846,19818,Amira Bouaziz,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Oui,Non
+26847,20217,Moez Hleli,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Non,Non
+26848,20159,Ikram Ghorbel,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Oui,Oui
+26849,19929,Hajer Hadj,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Oui,Oui
+26850,20192,Salma Chihaoui,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Non,Oui
+26851,19887,Sabrine Chihaoui,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Oui,Oui
+26852,20069,Nour Dridi,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Non,Oui
+26853,20076,Cyrine Jazi,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Oui,Oui
+26854,19896,Dorsaf Chaieb,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Oui,Oui
+26855,20709,Khaled Ghanmi,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Non,Oui
+26856,20373,Kenza Mrad,1367,Project Management Professional (PMP),2025-05-02,Non,Non,Non,Non
+26857,20262,Yassine Dridi,1367,Project Management Professional (PMP),2025-05-02,Oui,Oui,Non,Non
+26858,20255,Chedly Hajji,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26859,19966,Yassine Miled,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26860,19880,Wassim Meddeb,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26861,20428,Hajer Ben Ali,1368,Project Management Professional (PMP),2025-05-04,Non,Non,Non,Non
+26862,19820,Yosra Hachicha,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26863,19839,Fadia Guesmi,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26864,19818,Amira Bouaziz,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26865,20217,Moez Hleli,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26866,20159,Ikram Ghorbel,1368,Project Management Professional (PMP),2025-05-04,Non,Non,Non,Non
+26867,19929,Hajer Hadj,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26868,20192,Salma Chihaoui,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26869,19887,Sabrine Chihaoui,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26870,20069,Nour Dridi,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Non
+26871,20076,Cyrine Jazi,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26872,19896,Dorsaf Chaieb,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26873,20709,Khaled Ghanmi,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26874,20373,Kenza Mrad,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26875,20262,Yassine Dridi,1368,Project Management Professional (PMP),2025-05-04,Oui,Oui,Oui,Oui
+26876,20255,Chedly Hajji,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Oui,Oui
+26877,19966,Yassine Miled,1369,Project Management Professional (PMP),2025-05-06,Non,Non,Non,Non
+26878,19880,Wassim Meddeb,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Oui,Oui
+26879,20428,Hajer Ben Ali,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Oui,Oui
+26880,19820,Yosra Hachicha,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Oui,Non
+26881,19839,Fadia Guesmi,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Non,Oui
+26882,19818,Amira Bouaziz,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Non,Oui
+26883,20217,Moez Hleli,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Oui,Oui
+26884,20159,Ikram Ghorbel,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Non,Oui
+26885,19929,Hajer Hadj,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Oui,Oui
+26886,20192,Salma Chihaoui,1369,Project Management Professional (PMP),2025-05-06,Non,Non,Non,Non
+26887,19887,Sabrine Chihaoui,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Non,Oui
+26888,20069,Nour Dridi,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Oui,Oui
+26889,20076,Cyrine Jazi,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Oui,Non
+26890,19896,Dorsaf Chaieb,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Non,Oui
+26891,20709,Khaled Ghanmi,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Non,Oui
+26892,20373,Kenza Mrad,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Oui,Oui
+26893,20262,Yassine Dridi,1369,Project Management Professional (PMP),2025-05-06,Oui,Oui,Oui,Oui
+26894,20255,Chedly Hajji,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Oui,Oui
+26895,19966,Yassine Miled,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Non,Oui
+26896,19880,Wassim Meddeb,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Non,Non
+26897,20428,Hajer Ben Ali,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Oui,Oui
+26898,19820,Yosra Hachicha,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Oui,Non
+26899,19839,Fadia Guesmi,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Oui,Non
+26900,19818,Amira Bouaziz,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Non,Oui
+26901,20217,Moez Hleli,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Oui,Oui
+26902,20159,Ikram Ghorbel,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Oui,Oui
+26903,19929,Hajer Hadj,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Non,Non
+26904,20192,Salma Chihaoui,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Oui,Non
+26905,19887,Sabrine Chihaoui,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Oui,Oui
+26906,20069,Nour Dridi,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Non,Non
+26907,20076,Cyrine Jazi,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Non,Oui
+26908,19896,Dorsaf Chaieb,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Non,Oui
+26909,20709,Khaled Ghanmi,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Oui,Oui
+26910,20373,Kenza Mrad,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Oui,Oui
+26911,20262,Yassine Dridi,1370,Project Management Professional (PMP),2025-05-08,Oui,Oui,Oui,Oui
+26912,19861,Kenza Derbali,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Oui,Oui
+26913,20432,Marwan Maaloul,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Oui,Oui
+26914,20579,Cyrine Bouhamed,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Non,Non
+26915,20443,Moncef Jelassi,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Oui,Oui
+26916,20506,Intissar Fatnassi,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Oui,Oui
+26917,20456,Chiraz Mejri,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Non,Non,Non,Non
+26918,20439,Farouk Maaloul,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Oui,Oui
+26919,20509,Ikram Jazi,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Oui,Oui
+26920,20403,Nesrine Chebbi,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Non,Oui
+26921,20458,Nabil Bouhamed,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Oui,Oui
+26922,20512,Latifa Kchir,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Non,Non,Non,Non
+26923,20393,Maher Khlif,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Non,Oui
+26924,20536,Yasmine Nasri,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Non,Oui
+26925,20563,Ines Hmida,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Non,Non
+26926,20423,Takwa Khlif,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Oui,Non
+26927,20445,Maher Jebali,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Oui,Oui
+26928,20406,Imed Landolsi,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Oui,Oui
+26929,20433,Noureddine Maaloul,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Oui,Non
+26930,20444,Taoufik Karray,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Non,Oui
+26931,20286,Makram Chihaoui,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Oui,Oui
+26932,20038,Zied Hadj,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Non,Oui
+26933,20202,Bochra Mrad,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Non,Oui
+26934,20028,Hajer Neffati,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Non,Oui
+26935,19941,Hana Hleli,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Non,Non,Non,Non
+26936,19985,Rami Omrani,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Non,Non,Non,Non
+26937,20803,Ines Gharbi,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Non,Non,Non,Non
+26938,19838,Hana Ben Salah,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Non,Non,Non,Non
+26939,20776,Samia Jebali,1371,Certified Information Systems Security Professional (CISSP),2025-05-16,Oui,Oui,Oui,Non
+26940,19861,Kenza Derbali,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Non,Non
+26941,20432,Marwan Maaloul,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Non
+26942,20579,Cyrine Bouhamed,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Non,Non,Non,Non
+26943,20443,Moncef Jelassi,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Non,Non,Non,Non
+26944,20506,Intissar Fatnassi,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26945,20456,Chiraz Mejri,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26946,20439,Farouk Maaloul,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Non,Oui
+26947,20509,Ikram Jazi,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26948,20403,Nesrine Chebbi,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Non,Non,Non,Non
+26949,20458,Nabil Bouhamed,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26950,20512,Latifa Kchir,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Non,Oui
+26951,20393,Maher Khlif,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26952,20536,Yasmine Nasri,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26953,20563,Ines Hmida,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Non,Non
+26954,20423,Takwa Khlif,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26955,20445,Maher Jebali,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Non,Non
+26956,20406,Imed Landolsi,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Non,Oui
+26957,20433,Noureddine Maaloul,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Non
+26958,20444,Taoufik Karray,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26959,20286,Makram Chihaoui,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Non
+26960,20038,Zied Hadj,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26961,20202,Bochra Mrad,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26962,20028,Hajer Neffati,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26963,19941,Hana Hleli,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Non,Non
+26964,19985,Rami Omrani,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Non
+26965,20803,Ines Gharbi,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26966,19838,Hana Ben Salah,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26967,20776,Samia Jebali,1372,Certified Information Systems Security Professional (CISSP),2025-05-18,Oui,Oui,Oui,Oui
+26968,19861,Kenza Derbali,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Non,Oui
+26969,20432,Marwan Maaloul,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Oui
+26970,20579,Cyrine Bouhamed,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Non,Oui
+26971,20443,Moncef Jelassi,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Oui
+26972,20506,Intissar Fatnassi,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Non
+26973,20456,Chiraz Mejri,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Oui
+26974,20439,Farouk Maaloul,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Non,Non,Non,Non
+26975,20509,Ikram Jazi,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Oui
+26976,20403,Nesrine Chebbi,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Non
+26977,20458,Nabil Bouhamed,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Oui
+26978,20512,Latifa Kchir,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Non,Non
+26979,20393,Maher Khlif,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Non,Oui
+26980,20536,Yasmine Nasri,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Oui
+26981,20563,Ines Hmida,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Non,Oui
+26982,20423,Takwa Khlif,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Non
+26983,20445,Maher Jebali,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Non
+26984,20406,Imed Landolsi,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Oui
+26985,20433,Noureddine Maaloul,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Oui
+26986,20444,Taoufik Karray,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Oui
+26987,20286,Makram Chihaoui,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Non
+26988,20038,Zied Hadj,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Oui
+26989,20202,Bochra Mrad,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Non
+26990,20028,Hajer Neffati,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Non,Non,Non,Non
+26991,19941,Hana Hleli,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Non
+26992,19985,Rami Omrani,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Non,Oui
+26993,20803,Ines Gharbi,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Oui
+26994,19838,Hana Ben Salah,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Non
+26995,20776,Samia Jebali,1373,Certified Information Systems Security Professional (CISSP),2025-05-20,Oui,Oui,Oui,Oui
+26996,19924,Lobna Layouni,1374,Data Science avec Python,2025-04-01,Oui,Oui,Oui,Oui
+26997,20160,Maroua Mrad,1374,Data Science avec Python,2025-04-01,Oui,Oui,Oui,Oui
+26998,20013,Ghada Karray,1374,Data Science avec Python,2025-04-01,Non,Non,Non,Non
+26999,20018,Takwa Marzouki,1374,Data Science avec Python,2025-04-01,Oui,Oui,Oui,Oui
+27000,20092,Hichem Kchir,1374,Data Science avec Python,2025-04-01,Oui,Oui,Non,Oui
+27001,20140,Myriam Chaabane,1374,Data Science avec Python,2025-04-01,Oui,Oui,Oui,Oui
+27002,20178,Jamel Fkih,1374,Data Science avec Python,2025-04-01,Oui,Oui,Non,Oui
+27003,20779,Kais Fkih,1374,Data Science avec Python,2025-04-01,Oui,Oui,Non,Non
+27004,20099,Moez Ghorbel,1374,Data Science avec Python,2025-04-01,Non,Non,Non,Non
+27005,20388,Cyrine Fourati,1374,Data Science avec Python,2025-04-01,Oui,Oui,Non,Oui
+27006,20421,Bochra Khlif,1374,Data Science avec Python,2025-04-01,Oui,Oui,Non,Oui
+27007,20183,Farouk Dridi,1374,Data Science avec Python,2025-04-01,Oui,Oui,Oui,Oui
+27008,19829,Thouraya Derbali,1374,Data Science avec Python,2025-04-01,Oui,Oui,Oui,Oui
+27009,19821,Ines Bouzid,1374,Data Science avec Python,2025-04-01,Oui,Oui,Oui,Oui
+27010,19857,Samia Ktari,1374,Data Science avec Python,2025-04-01,Oui,Oui,Oui,Oui
+27011,20109,Khaled Horchani,1374,Data Science avec Python,2025-04-01,Oui,Oui,Non,Oui
+27012,20390,Rami Limam,1374,Data Science avec Python,2025-04-01,Oui,Oui,Non,Oui
+27013,20367,Kais Sellami,1374,Data Science avec Python,2025-04-01,Oui,Oui,Oui,Oui
+27014,20163,Samir Dhouib,1374,Data Science avec Python,2025-04-01,Oui,Oui,Oui,Oui
+27015,20431,Maher Ghanmi,1374,Data Science avec Python,2025-04-01,Oui,Oui,Non,Oui
+27016,19924,Lobna Layouni,1375,Data Science avec Python,2025-04-03,Oui,Oui,Non,Oui
+27017,20160,Maroua Mrad,1375,Data Science avec Python,2025-04-03,Oui,Oui,Non,Oui
+27018,20013,Ghada Karray,1375,Data Science avec Python,2025-04-03,Oui,Oui,Oui,Oui
+27019,20018,Takwa Marzouki,1375,Data Science avec Python,2025-04-03,Oui,Oui,Oui,Oui
+27020,20092,Hichem Kchir,1375,Data Science avec Python,2025-04-03,Oui,Oui,Non,Oui
+27021,20140,Myriam Chaabane,1375,Data Science avec Python,2025-04-03,Oui,Oui,Non,Oui
+27022,20178,Jamel Fkih,1375,Data Science avec Python,2025-04-03,Oui,Oui,Oui,Oui
+27023,20779,Kais Fkih,1375,Data Science avec Python,2025-04-03,Oui,Oui,Non,Oui
+27024,20099,Moez Ghorbel,1375,Data Science avec Python,2025-04-03,Oui,Oui,Oui,Oui
+27025,20388,Cyrine Fourati,1375,Data Science avec Python,2025-04-03,Oui,Oui,Non,Oui
+27026,20421,Bochra Khlif,1375,Data Science avec Python,2025-04-03,Oui,Oui,Oui,Non
+27027,20183,Farouk Dridi,1375,Data Science avec Python,2025-04-03,Oui,Oui,Oui,Oui
+27028,19829,Thouraya Derbali,1375,Data Science avec Python,2025-04-03,Non,Non,Non,Non
+27029,19821,Ines Bouzid,1375,Data Science avec Python,2025-04-03,Non,Non,Non,Non
+27030,19857,Samia Ktari,1375,Data Science avec Python,2025-04-03,Oui,Oui,Non,Oui
+27031,20109,Khaled Horchani,1375,Data Science avec Python,2025-04-03,Oui,Oui,Oui,Oui
+27032,20390,Rami Limam,1375,Data Science avec Python,2025-04-03,Oui,Oui,Oui,Oui
+27033,20367,Kais Sellami,1375,Data Science avec Python,2025-04-03,Oui,Oui,Oui,Oui
+27034,20163,Samir Dhouib,1375,Data Science avec Python,2025-04-03,Oui,Oui,Oui,Oui
+27035,20431,Maher Ghanmi,1375,Data Science avec Python,2025-04-03,Oui,Oui,Oui,Oui
+27036,19924,Lobna Layouni,1376,Data Science avec Python,2025-04-05,Oui,Oui,Oui,Oui
+27037,20160,Maroua Mrad,1376,Data Science avec Python,2025-04-05,Oui,Oui,Oui,Oui
+27038,20013,Ghada Karray,1376,Data Science avec Python,2025-04-05,Oui,Oui,Oui,Non
+27039,20018,Takwa Marzouki,1376,Data Science avec Python,2025-04-05,Oui,Oui,Oui,Non
+27040,20092,Hichem Kchir,1376,Data Science avec Python,2025-04-05,Oui,Oui,Non,Oui
+27041,20140,Myriam Chaabane,1376,Data Science avec Python,2025-04-05,Oui,Oui,Non,Non
+27042,20178,Jamel Fkih,1376,Data Science avec Python,2025-04-05,Oui,Oui,Oui,Oui
+27043,20779,Kais Fkih,1376,Data Science avec Python,2025-04-05,Oui,Oui,Non,Oui
+27044,20099,Moez Ghorbel,1376,Data Science avec Python,2025-04-05,Oui,Oui,Oui,Oui
+27045,20388,Cyrine Fourati,1376,Data Science avec Python,2025-04-05,Non,Non,Non,Non
+27046,20421,Bochra Khlif,1376,Data Science avec Python,2025-04-05,Oui,Oui,Oui,Oui
+27047,20183,Farouk Dridi,1376,Data Science avec Python,2025-04-05,Oui,Oui,Oui,Oui
+27049,19821,Ines Bouzid,1376,Data Science avec Python,2025-04-05,Oui,Oui,Oui,Non
+27050,19857,Samia Ktari,1376,Data Science avec Python,2025-04-05,Non,Non,Non,Non
+27051,20109,Khaled Horchani,1376,Data Science avec Python,2025-04-05,Oui,Oui,Oui,Non
+27052,20390,Rami Limam,1376,Data Science avec Python,2025-04-05,Oui,Oui,Oui,Oui
+27053,20367,Kais Sellami,1376,Data Science avec Python,2025-04-05,Non,Non,Non,Non
+27054,20163,Samir Dhouib,1376,Data Science avec Python,2025-04-05,Oui,Oui,Non,Oui
+27055,20431,Maher Ghanmi,1376,Data Science avec Python,2025-04-05,Oui,Oui,Oui,Oui
+27056,19924,Lobna Layouni,1377,Data Science avec Python,2025-04-07,Oui,Oui,Oui,Oui
+27057,20160,Maroua Mrad,1377,Data Science avec Python,2025-04-07,Oui,Oui,Non,Oui
+27058,20013,Ghada Karray,1377,Data Science avec Python,2025-04-07,Oui,Oui,Non,Oui
+27059,20018,Takwa Marzouki,1377,Data Science avec Python,2025-04-07,Oui,Oui,Oui,Non
+27060,20092,Hichem Kchir,1377,Data Science avec Python,2025-04-07,Oui,Oui,Oui,Oui
+27061,20140,Myriam Chaabane,1377,Data Science avec Python,2025-04-07,Oui,Oui,Oui,Oui
+27062,20178,Jamel Fkih,1377,Data Science avec Python,2025-04-07,Oui,Oui,Non,Non
+27063,20779,Kais Fkih,1377,Data Science avec Python,2025-04-07,Oui,Oui,Non,Oui
+27064,20099,Moez Ghorbel,1377,Data Science avec Python,2025-04-07,Oui,Oui,Oui,Oui
+27065,20388,Cyrine Fourati,1377,Data Science avec Python,2025-04-07,Non,Non,Non,Non
+27066,20421,Bochra Khlif,1377,Data Science avec Python,2025-04-07,Oui,Oui,Oui,Oui
+27067,20183,Farouk Dridi,1377,Data Science avec Python,2025-04-07,Oui,Oui,Non,Oui
+27068,19829,Thouraya Derbali,1377,Data Science avec Python,2025-04-07,Oui,Oui,Oui,Oui
+27069,19821,Ines Bouzid,1377,Data Science avec Python,2025-04-07,Oui,Oui,Non,Oui
+27070,19857,Samia Ktari,1377,Data Science avec Python,2025-04-07,Oui,Oui,Non,Oui
+27071,20109,Khaled Horchani,1377,Data Science avec Python,2025-04-07,Oui,Oui,Oui,Oui
+27072,20390,Rami Limam,1377,Data Science avec Python,2025-04-07,Oui,Oui,Non,Oui
+27073,20367,Kais Sellami,1377,Data Science avec Python,2025-04-07,Oui,Oui,Oui,Oui
+27074,20163,Samir Dhouib,1377,Data Science avec Python,2025-04-07,Oui,Oui,Oui,Oui
+27075,20431,Maher Ghanmi,1377,Data Science avec Python,2025-04-07,Non,Non,Non,Non
+27076,20704,Fadia Fatnassi,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Oui,Non
+27077,20568,Bochra Ben Ali,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Non,Oui
+27078,20444,Taoufik Karray,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Non,Oui
+27079,20402,Dalila Derbali,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Oui,Oui
+27080,20438,Farah Ben Ahmed,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Oui,Oui
+27081,20387,Manel Ouali,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Non,Oui
+27082,20439,Farouk Maaloul,1378,Blockchain pour les entreprises,2025-04-29,Non,Non,Non,Non
+27083,20333,Noureddine Layouni,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Non,Oui
+27084,20362,Salma Nabli,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Oui,Oui
+27085,20381,Omar Mahjoub,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Non,Oui
+27086,20326,Ikram Gasmi,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Oui,Oui
+27087,20354,Jihene Mabrouk,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Oui,Non
+27088,20351,Chedly Layouni,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Oui,Oui
+27089,20383,Hedi Gasmi,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Non,Oui
+27090,20012,Hatem Bouaziz,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Oui,Oui
+27091,20256,Zeineb Ferchichi,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Non,Non
+27092,19991,Khadija Ghali,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Oui,Oui
+27093,20394,Aymen Gabsi,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Oui,Oui
+27094,19821,Ines Bouzid,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Non,Oui
+27095,20355,Kenza Hadj,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Oui,Oui
+27096,20363,Hana Miled,1378,Blockchain pour les entreprises,2025-04-29,Oui,Oui,Oui,Oui
+27097,20377,Sonia Louati,1378,Blockchain pour les entreprises,2025-04-29,Non,Non,Non,Non
+27098,20704,Fadia Fatnassi,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Oui
+27099,20568,Bochra Ben Ali,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Oui
+27100,20444,Taoufik Karray,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Oui
+27101,20402,Dalila Derbali,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Oui
+27102,20438,Farah Ben Ahmed,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Oui
+27103,20387,Manel Ouali,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Non,Oui
+27104,20439,Farouk Maaloul,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Non,Oui
+27105,20333,Noureddine Layouni,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Oui
+27106,20362,Salma Nabli,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Non,Oui
+27107,20381,Omar Mahjoub,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Oui
+27108,20326,Ikram Gasmi,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Oui
+27109,20354,Jihene Mabrouk,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Oui
+27110,20351,Chedly Layouni,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Non,Oui
+27111,20383,Hedi Gasmi,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Non,Oui
+27112,20012,Hatem Bouaziz,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Oui
+27113,20256,Zeineb Ferchichi,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Oui
+27114,19991,Khadija Ghali,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Non,Oui
+27115,20394,Aymen Gabsi,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Oui
+27116,19821,Ines Bouzid,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Non,Oui
+27117,20355,Kenza Hadj,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Non
+27118,20363,Hana Miled,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Oui,Oui
+27119,20377,Sonia Louati,1379,Blockchain pour les entreprises,2025-05-01,Oui,Oui,Non,Non
+27120,20704,Fadia Fatnassi,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Oui,Oui
+27121,20568,Bochra Ben Ali,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Oui,Non
+27122,20444,Taoufik Karray,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Non,Oui
+27123,20402,Dalila Derbali,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Oui,Oui
+27124,20438,Farah Ben Ahmed,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Non,Oui
+27125,20387,Manel Ouali,1380,Blockchain pour les entreprises,2025-05-03,Non,Non,Non,Non
+27126,20439,Farouk Maaloul,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Oui,Oui
+27127,20333,Noureddine Layouni,1380,Blockchain pour les entreprises,2025-05-03,Non,Non,Non,Non
+27128,20362,Salma Nabli,1380,Blockchain pour les entreprises,2025-05-03,Non,Non,Non,Non
+27129,20381,Omar Mahjoub,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Non,Oui
+27130,20326,Ikram Gasmi,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Non,Oui
+27131,20354,Jihene Mabrouk,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Non,Oui
+27132,20351,Chedly Layouni,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Oui,Oui
+27133,20383,Hedi Gasmi,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Oui,Non
+27134,20012,Hatem Bouaziz,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Oui,Oui
+27135,20256,Zeineb Ferchichi,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Non,Oui
+27136,19991,Khadija Ghali,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Non,Oui
+27137,20394,Aymen Gabsi,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Non,Oui
+27138,19821,Ines Bouzid,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Oui,Non
+27139,20355,Kenza Hadj,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Oui,Oui
+27140,20363,Hana Miled,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Oui,Oui
+27141,20377,Sonia Louati,1380,Blockchain pour les entreprises,2025-05-03,Oui,Oui,Non,Oui
+27142,20704,Fadia Fatnassi,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Oui
+27143,20568,Bochra Ben Ali,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Non
+27144,20444,Taoufik Karray,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Non,Oui
+27145,20402,Dalila Derbali,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Oui
+27146,20438,Farah Ben Ahmed,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Non,Oui
+27147,20387,Manel Ouali,1381,Blockchain pour les entreprises,2025-05-05,Non,Non,Non,Non
+27148,20439,Farouk Maaloul,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Non
+27149,20333,Noureddine Layouni,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Non,Non
+27150,20362,Salma Nabli,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Oui
+27151,20381,Omar Mahjoub,1381,Blockchain pour les entreprises,2025-05-05,Non,Non,Non,Non
+27152,20326,Ikram Gasmi,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Non,Oui
+27153,20354,Jihene Mabrouk,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Non
+27154,20351,Chedly Layouni,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Oui
+27155,20383,Hedi Gasmi,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Non,Oui
+27156,20012,Hatem Bouaziz,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Oui
+27157,20256,Zeineb Ferchichi,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Non,Oui
+27158,19991,Khadija Ghali,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Non
+27159,20394,Aymen Gabsi,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Oui
+27160,19821,Ines Bouzid,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Oui
+27161,20355,Kenza Hadj,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Oui
+27162,20363,Hana Miled,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Oui
+27163,20377,Sonia Louati,1381,Blockchain pour les entreprises,2025-05-05,Oui,Oui,Oui,Oui
+27164,19843,Jamel Mrad,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Oui
+27165,20218,Kais Ben Ali,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Non,Oui
+27166,20081,Jihene Chaieb,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Oui
+27167,20146,Dali Ben Ali,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Non,Non
+27168,20116,Samia Ghali,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Non
+27169,20078,Tarek Mestiri,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Non,Non
+27170,20103,Khadija Essid,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Oui
+27171,19950,Ghada Hamza,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Oui
+27172,19888,Imed Hamza,1382,Intelligence Artificielle pour managers,2025-01-17,Non,Non,Non,Non
+27173,19936,Farouk Jazi,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Oui
+27174,20087,Moez Mahjoub,1382,Intelligence Artificielle pour managers,2025-01-17,Non,Non,Non,Non
+27175,19898,Yasmine Chedly,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Non
+27176,19881,Rania Louati,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Oui
+27177,19938,Bochra Derbali,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Oui
+27178,19912,Jihene Mahjoub,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Non,Oui
+27179,20121,Fares Ghali,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Oui
+27180,19883,Khaled Chaieb,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Oui
+27181,20070,Karim Mestiri,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Oui
+27182,19875,Mehdi Trabelsi,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Non
+27183,20105,Noureddine Sellami,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Non,Oui
+27184,19884,Fethi Derbali,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Non,Oui
+27185,19896,Dorsaf Chaieb,1382,Intelligence Artificielle pour managers,2025-01-17,Oui,Oui,Oui,Oui
+27186,19843,Jamel Mrad,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Oui
+27187,20218,Kais Ben Ali,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Oui
+27188,20081,Jihene Chaieb,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Non,Oui
+27189,20146,Dali Ben Ali,1383,Intelligence Artificielle pour managers,2025-01-19,Non,Non,Non,Non
+27190,20116,Samia Ghali,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Oui
+27191,20078,Tarek Mestiri,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Oui
+27192,20103,Khadija Essid,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Non,Non
+27193,19950,Ghada Hamza,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Oui
+27194,19888,Imed Hamza,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Oui
+27195,19936,Farouk Jazi,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Oui
+27196,20087,Moez Mahjoub,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Oui
+27197,19898,Yasmine Chedly,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Oui
+27198,19881,Rania Louati,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Oui
+27199,19938,Bochra Derbali,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Oui
+27200,19912,Jihene Mahjoub,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Oui
+27201,20121,Fares Ghali,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Non,Oui
+27202,19883,Khaled Chaieb,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Non,Oui
+27203,20070,Karim Mestiri,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Non,Oui
+27204,19875,Mehdi Trabelsi,1383,Intelligence Artificielle pour managers,2025-01-19,Non,Non,Non,Non
+27205,20105,Noureddine Sellami,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Oui
+27206,19884,Fethi Derbali,1383,Intelligence Artificielle pour managers,2025-01-19,Non,Non,Non,Non
+27207,19896,Dorsaf Chaieb,1383,Intelligence Artificielle pour managers,2025-01-19,Oui,Oui,Oui,Non
+27208,19843,Jamel Mrad,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Oui,Oui
+27209,20218,Kais Ben Ali,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Oui,Non
+27210,20081,Jihene Chaieb,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Oui,Oui
+27211,20146,Dali Ben Ali,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Oui,Oui
+27212,20116,Samia Ghali,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Non,Oui
+27213,20078,Tarek Mestiri,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Non,Oui
+27214,20103,Khadija Essid,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Oui,Oui
+27215,19950,Ghada Hamza,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Oui,Oui
+27216,19888,Imed Hamza,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Oui,Oui
+27217,19936,Farouk Jazi,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Non,Oui
+27218,20087,Moez Mahjoub,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Oui,Oui
+27219,19898,Yasmine Chedly,1384,Intelligence Artificielle pour managers,2025-01-21,Non,Non,Non,Non
+27220,19881,Rania Louati,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Non,Non
+27221,19938,Bochra Derbali,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Non,Oui
+27222,19912,Jihene Mahjoub,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Oui,Oui
+27223,20121,Fares Ghali,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Non,Oui
+27224,19883,Khaled Chaieb,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Non,Oui
+27225,20070,Karim Mestiri,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Oui,Oui
+27226,19875,Mehdi Trabelsi,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Oui,Non
+27227,20105,Noureddine Sellami,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Oui,Oui
+27228,19884,Fethi Derbali,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Non,Oui
+27229,19896,Dorsaf Chaieb,1384,Intelligence Artificielle pour managers,2025-01-21,Oui,Oui,Oui,Oui
+27230,19843,Jamel Mrad,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Oui,Oui
+27231,20218,Kais Ben Ali,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Oui,Oui
+27232,20081,Jihene Chaieb,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Non,Oui
+27233,20146,Dali Ben Ali,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Non,Oui
+27234,20116,Samia Ghali,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Non,Oui
+27235,20078,Tarek Mestiri,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Oui,Oui
+27236,20103,Khadija Essid,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Non,Oui
+27237,19950,Ghada Hamza,1385,Intelligence Artificielle pour managers,2025-01-23,Non,Non,Non,Non
+27238,19888,Imed Hamza,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Oui,Oui
+27239,19936,Farouk Jazi,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Non,Oui
+27240,20087,Moez Mahjoub,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Oui,Oui
+27241,19898,Yasmine Chedly,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Oui,Oui
+27242,19881,Rania Louati,1385,Intelligence Artificielle pour managers,2025-01-23,Non,Non,Non,Non
+27243,19938,Bochra Derbali,1385,Intelligence Artificielle pour managers,2025-01-23,Non,Non,Non,Non
+27244,19912,Jihene Mahjoub,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Non,Oui
+27245,20121,Fares Ghali,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Oui,Oui
+27246,19883,Khaled Chaieb,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Oui,Oui
+27247,20070,Karim Mestiri,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Oui,Oui
+27248,19875,Mehdi Trabelsi,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Non,Oui
+27249,20105,Noureddine Sellami,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Oui,Oui
+27250,19884,Fethi Derbali,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Oui,Oui
+27251,19896,Dorsaf Chaieb,1385,Intelligence Artificielle pour managers,2025-01-23,Oui,Oui,Oui,Non
+27252,19843,Jamel Mrad,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Oui
+27253,20218,Kais Ben Ali,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Oui
+27254,20081,Jihene Chaieb,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Non
+27255,20146,Dali Ben Ali,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Oui
+27256,20116,Samia Ghali,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Non
+27257,20078,Tarek Mestiri,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Non
+27258,20103,Khadija Essid,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Oui
+27259,19950,Ghada Hamza,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Oui
+27260,19888,Imed Hamza,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Non,Oui
+27261,19936,Farouk Jazi,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Oui
+27262,20087,Moez Mahjoub,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Non,Oui
+27263,19898,Yasmine Chedly,1386,Intelligence Artificielle pour managers,2025-01-25,Non,Non,Non,Non
+27264,19881,Rania Louati,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Non
+27265,19938,Bochra Derbali,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Oui
+27266,19912,Jihene Mahjoub,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Non,Non
+27267,20121,Fares Ghali,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Oui
+27268,19883,Khaled Chaieb,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Oui
+27269,20070,Karim Mestiri,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Non
+27270,19875,Mehdi Trabelsi,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Oui
+27271,20105,Noureddine Sellami,1386,Intelligence Artificielle pour managers,2025-01-25,Oui,Oui,Oui,Oui
+27272,19884,Fethi Derbali,1386,Intelligence Artificielle pour managers,2025-01-25,Non,Non,Non,Non
+27273,19896,Dorsaf Chaieb,1386,Intelligence Artificielle pour managers,2025-01-25,Non,Non,Non,Non
+27274,20699,Tarek Chaabane,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Non,Non
+27275,19822,Adel Ghorbel,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Oui
+27276,20193,Zeineb Dridi,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Non
+27277,20293,Marwan Karray,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Oui
+27278,20157,Mariam Chaieb,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Non
+27279,20678,Hedi Nasri,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Oui
+27280,20584,Fatma Landolsi,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Oui
+27281,20576,Fethi Gabsi,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Non,Oui
+27282,20601,Fatma Feriani,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Oui
+27283,20575,Taoufik Daoud,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Oui
+27284,20089,Imed Benhassan,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Non,Oui
+27285,20613,Ines Mahjoub,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Oui
+27286,20046,Kais Chaabane,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Oui
+27287,20574,Thouraya Dridi,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Oui
+27288,20605,Nour Hajji,1387,Cybersécurité opérationnelle,2025-04-25,Non,Non,Non,Non
+27289,20606,Slim Chedly,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Oui
+27290,20599,Wael Landolsi,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Non
+27291,19945,Khadija Khlif,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Oui
+27292,20636,Slim Mansouri,1387,Cybersécurité opérationnelle,2025-04-25,Oui,Oui,Oui,Oui
+27293,20699,Tarek Chaabane,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Non,Oui
+27294,19822,Adel Ghorbel,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Oui
+27295,20193,Zeineb Dridi,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Oui
+27296,20293,Marwan Karray,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Non,Oui
+27297,20157,Mariam Chaieb,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Oui
+27298,20678,Hedi Nasri,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Non
+27299,20584,Fatma Landolsi,1388,Cybersécurité opérationnelle,2025-04-27,Non,Non,Non,Non
+27300,20576,Fethi Gabsi,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Oui
+27301,20601,Fatma Feriani,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Oui
+27302,20575,Taoufik Daoud,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Oui
+27303,20089,Imed Benhassan,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Oui
+27304,20613,Ines Mahjoub,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Oui
+27305,20046,Kais Chaabane,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Oui
+27306,20574,Thouraya Dridi,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Non,Oui
+27307,20605,Nour Hajji,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Non,Oui
+27308,20606,Slim Chedly,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Oui
+27309,20599,Wael Landolsi,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Oui
+27310,19945,Khadija Khlif,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Oui
+27311,20636,Slim Mansouri,1388,Cybersécurité opérationnelle,2025-04-27,Oui,Oui,Oui,Oui
+27312,20699,Tarek Chaabane,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Oui
+27313,19822,Adel Ghorbel,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Non
+27314,20193,Zeineb Dridi,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Non,Oui
+27315,20293,Marwan Karray,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Oui
+27316,20157,Mariam Chaieb,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Oui
+27317,20678,Hedi Nasri,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Non
+27318,20584,Fatma Landolsi,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Non
+27319,20576,Fethi Gabsi,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Oui
+27320,20601,Fatma Feriani,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Oui
+27321,20575,Taoufik Daoud,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Non,Oui
+27322,20089,Imed Benhassan,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Oui
+27323,20613,Ines Mahjoub,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Non
+27324,20046,Kais Chaabane,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Oui
+27325,20574,Thouraya Dridi,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Oui
+27326,20605,Nour Hajji,1389,Cybersécurité opérationnelle,2025-04-29,Non,Non,Non,Non
+27327,20606,Slim Chedly,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Non,Oui
+27328,20599,Wael Landolsi,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Oui
+27329,19945,Khadija Khlif,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Oui
+27330,20636,Slim Mansouri,1389,Cybersécurité opérationnelle,2025-04-29,Oui,Oui,Oui,Non

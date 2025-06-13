@@ -170,7 +170,17 @@ router.delete('/:id', verifyAdmin, async (req, res) => {
         where: { formationId: { in: formationIds } },
       });
 
-      // 4. Supprimer les émargements liés aux sessions
+      // 4. Supprimer les feedbacks liés aux émargements
+      await prisma.feedback.deleteMany({
+        where: { userId: parseInt(id) },
+      });
+
+      // 5. Supprimer les validations de compétences liées aux émargements
+      await prisma.skillValidation.deleteMany({
+        where: { userId: parseInt(id) },
+      });
+
+      // 6. Supprimer les émargements liés aux sessions
       await prisma.emargement.deleteMany({
         where: {
           session: {
@@ -179,48 +189,75 @@ router.delete('/:id', verifyAdmin, async (req, res) => {
         },
       });
 
-      // 5. Supprimer les sessions liées aux formations
+      // 7. Supprimer les sessions liées aux formations
       await prisma.session.deleteMany({
         where: { formationId: { in: formationIds } },
       });
 
-      // 6. Supprimer les achats liés aux formations
+      // 8. Supprimer les sections liées aux formations
+      await prisma.section.deleteMany({
+        where: { formationId: { in: formationIds } },
+      });
+
+      // 9. Supprimer les achats liés aux formations
       await prisma.purchase.deleteMany({
         where: { formationId: { in: formationIds } },
       });
 
-      // 7. Supprimer les formations de l'utilisateur
+      // 10. Supprimer les formations de l'utilisateur
       await prisma.formation.deleteMany({
         where: { formateurId: parseInt(id) },
       });
 
-      // 8. Supprimer les émargements validés par l'utilisateur
+      // 11. Supprimer les feedbacks du formateur
+      await prisma.formateurFeedback.deleteMany({
+        where: { userId: parseInt(id) },
+      });
+
+      // 12. Supprimer les émargements validés par l'utilisateur
       await prisma.emargement.updateMany({
         where: { validatedBy: parseInt(id) },
         data: { validatedBy: null, validationDate: null },
       });
 
-      // 9. Supprimer les émargements de l'utilisateur
+      // 13. Supprimer les émargements de l'utilisateur
+      // D'abord supprimer les feedbacks liés aux émargements de l'utilisateur
+      const userEmargements = await prisma.emargement.findMany({
+        where: { userId: parseInt(id) },
+        select: { id: true },
+      });
+      
+      const emargementIds = userEmargements.map(e => e.id);
+      
+      await prisma.feedback.deleteMany({
+        where: { emargementId: { in: emargementIds } },
+      });
+      
+      await prisma.skillValidation.deleteMany({
+        where: { emargementId: { in: emargementIds } },
+      });
+      
+      // Maintenant supprimer les émargements
       await prisma.emargement.deleteMany({
         where: { userId: parseInt(id) },
       });
 
-      // 10. Supprimer les achats de l'utilisateur
+      // 14. Supprimer les achats de l'utilisateur
       await prisma.purchase.deleteMany({
         where: { userId: parseInt(id) },
       });
 
-      // 11. Supprimer les notifications de l'utilisateur
+      // 15. Supprimer les notifications de l'utilisateur
       await prisma.notification.deleteMany({
         where: { recipientId: parseInt(id) },
       });
 
-      // 12. Supprimer les demandes envoyées par l'utilisateur
+      // 16. Supprimer les demandes envoyées par l'utilisateur
       await prisma.participantRequest.deleteMany({
         where: { requestedById: parseInt(id) },
       });
 
-      // 13. Log the action in history
+      // 17. Log the action in history
       await prisma.history.create({
         data: {
           action: user.role === 'apprenant' ? 'DELETE_LEARNER' : 'DELETE_TRAINER',
@@ -233,7 +270,7 @@ router.delete('/:id', verifyAdmin, async (req, res) => {
         },
       });
 
-      // 14. Finalement, supprimer l'utilisateur
+      // 18. Finalement, supprimer l'utilisateur
       await prisma.user.delete({
         where: { id: parseInt(id) },
       });
@@ -247,3 +284,7 @@ router.delete('/:id', verifyAdmin, async (req, res) => {
 });
 
 module.exports = router;
+
+
+
+
