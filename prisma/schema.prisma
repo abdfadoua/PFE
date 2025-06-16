@@ -32,6 +32,7 @@ model User {
   sentRequests          ParticipantRequest[] @relation("RequestedBy")
   purchases             Purchase[]           @relation("UserPurchases")
   skillValidations      SkillValidation[]
+  cluster               Int?
 
   @@map("users")
 }
@@ -212,3 +213,15 @@ model Feedback {
 
   @@map("feedbacks")
 }
+// Modèle pour stocker les résultats d'analyse des apprenants
+model LearnerAnalysis {
+  id                    Int      @id @default(autoincrement())
+  date                  DateTime @default(now())
+  optimalK              Int
+  clusterSummary        String   // JSON stocké sous forme de chaîne
+  graphs                String   // JSON stocké sous forme de chaîne
+  detailedClusterSummary String  // JSON stocké sous forme de chaîne
+  createdAt             DateTime @default(now())
+  updatedAt             DateTime @updatedAt
+}
+

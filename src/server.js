@@ -9,9 +9,12 @@ const emargementRoutes = require('./routes/emargement');
 const feedbackRoutes = require('./routes/feedbacksapp');
 const formateurFeedbackRoutes = require('./routes/formateurEvaluation');
 const statistiqueRoutes = require('./routes/statistiqueRoutes');
-const adminStatRoute = require('./routes/adminStatRoute'); // Assurez-vous que ce fichier exporte un router
-const learnerStatRoute = require('./routes/apprenantstat'); // Assurez-vous que ce fichier exporte un router
+const adminStatRoute = require('./routes/adminStatRoute');
+const learnerStatRoute = require('./routes/apprenantstat');
 const { handleGoogleAuth } = require('./controllers/authController');
+const analyticsRoutes = require('./routes/analytics');
+const axios = require('axios');
+const path = require('path');
 
 const app = express();
 
@@ -47,6 +50,20 @@ app.use(cors({
   exposedHeaders: ['Cross-Origin-Opener-Policy', 'Cross-Origin-Embedder-Policy'],
 }));
 
+// Ajouter cette ligne après les autres middlewares
+app.use('/Uploads', express.static(path.join(__dirname, 'Uploads')));
+
+// Ajouter un middleware pour gérer les erreurs CORS spécifiques aux images
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*');
+  res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
+  if (req.method === 'OPTIONS') {
+    res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
+    return res.status(200).json({});
+  }
+  next();
+});
+
 // Middleware pour logger les requêtes
 app.use((req, res, next) => {
   console.log(`${req.method} ${req.url}`);
@@ -67,18 +84,16 @@ app.use('/api/emargements', emargementRoutes);
 app.use('/api/feedback', feedbackRoutes);
 app.use('/api/formateur', formateurFeedbackRoutes);
 app.use('/api', statistiqueRoutes);
-app.use('/api/statistics', adminStatRoute); // Assurez-vous que adminStatRoute est un router Express
-app.use('/api/statistics', learnerStatRoute); // Assurez-vous que learnerStatRoute est un router Express
-
+app.use('/api/statistics', adminStatRoute);
+app.use('/api/statistics', learnerStatRoute);
+app.use('/api/analytics', analyticsRoutes);
 app.use((err, req, res, next) => {
   console.error(err.stack);
   res.status(500).json({ message: 'Erreur serveur' });
 });
 
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-  console.log(`Serveur démarré sur http://localhost:${PORT}`);
-});
+// Changer le port par défaut à 5002 ou un autre port disponible
+const PORT = process.env.PORT || 5002;
 
 // Add a simple test route to verify the server is working
 app.get('/api/test', (req, res) => {
@@ -102,4 +117,34 @@ app._router.stack.forEach(middleware => {
     });
   }
 });
+
+// Ajouter cette fonction pour vérifier si l'API Python est disponible
+const checkPythonApi = async () => {
+  try {
+    console.log("Vérification de la disponibilité de l'API Python...");
+    const response = await axios.get("http://localhost:5001/api/test", { timeout: 5000 });
+    if (response.data && response.data.success) {
+      console.log("API Python disponible et fonctionnelle");
+      return true;
+    } else {
+      console.log("API Python disponible mais renvoie une erreur");
+      return false;
+    }
+  } catch (error) {
+    console.error("API Python inaccessible:", error.message);
+    return false;
+  }
+};
+
+// UN SEUL app.listen à la fin du fichier
+app.listen(PORT, async () => {
+  console.log(`Server running on port ${PORT}`);
+  
+  // Vérifier si l'API Python est disponible
+  const pythonApiAvailable = await checkPythonApi();
+  if (!pythonApiAvailable) {
+    console.warn("ATTENTION: L'API Python n'est pas disponible. Les analyses utiliseront des données de secours.");
+  }
+});
+
 

@@ -294,10 +294,15 @@ const updateUser = async (req, res) => {
     const decoded = jwt.verify(token, process.env.JWT_SECRET || 'votre_secret_jwt');
     const userId = decoded.userId;
     const { name, email, phone, city, country } = req.body;
-    let profileImage = null;
+    
+    // Correction du chemin de l'image
+    let profileImage = undefined;
     if (req.file) {
+      // Stocker uniquement le nom du fichier avec le préfixe Uploads
       profileImage = `Uploads/${req.file.filename}`;
+      console.log('Chemin de l\'image à enregistrer:', profileImage);
     }
+    
     const updatedData = {};
     if (name) updatedData.name = name;
     if (email) updatedData.email = email;
@@ -320,6 +325,12 @@ const updateUser = async (req, res) => {
         isVerified: true,
       },
     });
+    
+    // Ajouter le chemin complet pour le client
+    if (updatedUser.profileImage) {
+      console.log('Image mise à jour avec succès:', updatedUser.profileImage);
+    }
+    
     return res.status(200).json(updatedUser);
   } catch (error) {
     console.error('Erreur lors de la mise à jour de l’utilisateur :', error);
@@ -547,6 +558,10 @@ module.exports = {
   verifyPin,
   verifyAdminRole
 };
+
+
+
+
 
 
 

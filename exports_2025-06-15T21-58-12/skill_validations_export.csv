@@ -1,0 +1,1106 @@
+ID,ID Utilisateur,Nom Utilisateur,Formation,Compétences Avant (moyenne),Compétences Après (moyenne),Progression (%)
+22870,25436,Test Apprenant,Formation Test - Développement Web Avancé,4,8,400
+22871,25436,Test Apprenant,Formation Test - Développement Web Avancé,4,8,400
+22872,25436,Test Apprenant,Formation Test - Développement Web Avancé,4,8,400
+22873,25436,Test Apprenant,Formation Test - Cybersécurité Fondamentale,4,8,400
+22874,25436,Test Apprenant,Formation Test - Cybersécurité Fondamentale,4,8,400
+22875,25436,Test Apprenant,Formation Test - Cybersécurité Fondamentale,4,8,400
+22876,25436,Test Apprenant,Formation Test - Développement Web Avancé,4,8,400
+22877,25436,Test Apprenant,Formation Test - Développement Web Avancé,4,8,400
+22878,25436,Test Apprenant,Formation Test - Développement Web Avancé,4,8,400
+22879,25436,Test Apprenant,Formation Test - Cybersécurité Fondamentale,4,8,400
+22880,25436,Test Apprenant,Formation Test - Cybersécurité Fondamentale,4,8,400
+22881,25436,Test Apprenant,Formation Test - Cybersécurité Fondamentale,4,8,400
+22882,26331,Olfa Chaabane,ITIL 4 Foundation - Gestion des Services IT,4.25,8.5,425
+22883,25918,Ines Guizani,ITIL 4 Foundation - Gestion des Services IT,4.25,7.5,325
+22884,25808,Bochra Guesmi,ITIL 4 Foundation - Gestion des Services IT,3,6.25,325
+22885,25835,Salah Ferchichi,ITIL 4 Foundation - Gestion des Services IT,4.75,6.25,150
+22886,25865,Khaled Guesmi,ITIL 4 Foundation - Gestion des Services IT,3,8.25,525
+22887,25745,Mohamed Kchir,ITIL 4 Foundation - Gestion des Services IT,5.5,8,250
+22888,26039,Rim Chaieb,ITIL 4 Foundation - Gestion des Services IT,5,8.5,350
+22889,25705,Adel Hachicha,ITIL 4 Foundation - Gestion des Services IT,6.5,9,250
+22890,25784,Sami Kammoun,ITIL 4 Foundation - Gestion des Services IT,3.75,7.5,375
+22891,25987,Wael Gabsi,ITIL 4 Foundation - Gestion des Services IT,3.25,7.25,400
+22892,25719,Noureddine Hmida,ITIL 4 Foundation - Gestion des Services IT,2.75,6.25,350
+22893,26007,Latifa Gharbi,ITIL 4 Foundation - Gestion des Services IT,3.5,7.25,375
+22894,26029,Samia Meddeb,ITIL 4 Foundation - Gestion des Services IT,3.25,8,475
+22895,25702,Ridha Louati,ITIL 4 Foundation - Gestion des Services IT,2.75,6,325
+22896,26048,Dali Bouzid,ITIL 4 Foundation - Gestion des Services IT,5.25,8.5,325
+22897,26084,Mehdi Jouini,ITIL 4 Foundation - Gestion des Services IT,3.75,7.75,400
+22898,25973,Karim Bouslama,ITIL 4 Foundation - Gestion des Services IT,4,6.25,225
+22899,26064,Slim Hamza,ITIL 4 Foundation - Gestion des Services IT,4.75,7,225
+22900,26026,Aymen Dhouib,ITIL 4 Foundation - Gestion des Services IT,4,7.5,350
+22901,25656,Tarek Maaloul,ITIL 4 Foundation - Gestion des Services IT,4.5,7,250
+22902,25918,Ines Guizani,ITIL 4 Foundation - Gestion des Services IT,2.75,8.25,550
+22903,25835,Salah Ferchichi,ITIL 4 Foundation - Gestion des Services IT,4.25,8,375
+22904,25865,Khaled Guesmi,ITIL 4 Foundation - Gestion des Services IT,4.5,8.25,375
+22905,26039,Rim Chaieb,ITIL 4 Foundation - Gestion des Services IT,4.5,6,150
+22906,25784,Sami Kammoun,ITIL 4 Foundation - Gestion des Services IT,2.75,6.75,400
+22907,25987,Wael Gabsi,ITIL 4 Foundation - Gestion des Services IT,5.75,8,225
+22908,25719,Noureddine Hmida,ITIL 4 Foundation - Gestion des Services IT,2.75,6,325
+22909,25777,Zouheir Nasri,ITIL 4 Foundation - Gestion des Services IT,4.75,8.25,350
+22910,26007,Latifa Gharbi,ITIL 4 Foundation - Gestion des Services IT,5.75,7.75,200
+22911,26029,Samia Meddeb,ITIL 4 Foundation - Gestion des Services IT,3.5,7.25,375
+22912,25702,Ridha Louati,ITIL 4 Foundation - Gestion des Services IT,3.75,6.5,275
+22913,26048,Dali Bouzid,ITIL 4 Foundation - Gestion des Services IT,5.25,9,375
+22914,25999,Sofiane Mabrouk,ITIL 4 Foundation - Gestion des Services IT,4.5,7.25,275
+22915,25973,Karim Bouslama,ITIL 4 Foundation - Gestion des Services IT,6,9.25,325
+22916,26064,Slim Hamza,ITIL 4 Foundation - Gestion des Services IT,3.75,7.5,375
+22917,25829,Sami Bouzid,ITIL 4 Foundation - Gestion des Services IT,4.5,8.75,425
+22918,26026,Aymen Dhouib,ITIL 4 Foundation - Gestion des Services IT,2.75,7.25,450
+22919,26000,Slim Mejri,ITIL 4 Foundation - Gestion des Services IT,4.25,7.5,325
+22920,26073,Rami Ktari,ITIL 4 Foundation - Gestion des Services IT,5.75,9.25,350
+22921,25656,Tarek Maaloul,ITIL 4 Foundation - Gestion des Services IT,3.75,7,325
+22922,26331,Olfa Chaabane,ITIL 4 Foundation - Gestion des Services IT,2.5,6.5,400
+22923,25808,Bochra Guesmi,ITIL 4 Foundation - Gestion des Services IT,3.25,7.5,425
+22924,26039,Rim Chaieb,ITIL 4 Foundation - Gestion des Services IT,3.75,6.75,300
+22925,25784,Sami Kammoun,ITIL 4 Foundation - Gestion des Services IT,6,8.5,250
+22926,25987,Wael Gabsi,ITIL 4 Foundation - Gestion des Services IT,3.5,8,450
+22927,25719,Noureddine Hmida,ITIL 4 Foundation - Gestion des Services IT,2.5,5.75,325
+22928,26007,Latifa Gharbi,ITIL 4 Foundation - Gestion des Services IT,4.25,7.75,350
+22929,26048,Dali Bouzid,ITIL 4 Foundation - Gestion des Services IT,3.25,7.25,400
+22930,25999,Sofiane Mabrouk,ITIL 4 Foundation - Gestion des Services IT,4.75,9,425
+22931,25973,Karim Bouslama,ITIL 4 Foundation - Gestion des Services IT,3.25,7.25,400
+22932,26064,Slim Hamza,ITIL 4 Foundation - Gestion des Services IT,3.75,8,425
+22933,25829,Sami Bouzid,ITIL 4 Foundation - Gestion des Services IT,4.5,8,350
+22934,26026,Aymen Dhouib,ITIL 4 Foundation - Gestion des Services IT,4,8.75,475
+22935,26000,Slim Mejri,ITIL 4 Foundation - Gestion des Services IT,5,8.5,350
+22936,26073,Rami Ktari,ITIL 4 Foundation - Gestion des Services IT,4.75,6.75,200
+22937,25918,Ines Guizani,ITIL 4 Foundation - Gestion des Services IT,4.75,8,325
+22938,25808,Bochra Guesmi,ITIL 4 Foundation - Gestion des Services IT,4,7.75,375
+22939,25835,Salah Ferchichi,ITIL 4 Foundation - Gestion des Services IT,5.25,9,375
+22940,25865,Khaled Guesmi,ITIL 4 Foundation - Gestion des Services IT,5,9,400
+22941,25745,Mohamed Kchir,ITIL 4 Foundation - Gestion des Services IT,5,7.25,225
+22942,26039,Rim Chaieb,ITIL 4 Foundation - Gestion des Services IT,3.75,7.75,400
+22943,25784,Sami Kammoun,ITIL 4 Foundation - Gestion des Services IT,5,8.5,350
+22944,25719,Noureddine Hmida,ITIL 4 Foundation - Gestion des Services IT,6.25,8,175
+22945,26007,Latifa Gharbi,ITIL 4 Foundation - Gestion des Services IT,2.75,6,325
+22946,26029,Samia Meddeb,ITIL 4 Foundation - Gestion des Services IT,1.75,8.5,675
+22947,26048,Dali Bouzid,ITIL 4 Foundation - Gestion des Services IT,5.25,7.5,225
+22948,26084,Mehdi Jouini,ITIL 4 Foundation - Gestion des Services IT,3.5,7,350
+22949,25973,Karim Bouslama,ITIL 4 Foundation - Gestion des Services IT,5.25,8,275
+22950,26064,Slim Hamza,ITIL 4 Foundation - Gestion des Services IT,4.5,8,350
+22951,26073,Rami Ktari,ITIL 4 Foundation - Gestion des Services IT,2.75,5.5,275
+22952,25918,Ines Guizani,ITIL 4 Foundation - Gestion des Services IT,3.25,9.25,600
+22953,25808,Bochra Guesmi,ITIL 4 Foundation - Gestion des Services IT,3.25,6.5,325
+22954,25865,Khaled Guesmi,ITIL 4 Foundation - Gestion des Services IT,4,7.5,350
+22955,25705,Adel Hachicha,ITIL 4 Foundation - Gestion des Services IT,4,7.25,325
+22956,25987,Wael Gabsi,ITIL 4 Foundation - Gestion des Services IT,3.75,8.25,450
+22957,25719,Noureddine Hmida,ITIL 4 Foundation - Gestion des Services IT,1.75,6.5,475
+22958,26029,Samia Meddeb,ITIL 4 Foundation - Gestion des Services IT,4.75,8.25,350
+22959,25999,Sofiane Mabrouk,ITIL 4 Foundation - Gestion des Services IT,5.5,7.75,225
+22960,25973,Karim Bouslama,ITIL 4 Foundation - Gestion des Services IT,3.5,8.25,475
+22961,26064,Slim Hamza,ITIL 4 Foundation - Gestion des Services IT,5,7.75,275
+22962,25829,Sami Bouzid,ITIL 4 Foundation - Gestion des Services IT,4.75,7.75,300
+22963,26026,Aymen Dhouib,ITIL 4 Foundation - Gestion des Services IT,3.75,8.75,500
+22964,26260,Nesrine Feriani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4.5,5.75,125
+22965,26370,Sabrine Fourati,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,8.5,450
+22966,26476,Emad Daoud,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.5,8.5,500
+22967,26434,Jihene Ferchichi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,9.25,425
+22968,26396,Jihene Mrad,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,8,300
+22969,26346,Hatem Daoud,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,6,200
+22970,26465,Sami Hajji,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2.5,7,450
+22971,25612,Ghazi Hleli,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",6.25,8.5,225
+22972,26360,Dorra Hamdi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.75,7.25,350
+22973,26130,Dalila Feriani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2.75,8.25,550
+22974,26403,Ikram Mrad,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2.5,8.5,600
+22975,25712,Dali Fkih,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.25,8,475
+22976,25645,Hana Derbali,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.25,9,575
+22977,26448,Olfa Feriani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2.75,7.5,475
+22978,26092,Emna Mahjoub,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,8.5,450
+22979,26260,Nesrine Feriani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5.75,8.75,300
+22980,26476,Emad Daoud,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.25,7,375
+22981,26434,Jihene Ferchichi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.75,7.75,400
+22982,26396,Jihene Mrad,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,7.5,350
+22983,26465,Sami Hajji,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,8,400
+22984,26029,Samia Meddeb,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5.25,7.5,225
+22985,26360,Dorra Hamdi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,4.75,175
+22986,26403,Ikram Mrad,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.5,6.5,300
+22987,25712,Dali Fkih,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.5,6.5,300
+22988,25971,Mohamed Bouaziz,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.75,6.25,250
+22989,26448,Olfa Feriani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2.5,6.75,425
+22990,26260,Nesrine Feriani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.25,7.5,425
+22991,26370,Sabrine Fourati,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.75,6,225
+22992,26434,Jihene Ferchichi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.5,5.25,175
+22993,26396,Jihene Mrad,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,8.25,325
+22994,26358,Sonia Omrani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4.5,7,250
+22995,26465,Sami Hajji,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.25,8.25,500
+22996,25754,Youssef Bouaziz,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,7.5,250
+22997,25612,Ghazi Hleli,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4.25,8,375
+22998,26360,Dorra Hamdi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,9.25,425
+22999,26130,Dalila Feriani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",6.5,8.75,225
+23000,26403,Ikram Mrad,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.25,7.75,450
+23001,25712,Dali Fkih,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.5,6.25,275
+23002,25623,Maroua Chaabane,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.5,6.5,300
+23003,25645,Hana Derbali,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4.75,6.75,200
+23004,26260,Nesrine Feriani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,7.5,450
+23005,26370,Sabrine Fourati,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5.25,7.25,200
+23006,26476,Emad Daoud,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.75,7.5,375
+23007,26434,Jihene Ferchichi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3,7.5,450
+23008,26396,Jihene Mrad,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5.5,8.25,275
+23009,26358,Sonia Omrani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",2.75,5.5,275
+23010,26465,Sami Hajji,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5.75,8,225
+23011,25612,Ghazi Hleli,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,7.5,350
+23012,26360,Dorra Hamdi,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.25,8.25,500
+23013,26130,Dalila Feriani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5,8,300
+23014,26403,Ikram Mrad,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.25,7.75,450
+23015,25712,Dali Fkih,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.5,9.25,575
+23016,25623,Maroua Chaabane,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4.75,8.5,375
+23017,25971,Mohamed Bouaziz,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",5.25,7.25,200
+23018,26448,Olfa Feriani,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",4,6,200
+23019,26092,Emna Mahjoub,"ITIL 4 Specialist: Créer, Livrer et Soutenir (CDS)",3.75,8,425
+23020,26474,Nader Khlif,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2.25,8.5,625
+23021,26218,Dali Ben Ali,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,6.5,250
+23022,26207,Noureddine Ferchichi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,7.5,250
+23023,26094,Imed Essid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.75,7.75,400
+23024,26155,Amel Marzouki,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,5.75,275
+23025,26122,Salma Ferchichi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.5,8.25,375
+23026,26156,Besma Bouaziz,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.5,6.75,325
+23027,26101,Moncef Ben Ahmed,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.5,8.25,375
+23028,26127,Ines Louati,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,5.5,250
+23029,26266,Wassim Jebali,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5.25,7.5,225
+23030,26113,Salah Essid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.5,8.5,400
+23031,26219,Zeineb Ghali,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.25,6.25,200
+23032,25651,Maroua Bouzid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.75,6.5,275
+23033,26263,Maher Landolsi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.5,6.75,325
+23034,25949,Emna Chedly,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.5,6.5,300
+23035,26099,Latifa Bouzid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,6.75,275
+23036,26094,Imed Essid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.25,6.75,350
+23037,26155,Amel Marzouki,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.25,6.75,350
+23038,26122,Salma Ferchichi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5.25,7.75,250
+23039,26156,Besma Bouaziz,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5.25,8.25,300
+23040,26101,Moncef Ben Ahmed,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,8,400
+23041,26193,Ridha Khedher,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.75,6,225
+23042,26127,Ines Louati,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.25,7.5,425
+23043,26322,Ahmed Sellami,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.75,8.25,450
+23044,26266,Wassim Jebali,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,7.75,375
+23045,26294,Moez Hamza,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.25,6.25,200
+23046,26113,Salah Essid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",6.25,9,275
+23047,26292,Bassem Limam,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.75,6.25,250
+23048,26157,Hedi Miled,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.5,6.25,275
+23049,26219,Zeineb Ghali,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.25,7.5,425
+23050,25651,Maroua Bouzid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.25,7,275
+23051,26263,Maher Landolsi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.5,6.25,175
+23052,25949,Emna Chedly,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,7.75,375
+23053,26474,Nader Khlif,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5.5,8.25,275
+23054,26141,Rami Layouni,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.5,7.5,300
+23055,26207,Noureddine Ferchichi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,7.75,375
+23056,26099,Latifa Bouzid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.25,6.75,350
+23057,26155,Amel Marzouki,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.5,7.25,275
+23058,26156,Besma Bouaziz,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2,6.25,425
+23059,26128,Wassim Ktari,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",6.75,8.5,175
+23060,26193,Ridha Khedher,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,8.75,375
+23061,26166,Hichem Rekik,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.5,6.25,275
+23062,26113,Salah Essid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,7.5,350
+23063,26292,Bassem Limam,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.5,8.5,400
+23064,26157,Hedi Miled,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5.75,9.25,350
+23065,26219,Zeineb Ghali,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.25,7.75,350
+23066,25744,Slim Ferchichi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.25,9.25,500
+23067,25651,Maroua Bouzid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.75,7.5,375
+23068,26263,Maher Landolsi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.25,6,275
+23069,25949,Emna Chedly,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5,8.75,375
+23070,26218,Dali Ben Ali,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.25,6.5,225
+23071,26141,Rami Layouni,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.5,8,450
+23072,26099,Latifa Bouzid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,6.5,250
+23073,26215,Latifa Ben Ahmed,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.25,6.25,200
+23074,26094,Imed Essid,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.25,8.5,425
+23075,26155,Amel Marzouki,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,7,400
+23076,26122,Salma Ferchichi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.75,8.5,475
+23077,26128,Wassim Ktari,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.5,8.5,400
+23078,26101,Moncef Ben Ahmed,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.75,7,225
+23079,26193,Ridha Khedher,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",2.75,5.75,300
+23080,26127,Ines Louati,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",6,8,200
+23081,26166,Hichem Rekik,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.5,6.5,300
+23082,26266,Wassim Jebali,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.5,7,250
+23083,26292,Bassem Limam,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3.5,6.25,275
+23084,26157,Hedi Miled,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4,8,400
+23085,26219,Zeineb Ghali,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5.25,7.5,225
+23086,25744,Slim Ferchichi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",4.5,7.5,300
+23087,26263,Maher Landolsi,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",5.25,8.25,300
+23088,25949,Emna Chedly,"ITIL 4 Specialist: Diriger, Planifier et Améliorer (DPI)",3,6,300
+23089,26556,Jihene Omrani,"ITIL 4 Strategist: Direct, Plan and Improve",2,6.5,450
+23090,25724,Karim Ktari,"ITIL 4 Strategist: Direct, Plan and Improve",4,7.75,375
+23091,25727,Wael Mabrouk,"ITIL 4 Strategist: Direct, Plan and Improve",3.5,6.5,300
+23092,25638,Hedi Ghorbel,"ITIL 4 Strategist: Direct, Plan and Improve",5.25,7.75,250
+23093,25739,Lobna Mrad,"ITIL 4 Strategist: Direct, Plan and Improve",4.5,7.75,325
+23094,25756,Dali Chaabane,"ITIL 4 Strategist: Direct, Plan and Improve",4,7.25,325
+23095,25749,Ikram Mejri,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,7.75,400
+23096,26444,Makram Jouini,"ITIL 4 Strategist: Direct, Plan and Improve",3,5.5,250
+23097,26417,Amine Mansouri,"ITIL 4 Strategist: Direct, Plan and Improve",6.75,9.25,250
+23098,26447,Dorra Ouali,"ITIL 4 Strategist: Direct, Plan and Improve",4.25,6.75,250
+23099,26421,Maroua Kchir,"ITIL 4 Strategist: Direct, Plan and Improve",4.5,8.5,400
+23100,25848,Aymen Chebbi,"ITIL 4 Strategist: Direct, Plan and Improve",5.5,8,250
+23101,25854,Thouraya Guizani,"ITIL 4 Strategist: Direct, Plan and Improve",6.25,8.25,200
+23102,25733,Ines Hadj,"ITIL 4 Strategist: Direct, Plan and Improve",3,7.75,475
+23103,25763,Besma Derbali,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,5.25,150
+23104,25603,Rania Hmida,"ITIL 4 Strategist: Direct, Plan and Improve",4.75,7.75,300
+23105,26140,Mariam Bouslama,"ITIL 4 Strategist: Direct, Plan and Improve",5.25,7.5,225
+23106,25737,Yasmine Dridi,"ITIL 4 Strategist: Direct, Plan and Improve",4,6,200
+23107,25732,Sofiane Dridi,"ITIL 4 Strategist: Direct, Plan and Improve",4.5,8,350
+23108,25887,Bochra Derbali,"ITIL 4 Strategist: Direct, Plan and Improve",5.75,8.25,250
+23109,26556,Jihene Omrani,"ITIL 4 Strategist: Direct, Plan and Improve",2.75,8.25,550
+23110,25724,Karim Ktari,"ITIL 4 Strategist: Direct, Plan and Improve",4,7.25,325
+23111,25727,Wael Mabrouk,"ITIL 4 Strategist: Direct, Plan and Improve",4.25,7.75,350
+23112,25638,Hedi Ghorbel,"ITIL 4 Strategist: Direct, Plan and Improve",4,7.25,325
+23113,25749,Ikram Mejri,"ITIL 4 Strategist: Direct, Plan and Improve",3,7.5,450
+23114,25623,Maroua Chaabane,"ITIL 4 Strategist: Direct, Plan and Improve",4.25,7,275
+23115,25590,Hajer Hachicha,"ITIL 4 Strategist: Direct, Plan and Improve",2.75,8,525
+23116,26431,Wassim Bouhamed,"ITIL 4 Strategist: Direct, Plan and Improve",3,7.25,425
+23117,26417,Amine Mansouri,"ITIL 4 Strategist: Direct, Plan and Improve",4,7.5,350
+23118,26074,Maroua Hamza,"ITIL 4 Strategist: Direct, Plan and Improve",3,6.25,325
+23119,26447,Dorra Ouali,"ITIL 4 Strategist: Direct, Plan and Improve",2.5,6.5,400
+23120,25848,Aymen Chebbi,"ITIL 4 Strategist: Direct, Plan and Improve",2.25,5.75,350
+23121,25854,Thouraya Guizani,"ITIL 4 Strategist: Direct, Plan and Improve",4.5,6.75,225
+23122,25733,Ines Hadj,"ITIL 4 Strategist: Direct, Plan and Improve",3.5,7,350
+23123,25603,Rania Hmida,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,5.25,150
+23124,25732,Sofiane Dridi,"ITIL 4 Strategist: Direct, Plan and Improve",4.25,9.25,500
+23125,26556,Jihene Omrani,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,7,325
+23126,25727,Wael Mabrouk,"ITIL 4 Strategist: Direct, Plan and Improve",3,6,300
+23127,25638,Hedi Ghorbel,"ITIL 4 Strategist: Direct, Plan and Improve",2.5,6.75,425
+23128,25739,Lobna Mrad,"ITIL 4 Strategist: Direct, Plan and Improve",4.5,8.25,375
+23129,25756,Dali Chaabane,"ITIL 4 Strategist: Direct, Plan and Improve",4.25,8,375
+23130,25623,Maroua Chaabane,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,8,425
+23131,26444,Makram Jouini,"ITIL 4 Strategist: Direct, Plan and Improve",2.25,6,375
+23132,25590,Hajer Hachicha,"ITIL 4 Strategist: Direct, Plan and Improve",4.25,7,275
+23133,26076,Ahmed Hajji,"ITIL 4 Strategist: Direct, Plan and Improve",3,6.5,350
+23134,26417,Amine Mansouri,"ITIL 4 Strategist: Direct, Plan and Improve",4.25,7.25,300
+23135,26074,Maroua Hamza,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,8.5,475
+23136,26447,Dorra Ouali,"ITIL 4 Strategist: Direct, Plan and Improve",3.5,6.75,325
+23137,25848,Aymen Chebbi,"ITIL 4 Strategist: Direct, Plan and Improve",4.75,7,225
+23138,25854,Thouraya Guizani,"ITIL 4 Strategist: Direct, Plan and Improve",3.5,6.5,300
+23139,26215,Latifa Ben Ahmed,"ITIL 4 Strategist: Direct, Plan and Improve",5.25,7.5,225
+23140,25733,Ines Hadj,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,5.25,150
+23141,25763,Besma Derbali,"ITIL 4 Strategist: Direct, Plan and Improve",5.25,9,375
+23142,25589,Wael Gasmi,"ITIL 4 Strategist: Direct, Plan and Improve",5.75,8.5,275
+23143,25603,Rania Hmida,"ITIL 4 Strategist: Direct, Plan and Improve",4.75,6.75,200
+23144,26140,Mariam Bouslama,"ITIL 4 Strategist: Direct, Plan and Improve",4,8.25,425
+23145,25737,Yasmine Dridi,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,6.75,300
+23146,25887,Bochra Derbali,"ITIL 4 Strategist: Direct, Plan and Improve",4,9,500
+23147,25727,Wael Mabrouk,"ITIL 4 Strategist: Direct, Plan and Improve",1.75,7.75,600
+23148,25638,Hedi Ghorbel,"ITIL 4 Strategist: Direct, Plan and Improve",4.5,9.5,500
+23149,25756,Dali Chaabane,"ITIL 4 Strategist: Direct, Plan and Improve",4,8.25,425
+23150,25749,Ikram Mejri,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,7.25,350
+23151,25623,Maroua Chaabane,"ITIL 4 Strategist: Direct, Plan and Improve",5,8.75,375
+23152,25590,Hajer Hachicha,"ITIL 4 Strategist: Direct, Plan and Improve",4.25,7.75,350
+23153,26076,Ahmed Hajji,"ITIL 4 Strategist: Direct, Plan and Improve",3.5,5.75,225
+23154,26417,Amine Mansouri,"ITIL 4 Strategist: Direct, Plan and Improve",5.25,8.25,300
+23155,26074,Maroua Hamza,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,7.75,400
+23156,26447,Dorra Ouali,"ITIL 4 Strategist: Direct, Plan and Improve",6,7.75,175
+23157,26423,Slim Landolsi,"ITIL 4 Strategist: Direct, Plan and Improve",4.5,8.25,375
+23158,25854,Thouraya Guizani,"ITIL 4 Strategist: Direct, Plan and Improve",5.75,7.5,175
+23159,25733,Ines Hadj,"ITIL 4 Strategist: Direct, Plan and Improve",3.5,9,550
+23160,25763,Besma Derbali,"ITIL 4 Strategist: Direct, Plan and Improve",2.75,7,425
+23161,25589,Wael Gasmi,"ITIL 4 Strategist: Direct, Plan and Improve",4.75,8,325
+23162,25603,Rania Hmida,"ITIL 4 Strategist: Direct, Plan and Improve",4.25,6.75,250
+23163,25737,Yasmine Dridi,"ITIL 4 Strategist: Direct, Plan and Improve",4.75,8,325
+23164,25887,Bochra Derbali,"ITIL 4 Strategist: Direct, Plan and Improve",5.25,7.25,200
+23165,26556,Jihene Omrani,"ITIL 4 Strategist: Direct, Plan and Improve",3.5,7.75,425
+23166,25724,Karim Ktari,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,8,425
+23167,25727,Wael Mabrouk,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,8.75,500
+23168,25739,Lobna Mrad,"ITIL 4 Strategist: Direct, Plan and Improve",3,5.25,225
+23169,25756,Dali Chaabane,"ITIL 4 Strategist: Direct, Plan and Improve",4.25,7.5,325
+23170,25749,Ikram Mejri,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,9,525
+23171,26444,Makram Jouini,"ITIL 4 Strategist: Direct, Plan and Improve",3.5,7,350
+23172,25590,Hajer Hachicha,"ITIL 4 Strategist: Direct, Plan and Improve",3,6.75,375
+23173,26076,Ahmed Hajji,"ITIL 4 Strategist: Direct, Plan and Improve",3.5,7.5,400
+23174,26431,Wassim Bouhamed,"ITIL 4 Strategist: Direct, Plan and Improve",3.25,7.5,425
+23175,26417,Amine Mansouri,"ITIL 4 Strategist: Direct, Plan and Improve",5.75,8,225
+23176,26074,Maroua Hamza,"ITIL 4 Strategist: Direct, Plan and Improve",3.75,7.5,375
+23177,26421,Maroua Kchir,"ITIL 4 Strategist: Direct, Plan and Improve",3.25,5.5,225
+23178,25848,Aymen Chebbi,"ITIL 4 Strategist: Direct, Plan and Improve",5.25,7.75,250
+23179,25854,Thouraya Guizani,"ITIL 4 Strategist: Direct, Plan and Improve",2.25,4.5,225
+23180,26215,Latifa Ben Ahmed,"ITIL 4 Strategist: Direct, Plan and Improve",5.25,8.25,300
+23181,25733,Ines Hadj,"ITIL 4 Strategist: Direct, Plan and Improve",4.75,8.25,350
+23182,25763,Besma Derbali,"ITIL 4 Strategist: Direct, Plan and Improve",2.75,5.25,250
+23183,25603,Rania Hmida,"ITIL 4 Strategist: Direct, Plan and Improve",2.75,5.75,300
+23184,26140,Mariam Bouslama,"ITIL 4 Strategist: Direct, Plan and Improve",5,9.5,450
+23185,25737,Yasmine Dridi,"ITIL 4 Strategist: Direct, Plan and Improve",4,5.75,175
+23186,25732,Sofiane Dridi,"ITIL 4 Strategist: Direct, Plan and Improve",3.25,7.5,425
+23187,25611,Lobna Jelassi,DevOps Foundation,4,8.5,450
+23188,25618,Emad Khedher,DevOps Foundation,2.25,7.75,550
+23189,25946,Zouheir Chedly,DevOps Foundation,3,7.5,450
+23190,26056,Bassem Horchani,DevOps Foundation,2.75,7.5,475
+23191,26028,Sabrine Karray,DevOps Foundation,4.25,6.75,250
+23192,25968,Sami Hadj,DevOps Foundation,5,7.25,225
+23193,25672,Kais Laabidi,DevOps Foundation,2.25,5.25,300
+23194,25687,Tarek Mabrouk,DevOps Foundation,4,6.25,225
+23195,25723,Mehdi Mestiri,DevOps Foundation,4.75,7.75,300
+23196,26011,Amine Mansouri,DevOps Foundation,2.75,7,425
+23197,26049,Rami Chaabane,DevOps Foundation,4.5,8.5,400
+23198,26065,Yosra Mabrouk,DevOps Foundation,3.75,8.25,450
+23199,25917,Ahlem Jebali,DevOps Foundation,3.75,8,425
+23200,25834,Khaled Daoud,DevOps Foundation,3.5,5.75,225
+23201,25661,Rim Hadj,DevOps Foundation,3.5,7.25,375
+23202,26005,Kais Louati,DevOps Foundation,3.5,6.25,275
+23203,25844,Ahmed Hmida,DevOps Foundation,4.75,9,425
+23204,26090,Yasmine Trabelsi,DevOps Foundation,4.5,7.75,325
+23205,25611,Lobna Jelassi,DevOps Foundation,3.75,7.5,375
+23206,25618,Emad Khedher,DevOps Foundation,4,7.75,375
+23207,26056,Bassem Horchani,DevOps Foundation,3.25,6.5,325
+23208,26028,Sabrine Karray,DevOps Foundation,4.75,7.75,300
+23209,25687,Tarek Mabrouk,DevOps Foundation,3.75,7.25,350
+23210,26047,Ghazi Guesmi,DevOps Foundation,3.75,7.75,400
+23211,26033,Hiba Layouni,DevOps Foundation,5.25,8.5,325
+23212,26011,Amine Mansouri,DevOps Foundation,2.5,6.25,375
+23213,26049,Rami Chaabane,DevOps Foundation,5.25,8.25,300
+23214,26065,Yosra Mabrouk,DevOps Foundation,1.5,7.25,575
+23215,25917,Ahlem Jebali,DevOps Foundation,3.5,7,350
+23216,25834,Khaled Daoud,DevOps Foundation,3,7.25,425
+23217,25661,Rim Hadj,DevOps Foundation,1.5,4,250
+23218,26005,Kais Louati,DevOps Foundation,4.25,6.5,225
+23219,25905,Kenza Derbali,DevOps Foundation,4.5,8,350
+23220,26090,Yasmine Trabelsi,DevOps Foundation,4.75,8,325
+23221,25589,Wael Gasmi,DevOps Foundation,5.5,8.5,300
+23222,25611,Lobna Jelassi,DevOps Foundation,5.75,9.25,350
+23223,25618,Emad Khedher,DevOps Foundation,3.25,7.75,450
+23224,25946,Zouheir Chedly,DevOps Foundation,3.5,7.75,425
+23225,25672,Kais Laabidi,DevOps Foundation,2.75,7.5,475
+23226,25610,Emad Sellami,DevOps Foundation,6.5,9.5,300
+23227,25687,Tarek Mabrouk,DevOps Foundation,4.75,7.5,275
+23228,26047,Ghazi Guesmi,DevOps Foundation,2.5,5.75,325
+23229,26033,Hiba Layouni,DevOps Foundation,3.25,7.75,450
+23230,25723,Mehdi Mestiri,DevOps Foundation,4.25,8,375
+23231,26049,Rami Chaabane,DevOps Foundation,3.25,5.75,250
+23232,25969,Mehdi Feriani,DevOps Foundation,4.25,6.75,250
+23233,25917,Ahlem Jebali,DevOps Foundation,5.25,7.75,250
+23234,25834,Khaled Daoud,DevOps Foundation,4.75,6.5,175
+23235,25661,Rim Hadj,DevOps Foundation,4.25,7.25,300
+23236,26005,Kais Louati,DevOps Foundation,3,8,500
+23237,25844,Ahmed Hmida,DevOps Foundation,5,9,400
+23238,26090,Yasmine Trabelsi,DevOps Foundation,4,6.5,250
+23239,25611,Lobna Jelassi,DevOps Foundation,5.75,8.25,250
+23240,25946,Zouheir Chedly,DevOps Foundation,4.25,8.25,400
+23241,26028,Sabrine Karray,DevOps Foundation,4,8,400
+23242,25968,Sami Hadj,DevOps Foundation,4.75,7.5,275
+23243,25672,Kais Laabidi,DevOps Foundation,3.75,6.75,300
+23244,25610,Emad Sellami,DevOps Foundation,3.75,7,325
+23245,26047,Ghazi Guesmi,DevOps Foundation,5.5,7.75,225
+23246,26033,Hiba Layouni,DevOps Foundation,4.5,7.25,275
+23247,25723,Mehdi Mestiri,DevOps Foundation,5.5,9.25,375
+23248,26049,Rami Chaabane,DevOps Foundation,4,8.5,450
+23249,25969,Mehdi Feriani,DevOps Foundation,3,6,300
+23250,25917,Ahlem Jebali,DevOps Foundation,2.5,8,550
+23251,25834,Khaled Daoud,DevOps Foundation,4.75,7.5,275
+23252,25661,Rim Hadj,DevOps Foundation,4.25,7.5,325
+23253,26005,Kais Louati,DevOps Foundation,4.25,7,275
+23254,25905,Kenza Derbali,DevOps Foundation,4.25,8,375
+23255,25844,Ahmed Hmida,DevOps Foundation,3.25,7.5,425
+23256,26090,Yasmine Trabelsi,DevOps Foundation,5,8.75,375
+23257,25611,Lobna Jelassi,DevOps Foundation,3.5,7,350
+23258,25618,Emad Khedher,DevOps Foundation,4.75,7.75,300
+23259,25946,Zouheir Chedly,DevOps Foundation,5.75,8.75,300
+23260,26056,Bassem Horchani,DevOps Foundation,5.75,6.75,100
+23261,26028,Sabrine Karray,DevOps Foundation,4.75,7.25,250
+23262,25968,Sami Hadj,DevOps Foundation,4.75,7.5,275
+23263,25672,Kais Laabidi,DevOps Foundation,1.25,5.75,450
+23264,25610,Emad Sellami,DevOps Foundation,4.5,7,250
+23265,26011,Amine Mansouri,DevOps Foundation,2.5,7.25,475
+23266,26065,Yosra Mabrouk,DevOps Foundation,4.5,6.75,225
+23267,25969,Mehdi Feriani,DevOps Foundation,3,8.5,550
+23268,25834,Khaled Daoud,DevOps Foundation,4,6.5,250
+23269,26005,Kais Louati,DevOps Foundation,5.5,8.25,275
+23270,25905,Kenza Derbali,DevOps Foundation,4,6.5,250
+23271,25844,Ahmed Hmida,DevOps Foundation,3.25,7.25,400
+23272,26090,Yasmine Trabelsi,DevOps Foundation,2.25,8.25,600
+23273,25722,Bochra Hamza,AWS Certified Solutions Architect - Associate,3.75,6,225
+23274,25851,Marwan Bouslama,AWS Certified Solutions Architect - Associate,5,7.25,225
+23275,25908,Salah Gasmi,AWS Certified Solutions Architect - Associate,6.5,9.25,275
+23276,25951,Hiba Trabelsi,AWS Certified Solutions Architect - Associate,3.25,7.25,400
+23277,25976,Samir Chaabane,AWS Certified Solutions Architect - Associate,2.75,6.75,400
+23278,25966,Jamel Rekik,AWS Certified Solutions Architect - Associate,3.75,7.75,400
+23279,25993,Makram Kammoun,AWS Certified Solutions Architect - Associate,3.25,6.25,300
+23280,25992,Dali Fkih,AWS Certified Solutions Architect - Associate,4.75,8.75,400
+23281,25848,Aymen Chebbi,AWS Certified Solutions Architect - Associate,4.25,6.75,250
+23282,26022,Samir Ben Ali,AWS Certified Solutions Architect - Associate,2.75,6.25,350
+23283,25990,Hana Hleli,AWS Certified Solutions Architect - Associate,5,6.5,150
+23284,25935,Wassim Essid,AWS Certified Solutions Architect - Associate,4,7.75,375
+23285,26000,Slim Mejri,AWS Certified Solutions Architect - Associate,3.25,6.25,300
+23286,25973,Karim Bouslama,AWS Certified Solutions Architect - Associate,4.75,7.5,275
+23287,25612,Ghazi Hleli,AWS Certified Solutions Architect - Associate,3,6.75,375
+23288,25614,Ikram Hachicha,AWS Certified Solutions Architect - Associate,3.75,7.25,350
+23289,25948,Fatma Landolsi,AWS Certified Solutions Architect - Associate,4.75,7.75,300
+23290,25923,Emna Karray,AWS Certified Solutions Architect - Associate,4.25,8,375
+23291,25635,Ahlem Dridi,AWS Certified Solutions Architect - Associate,4.25,8.75,450
+23292,26123,Najoua Hmida,AWS Certified Solutions Architect - Associate,3.75,6.25,250
+23293,25851,Marwan Bouslama,AWS Certified Solutions Architect - Associate,4.5,7.25,275
+23294,25913,Karim Ferchichi,AWS Certified Solutions Architect - Associate,3,6.75,375
+23295,25908,Salah Gasmi,AWS Certified Solutions Architect - Associate,2.75,7.5,475
+23296,25993,Makram Kammoun,AWS Certified Solutions Architect - Associate,2.5,5.75,325
+23297,25992,Dali Fkih,AWS Certified Solutions Architect - Associate,4.75,7.5,275
+23298,25848,Aymen Chebbi,AWS Certified Solutions Architect - Associate,4,6.75,275
+23299,26022,Samir Ben Ali,AWS Certified Solutions Architect - Associate,5.5,9.25,375
+23300,25990,Hana Hleli,AWS Certified Solutions Architect - Associate,4.75,8.5,375
+23301,25935,Wassim Essid,AWS Certified Solutions Architect - Associate,2.75,7,425
+23302,25995,Amira Hassen,AWS Certified Solutions Architect - Associate,4.5,7.75,325
+23303,26000,Slim Mejri,AWS Certified Solutions Architect - Associate,4.75,8,325
+23304,26015,Adel Dhouib,AWS Certified Solutions Architect - Associate,4,9.5,550
+23305,25967,Rami Hachicha,AWS Certified Solutions Architect - Associate,4.25,8.25,400
+23306,25973,Karim Bouslama,AWS Certified Solutions Architect - Associate,4.5,6.75,225
+23307,25648,Noureddine Mrad,AWS Certified Solutions Architect - Associate,1,6.5,550
+23308,25612,Ghazi Hleli,AWS Certified Solutions Architect - Associate,5.75,7.25,150
+23309,25614,Ikram Hachicha,AWS Certified Solutions Architect - Associate,2,6.25,425
+23310,25948,Fatma Landolsi,AWS Certified Solutions Architect - Associate,5.25,8.5,325
+23311,25923,Emna Karray,AWS Certified Solutions Architect - Associate,4.5,8.5,400
+23312,25635,Ahlem Dridi,AWS Certified Solutions Architect - Associate,3.75,8.75,500
+23313,25907,Omar Khedher,AWS Certified Solutions Architect - Associate,4,7.75,375
+23314,26123,Najoua Hmida,AWS Certified Solutions Architect - Associate,2.5,8.25,575
+23315,25851,Marwan Bouslama,AWS Certified Solutions Architect - Associate,4.5,7.75,325
+23316,25913,Karim Ferchichi,AWS Certified Solutions Architect - Associate,4.5,7.5,300
+23317,26024,Bassem Hleli,AWS Certified Solutions Architect - Associate,4.5,7.25,275
+23318,25976,Samir Chaabane,AWS Certified Solutions Architect - Associate,6,8.75,275
+23319,25966,Jamel Rekik,AWS Certified Solutions Architect - Associate,3.5,8.25,475
+23320,25993,Makram Kammoun,AWS Certified Solutions Architect - Associate,3.25,7,375
+23321,25848,Aymen Chebbi,AWS Certified Solutions Architect - Associate,2.75,6,325
+23322,25965,Khaled Hachicha,AWS Certified Solutions Architect - Associate,3.75,5.25,150
+23323,26022,Samir Ben Ali,AWS Certified Solutions Architect - Associate,4.75,7.5,275
+23324,25990,Hana Hleli,AWS Certified Solutions Architect - Associate,4.5,9.5,500
+23325,25935,Wassim Essid,AWS Certified Solutions Architect - Associate,3.75,7.75,400
+23326,25995,Amira Hassen,AWS Certified Solutions Architect - Associate,3,6.25,325
+23327,26015,Adel Dhouib,AWS Certified Solutions Architect - Associate,3.75,7.5,375
+23328,25967,Rami Hachicha,AWS Certified Solutions Architect - Associate,4.25,7.75,350
+23329,25973,Karim Bouslama,AWS Certified Solutions Architect - Associate,2.5,6.75,425
+23330,25648,Noureddine Mrad,AWS Certified Solutions Architect - Associate,5.75,7,125
+23331,25612,Ghazi Hleli,AWS Certified Solutions Architect - Associate,4,7.75,375
+23332,25614,Ikram Hachicha,AWS Certified Solutions Architect - Associate,2.5,7.25,475
+23333,25635,Ahlem Dridi,AWS Certified Solutions Architect - Associate,4.75,7.5,275
+23334,25907,Omar Khedher,AWS Certified Solutions Architect - Associate,5.25,9.5,425
+23335,25772,Fadia Kchir,Microsoft Azure Administrator,2.5,5.5,300
+23336,25989,Wael Mansouri,Microsoft Azure Administrator,4.5,8.5,400
+23337,25988,Maher Dridi,Microsoft Azure Administrator,4.25,7.75,350
+23338,25762,Fatma Guizani,Microsoft Azure Administrator,4.25,7.5,325
+23339,25657,Lassad Chihaoui,Microsoft Azure Administrator,4,7,300
+23340,26009,Takwa Ghanmi,Microsoft Azure Administrator,4.25,8.5,425
+23341,25783,Mariam Bouzid,Microsoft Azure Administrator,2.75,7.5,475
+23342,25723,Mehdi Mestiri,Microsoft Azure Administrator,5,7.5,250
+23343,25999,Sofiane Mabrouk,Microsoft Azure Administrator,2.75,6.75,400
+23344,26002,Zied Louati,Microsoft Azure Administrator,3,8,500
+23345,26042,Marwan Meddeb,Microsoft Azure Administrator,3.75,7,325
+23346,25651,Maroua Bouzid,Microsoft Azure Administrator,4,6.25,225
+23347,25660,Rania Bouhamed,Microsoft Azure Administrator,5.25,8.5,325
+23348,25772,Fadia Kchir,Microsoft Azure Administrator,2.5,8.5,600
+23349,25989,Wael Mansouri,Microsoft Azure Administrator,4.25,8,375
+23350,25988,Maher Dridi,Microsoft Azure Administrator,4,7.75,375
+23351,25657,Lassad Chihaoui,Microsoft Azure Administrator,4.5,8,350
+23352,25783,Mariam Bouzid,Microsoft Azure Administrator,3,6.75,375
+23353,25723,Mehdi Mestiri,Microsoft Azure Administrator,4.5,7,250
+23354,25966,Jamel Rekik,Microsoft Azure Administrator,4.25,8.75,450
+23355,26002,Zied Louati,Microsoft Azure Administrator,4,7.75,375
+23356,25792,Ghada Jemli,Microsoft Azure Administrator,5,6.75,175
+23357,25733,Ines Hadj,Microsoft Azure Administrator,5,8.25,325
+23358,25651,Maroua Bouzid,Microsoft Azure Administrator,6.25,8,175
+23359,25660,Rania Bouhamed,Microsoft Azure Administrator,2.75,7.5,475
+23360,25772,Fadia Kchir,Microsoft Azure Administrator,3.25,8.25,500
+23361,25989,Wael Mansouri,Microsoft Azure Administrator,5,9.5,450
+23362,25988,Maher Dridi,Microsoft Azure Administrator,2.5,6.75,425
+23363,25762,Fatma Guizani,Microsoft Azure Administrator,4,7,300
+23364,25657,Lassad Chihaoui,Microsoft Azure Administrator,3.75,7.75,400
+23365,25999,Sofiane Mabrouk,Microsoft Azure Administrator,4,8.25,425
+23366,26002,Zied Louati,Microsoft Azure Administrator,4.25,8,375
+23367,25792,Ghada Jemli,Microsoft Azure Administrator,3.75,8.25,450
+23368,25704,Ahlem Daoud,Microsoft Azure Administrator,4.5,7.75,325
+23369,25651,Maroua Bouzid,Microsoft Azure Administrator,3.75,6.5,275
+23370,25989,Wael Mansouri,Microsoft Azure Administrator,4,9.5,550
+23371,25988,Maher Dridi,Microsoft Azure Administrator,3.75,8,425
+23372,25762,Fatma Guizani,Microsoft Azure Administrator,6,8.25,225
+23373,25657,Lassad Chihaoui,Microsoft Azure Administrator,4.75,8,325
+23374,26009,Takwa Ghanmi,Microsoft Azure Administrator,3,5.25,225
+23375,25755,Makram Gasmi,Microsoft Azure Administrator,6.25,9.5,325
+23376,26002,Zied Louati,Microsoft Azure Administrator,3.5,6.75,325
+23377,25704,Ahlem Daoud,Microsoft Azure Administrator,4.5,8.5,400
+23378,25733,Ines Hadj,Microsoft Azure Administrator,3.5,6.25,275
+23379,26042,Marwan Meddeb,Microsoft Azure Administrator,3,5.75,275
+23380,25651,Maroua Bouzid,Microsoft Azure Administrator,2,6,400
+23381,25660,Rania Bouhamed,Microsoft Azure Administrator,4.25,7.25,300
+23382,26301,Emna Chebbi,Google Cloud Professional Cloud Architect,2,4.5,250
+23383,26101,Moncef Ben Ahmed,Google Cloud Professional Cloud Architect,3,5.25,225
+23384,26215,Latifa Ben Ahmed,Google Cloud Professional Cloud Architect,3.5,8,450
+23385,26186,Fares Bouaziz,Google Cloud Professional Cloud Architect,4.5,7,250
+23386,26196,Wael Sellami,Google Cloud Professional Cloud Architect,3,7.5,450
+23387,26187,Ahmed Fatnassi,Google Cloud Professional Cloud Architect,5,7,200
+23388,26184,Taoufik Dali,Google Cloud Professional Cloud Architect,2.5,7.25,475
+23389,26149,Thouraya Fatnassi,Google Cloud Professional Cloud Architect,4,8.5,450
+23390,25768,Maroua Dhouib,Google Cloud Professional Cloud Architect,3.75,8.5,475
+23391,26209,Yassine Fourati,Google Cloud Professional Cloud Architect,5.5,7.75,225
+23392,25955,Ines Kchir,Google Cloud Professional Cloud Architect,4.25,6.25,200
+23393,26121,Moez Dali,Google Cloud Professional Cloud Architect,5.25,8.5,325
+23394,26194,Walid Ben Ali,Google Cloud Professional Cloud Architect,4.25,8.25,400
+23395,25781,Chedly Chebbi,Google Cloud Professional Cloud Architect,3.75,8.25,450
+23396,26105,Marwan Chaieb,Google Cloud Professional Cloud Architect,3.75,8,425
+23397,25783,Mariam Bouzid,Google Cloud Professional Cloud Architect,2.25,6.75,450
+23398,25720,Hichem Ghorbel,Google Cloud Professional Cloud Architect,2.5,6.75,425
+23399,26161,Imed Karoui,Google Cloud Professional Cloud Architect,5.5,7.5,200
+23400,26207,Noureddine Ferchichi,Google Cloud Professional Cloud Architect,2.75,7.25,450
+23401,26196,Wael Sellami,Google Cloud Professional Cloud Architect,5,9,400
+23402,26187,Ahmed Fatnassi,Google Cloud Professional Cloud Architect,3.5,7.75,425
+23403,26212,Jamel Mestiri,Google Cloud Professional Cloud Architect,4.5,7.5,300
+23404,25768,Maroua Dhouib,Google Cloud Professional Cloud Architect,4.5,7.25,275
+23405,25955,Ines Kchir,Google Cloud Professional Cloud Architect,5,8,300
+23406,26121,Moez Dali,Google Cloud Professional Cloud Architect,3.75,8,425
+23407,26194,Walid Ben Ali,Google Cloud Professional Cloud Architect,3.5,7.5,400
+23408,25781,Chedly Chebbi,Google Cloud Professional Cloud Architect,5,6.75,175
+23409,26114,Nabil Hleli,Google Cloud Professional Cloud Architect,5,7,200
+23410,26105,Marwan Chaieb,Google Cloud Professional Cloud Architect,4.75,7.75,300
+23411,25766,Nabil Rekik,Google Cloud Professional Cloud Architect,3.25,7,375
+23412,26301,Emna Chebbi,Google Cloud Professional Cloud Architect,3,9,600
+23413,26101,Moncef Ben Ahmed,Google Cloud Professional Cloud Architect,4,8.75,475
+23414,26161,Imed Karoui,Google Cloud Professional Cloud Architect,2.5,4.75,225
+23415,26215,Latifa Ben Ahmed,Google Cloud Professional Cloud Architect,4.5,7.5,300
+23416,26186,Fares Bouaziz,Google Cloud Professional Cloud Architect,6.25,8.75,250
+23417,26207,Noureddine Ferchichi,Google Cloud Professional Cloud Architect,4.25,6.5,225
+23418,26196,Wael Sellami,Google Cloud Professional Cloud Architect,4.25,8.25,400
+23419,26184,Taoufik Dali,Google Cloud Professional Cloud Architect,3.25,9.25,600
+23420,26212,Jamel Mestiri,Google Cloud Professional Cloud Architect,3,5.25,225
+23421,26149,Thouraya Fatnassi,Google Cloud Professional Cloud Architect,5,7.5,250
+23422,26209,Yassine Fourati,Google Cloud Professional Cloud Architect,3.75,8.25,450
+23423,26194,Walid Ben Ali,Google Cloud Professional Cloud Architect,5.5,7.25,175
+23424,25781,Chedly Chebbi,Google Cloud Professional Cloud Architect,2.5,4.75,225
+23425,26114,Nabil Hleli,Google Cloud Professional Cloud Architect,4.25,6.75,250
+23426,26134,Hana Ferchichi,Scrum Master Certified,3.25,6,275
+23427,26026,Aymen Dhouib,Scrum Master Certified,4.25,7,275
+23428,25680,Lamia Khlif,Scrum Master Certified,4.5,8.5,400
+23429,25651,Maroua Bouzid,Scrum Master Certified,4.25,7,275
+23430,25739,Lobna Mrad,Scrum Master Certified,4,7.5,350
+23431,25702,Ridha Louati,Scrum Master Certified,4.75,7.25,250
+23432,25781,Chedly Chebbi,Scrum Master Certified,4.75,7.25,250
+23433,25887,Bochra Derbali,Scrum Master Certified,4.75,6.5,175
+23434,26041,Taoufik Bouaziz,Scrum Master Certified,3.25,6.75,350
+23435,25996,Khadija Hmida,Scrum Master Certified,4,6.75,275
+23436,26051,Sami Laabidi,Scrum Master Certified,2.75,7.75,500
+23437,25858,Latifa Mejri,Scrum Master Certified,5.25,8,275
+23438,25931,Zeineb Hamza,Scrum Master Certified,4.25,6.25,200
+23439,25745,Mohamed Kchir,Scrum Master Certified,2.75,6.75,400
+23440,26032,Thouraya Meddeb,Scrum Master Certified,4.25,7.5,325
+23441,25728,Ahmed Ezzine,Scrum Master Certified,3.75,6.25,250
+23442,26429,Samia Dhouib,Scrum Master Certified,4.75,7.5,275
+23443,26079,Myriam Mahjoub,Scrum Master Certified,6.25,8.75,250
+23444,26295,Rami Dridi,Scrum Master Certified,5,7.75,275
+23445,26134,Hana Ferchichi,Scrum Master Certified,4.75,9.25,450
+23446,25680,Lamia Khlif,Scrum Master Certified,3,8.5,550
+23447,25651,Maroua Bouzid,Scrum Master Certified,3,5.5,250
+23448,25739,Lobna Mrad,Scrum Master Certified,3.75,6.5,275
+23449,25702,Ridha Louati,Scrum Master Certified,2.75,6.25,350
+23450,25781,Chedly Chebbi,Scrum Master Certified,5.25,9.75,450
+23451,25887,Bochra Derbali,Scrum Master Certified,3.75,8.25,450
+23452,25780,Maroua Hamdi,Scrum Master Certified,5,8.25,325
+23453,25996,Khadija Hmida,Scrum Master Certified,2.25,7.5,525
+23454,25858,Latifa Mejri,Scrum Master Certified,5.5,6.75,125
+23455,25931,Zeineb Hamza,Scrum Master Certified,4.5,9.5,500
+23456,25745,Mohamed Kchir,Scrum Master Certified,4,8.5,450
+23457,26032,Thouraya Meddeb,Scrum Master Certified,3.5,7.25,375
+23458,25728,Ahmed Ezzine,Scrum Master Certified,6,8.5,250
+23459,26280,Samir Hmida,Scrum Master Certified,3.25,6.5,325
+23460,26079,Myriam Mahjoub,Scrum Master Certified,3.5,6.25,275
+23461,26295,Rami Dridi,Scrum Master Certified,3.75,6.25,250
+23462,26134,Hana Ferchichi,Scrum Master Certified,4.25,8.5,425
+23463,26026,Aymen Dhouib,Scrum Master Certified,3.25,5.75,250
+23464,25680,Lamia Khlif,Scrum Master Certified,2,5,300
+23465,25651,Maroua Bouzid,Scrum Master Certified,3.25,7,375
+23466,25702,Ridha Louati,Scrum Master Certified,4.25,9,475
+23467,25887,Bochra Derbali,Scrum Master Certified,4,8,400
+23468,25780,Maroua Hamdi,Scrum Master Certified,4,9,500
+23469,26041,Taoufik Bouaziz,Scrum Master Certified,3.75,6,225
+23470,25996,Khadija Hmida,Scrum Master Certified,5.25,7.75,250
+23471,25931,Zeineb Hamza,Scrum Master Certified,2.25,5.5,325
+23472,25728,Ahmed Ezzine,Scrum Master Certified,2.75,5.75,300
+23473,26083,Sabrine Maaloul,Scrum Master Certified,3.5,8.25,475
+23474,26280,Samir Hmida,Scrum Master Certified,5,7.25,225
+23475,26429,Samia Dhouib,Scrum Master Certified,6.5,9,250
+23476,26079,Myriam Mahjoub,Scrum Master Certified,4,5.5,150
+23477,26295,Rami Dridi,Scrum Master Certified,3,7.5,450
+23478,26134,Hana Ferchichi,Scrum Master Certified,2.75,8,525
+23479,26026,Aymen Dhouib,Scrum Master Certified,5.5,7.5,200
+23480,25739,Lobna Mrad,Scrum Master Certified,4.25,7.75,350
+23481,25702,Ridha Louati,Scrum Master Certified,6,9.75,375
+23482,25996,Khadija Hmida,Scrum Master Certified,3.25,8,475
+23483,25858,Latifa Mejri,Scrum Master Certified,4.75,8,325
+23484,25931,Zeineb Hamza,Scrum Master Certified,3.5,7.25,375
+23485,25745,Mohamed Kchir,Scrum Master Certified,3.75,7,325
+23486,26032,Thouraya Meddeb,Scrum Master Certified,4.75,9.25,450
+23487,25728,Ahmed Ezzine,Scrum Master Certified,4.5,7,250
+23488,26280,Samir Hmida,Scrum Master Certified,4.5,8,350
+23489,26079,Myriam Mahjoub,Scrum Master Certified,4.75,7.75,300
+23490,26295,Rami Dridi,Scrum Master Certified,4.5,8.25,375
+23491,26134,Hana Ferchichi,Scrum Master Certified,3.25,5.75,250
+23492,26026,Aymen Dhouib,Scrum Master Certified,4,6.5,250
+23493,25680,Lamia Khlif,Scrum Master Certified,3.25,9,575
+23494,25702,Ridha Louati,Scrum Master Certified,4.5,8.25,375
+23495,25781,Chedly Chebbi,Scrum Master Certified,6.25,8.5,225
+23496,25887,Bochra Derbali,Scrum Master Certified,4,7,300
+23497,25780,Maroua Hamdi,Scrum Master Certified,2.75,7.5,475
+23498,26041,Taoufik Bouaziz,Scrum Master Certified,3.75,8,425
+23499,25996,Khadija Hmida,Scrum Master Certified,5.25,7.5,225
+23500,26051,Sami Laabidi,Scrum Master Certified,3,6,300
+23501,25858,Latifa Mejri,Scrum Master Certified,4.25,6.75,250
+23502,25931,Zeineb Hamza,Scrum Master Certified,4.5,7.25,275
+23503,25745,Mohamed Kchir,Scrum Master Certified,5.75,8.5,275
+23504,26032,Thouraya Meddeb,Scrum Master Certified,3.5,7.25,375
+23505,25728,Ahmed Ezzine,Scrum Master Certified,3.25,7.75,450
+23506,26280,Samir Hmida,Scrum Master Certified,4.75,6.5,175
+23507,26429,Samia Dhouib,Scrum Master Certified,4.75,8.75,400
+23508,26079,Myriam Mahjoub,Scrum Master Certified,4,8.75,475
+23509,26295,Rami Dridi,Scrum Master Certified,2.5,5.75,325
+23510,25833,Wael Layouni,Project Management Professional (PMP),5,7.25,225
+23511,25759,Olfa Feriani,Project Management Professional (PMP),5,6.75,175
+23512,25677,Ahmed Nabli,Project Management Professional (PMP),5.5,9,350
+23513,25663,Dali Fkih,Project Management Professional (PMP),3.5,7.25,375
+23514,25705,Adel Hachicha,Project Management Professional (PMP),3.5,7.25,375
+23515,25739,Lobna Mrad,Project Management Professional (PMP),4.5,8.75,425
+23516,25706,Sofiane Hachicha,Project Management Professional (PMP),3.5,8.25,475
+23517,25773,Myriam Hajji,Project Management Professional (PMP),4,8,400
+23518,25717,Zied Ghanmi,Project Management Professional (PMP),4.75,7.75,300
+23519,25727,Wael Mabrouk,Project Management Professional (PMP),3.5,6.75,325
+23520,26047,Ghazi Guesmi,Project Management Professional (PMP),4.75,8.25,350
+23521,25662,Kais Horchani,Project Management Professional (PMP),2.75,6,325
+23522,25997,Samir Omrani,Project Management Professional (PMP),3.5,7.5,400
+23523,26074,Maroua Hamza,Project Management Professional (PMP),4.25,8.25,400
+23524,25715,Cyrine Kammoun,Project Management Professional (PMP),4,6,200
+23525,26023,Moez Karray,Project Management Professional (PMP),3.5,7,350
+23526,25735,Fatma Ferchichi,Project Management Professional (PMP),2.25,6.5,425
+23527,26492,Hichem Ben Ahmed,Project Management Professional (PMP),3.25,8,475
+23528,25833,Wael Layouni,Project Management Professional (PMP),4.75,8.25,350
+23529,25759,Olfa Feriani,Project Management Professional (PMP),3.75,6.75,300
+23530,25677,Ahmed Nabli,Project Management Professional (PMP),3.75,7.25,350
+23531,25771,Zouheir Ben Ahmed,Project Management Professional (PMP),3,6.25,325
+23532,25708,Latifa Gabsi,Project Management Professional (PMP),3.75,7.5,375
+23533,25663,Dali Fkih,Project Management Professional (PMP),2,7.75,575
+23534,25705,Adel Hachicha,Project Management Professional (PMP),4.75,7.25,250
+23535,25706,Sofiane Hachicha,Project Management Professional (PMP),6.5,9.25,275
+23536,25773,Myriam Hajji,Project Management Professional (PMP),5,8.5,350
+23537,26030,Wael Daoud,Project Management Professional (PMP),3.5,8.25,475
+23538,25727,Wael Mabrouk,Project Management Professional (PMP),2.75,4.25,150
+23539,26047,Ghazi Guesmi,Project Management Professional (PMP),5.25,7.5,225
+23540,25662,Kais Horchani,Project Management Professional (PMP),2.25,8.75,650
+23541,25997,Samir Omrani,Project Management Professional (PMP),5,8.5,350
+23542,25998,Youssef Khedher,Project Management Professional (PMP),3.5,7.5,400
+23543,26074,Maroua Hamza,Project Management Professional (PMP),3.75,5.75,200
+23544,25715,Cyrine Kammoun,Project Management Professional (PMP),4.75,7.5,275
+23545,26023,Moez Karray,Project Management Professional (PMP),5.5,8.25,275
+23546,26492,Hichem Ben Ahmed,Project Management Professional (PMP),4.75,8.5,375
+23547,25833,Wael Layouni,Project Management Professional (PMP),2.5,7.75,525
+23548,25771,Zouheir Ben Ahmed,Project Management Professional (PMP),3.5,7.75,425
+23549,25708,Latifa Gabsi,Project Management Professional (PMP),2.5,6,350
+23550,25739,Lobna Mrad,Project Management Professional (PMP),1.75,7.25,550
+23551,25706,Sofiane Hachicha,Project Management Professional (PMP),3,6.75,375
+23552,25773,Myriam Hajji,Project Management Professional (PMP),5,7.5,250
+23553,25717,Zied Ghanmi,Project Management Professional (PMP),5,6.5,150
+23554,26030,Wael Daoud,Project Management Professional (PMP),6.25,8.75,250
+23555,25727,Wael Mabrouk,Project Management Professional (PMP),5.25,8.75,350
+23556,25662,Kais Horchani,Project Management Professional (PMP),3.5,7.25,375
+23557,25997,Samir Omrani,Project Management Professional (PMP),3.75,6.75,300
+23558,25998,Youssef Khedher,Project Management Professional (PMP),3.25,5.75,250
+23559,26074,Maroua Hamza,Project Management Professional (PMP),5,9.75,475
+23560,25715,Cyrine Kammoun,Project Management Professional (PMP),3.25,6.25,300
+23561,26023,Moez Karray,Project Management Professional (PMP),3,6.5,350
+23562,26492,Hichem Ben Ahmed,Project Management Professional (PMP),3.75,9,525
+23563,25759,Olfa Feriani,Project Management Professional (PMP),2.75,6.25,350
+23564,25677,Ahmed Nabli,Project Management Professional (PMP),3.5,6.25,275
+23565,25771,Zouheir Ben Ahmed,Project Management Professional (PMP),3.5,7.25,375
+23566,25663,Dali Fkih,Project Management Professional (PMP),3.75,6.25,250
+23567,25705,Adel Hachicha,Project Management Professional (PMP),4.75,8.75,400
+23568,25739,Lobna Mrad,Project Management Professional (PMP),4.25,7.75,350
+23569,25706,Sofiane Hachicha,Project Management Professional (PMP),3.75,6.5,275
+23570,25717,Zied Ghanmi,Project Management Professional (PMP),4,7.5,350
+23571,26030,Wael Daoud,Project Management Professional (PMP),4,8.5,450
+23572,26047,Ghazi Guesmi,Project Management Professional (PMP),4.5,8,350
+23573,25662,Kais Horchani,Project Management Professional (PMP),2,7,500
+23574,25997,Samir Omrani,Project Management Professional (PMP),5.5,9.25,375
+23575,25998,Youssef Khedher,Project Management Professional (PMP),3.25,8,475
+23576,25715,Cyrine Kammoun,Project Management Professional (PMP),3.25,7.75,450
+23577,26023,Moez Karray,Project Management Professional (PMP),3.5,7.25,375
+23578,25735,Fatma Ferchichi,Project Management Professional (PMP),3,8.5,550
+23579,26492,Hichem Ben Ahmed,Project Management Professional (PMP),4.25,5.75,150
+23580,25833,Wael Layouni,Project Management Professional (PMP),3.5,8,450
+23581,25759,Olfa Feriani,Project Management Professional (PMP),6,9.25,325
+23582,25677,Ahmed Nabli,Project Management Professional (PMP),3,8.75,575
+23583,25663,Dali Fkih,Project Management Professional (PMP),4.75,8,325
+23584,25705,Adel Hachicha,Project Management Professional (PMP),5,9.5,450
+23585,25739,Lobna Mrad,Project Management Professional (PMP),3.25,7.25,400
+23586,25773,Myriam Hajji,Project Management Professional (PMP),1.5,7.25,575
+23587,25717,Zied Ghanmi,Project Management Professional (PMP),4,8.75,475
+23588,26030,Wael Daoud,Project Management Professional (PMP),3.75,7.25,350
+23589,25727,Wael Mabrouk,Project Management Professional (PMP),4,6,200
+23590,26047,Ghazi Guesmi,Project Management Professional (PMP),3.5,7.5,400
+23591,25662,Kais Horchani,Project Management Professional (PMP),5,7.25,225
+23592,25997,Samir Omrani,Project Management Professional (PMP),3.75,7.5,375
+23593,25998,Youssef Khedher,Project Management Professional (PMP),3.75,7,325
+23594,26074,Maroua Hamza,Project Management Professional (PMP),4.25,7.75,350
+23595,25715,Cyrine Kammoun,Project Management Professional (PMP),3.25,8,475
+23596,26023,Moez Karray,Project Management Professional (PMP),3.75,8,425
+23597,26130,Dalila Feriani,Certified Information Systems Security Professional (CISSP),6.5,8.25,175
+23598,26153,Sami Hassen,Certified Information Systems Security Professional (CISSP),3,7.75,475
+23599,26158,Ines Ben Ahmed,Certified Information Systems Security Professional (CISSP),3.75,8.5,475
+23600,25973,Karim Bouslama,Certified Information Systems Security Professional (CISSP),4.75,8.5,375
+23601,25598,Rim Layouni,Certified Information Systems Security Professional (CISSP),3.75,6.5,275
+23602,25594,Zeineb Derbali,Certified Information Systems Security Professional (CISSP),4.25,7.25,300
+23603,26242,Tarek Mabrouk,Certified Information Systems Security Professional (CISSP),2.5,6.75,425
+23604,25657,Lassad Chihaoui,Certified Information Systems Security Professional (CISSP),4,7,300
+23605,25945,Lassad Guesmi,Certified Information Systems Security Professional (CISSP),3.25,5.25,200
+23606,26008,Maroua Omrani,Certified Information Systems Security Professional (CISSP),3.25,7,375
+23607,26460,Farouk Chaieb,Certified Information Systems Security Professional (CISSP),5.75,7.75,200
+23608,25603,Rania Hmida,Certified Information Systems Security Professional (CISSP),4.5,8.25,375
+23609,26013,Amine Chaieb,Certified Information Systems Security Professional (CISSP),3.75,7.5,375
+23610,26464,Zeineb Ghanmi,Certified Information Systems Security Professional (CISSP),4.25,8.75,450
+23611,26050,Sami Chaieb,Certified Information Systems Security Professional (CISSP),4.75,7,225
+23612,26468,Samir Guizani,Certified Information Systems Security Professional (CISSP),2,5,300
+23613,26366,Taoufik Landolsi,Certified Information Systems Security Professional (CISSP),4.25,7.75,350
+23614,25710,Moez Labidi,Certified Information Systems Security Professional (CISSP),3.5,7.75,425
+23615,26443,Intissar Mestiri,Certified Information Systems Security Professional (CISSP),3,7,400
+23616,26386,Maroua Hajji,Certified Information Systems Security Professional (CISSP),3.75,7,325
+23617,25900,Karim Jazi,Certified Information Systems Security Professional (CISSP),6,8.5,250
+23618,26130,Dalila Feriani,Certified Information Systems Security Professional (CISSP),2.75,5.25,250
+23619,26153,Sami Hassen,Certified Information Systems Security Professional (CISSP),4,8.25,425
+23620,26158,Ines Ben Ahmed,Certified Information Systems Security Professional (CISSP),4.5,8.25,375
+23621,25973,Karim Bouslama,Certified Information Systems Security Professional (CISSP),4,7.25,325
+23622,25618,Emad Khedher,Certified Information Systems Security Professional (CISSP),4.25,7.5,325
+23623,25598,Rim Layouni,Certified Information Systems Security Professional (CISSP),5.5,9.5,400
+23624,26242,Tarek Mabrouk,Certified Information Systems Security Professional (CISSP),3.25,6.5,325
+23625,25599,Wael Landolsi,Certified Information Systems Security Professional (CISSP),5.25,8.25,300
+23626,25657,Lassad Chihaoui,Certified Information Systems Security Professional (CISSP),3,8,500
+23627,25945,Lassad Guesmi,Certified Information Systems Security Professional (CISSP),4.25,8.75,450
+23628,26045,Jihene Guesmi,Certified Information Systems Security Professional (CISSP),3,4.75,175
+23629,26460,Farouk Chaieb,Certified Information Systems Security Professional (CISSP),3.75,6.5,275
+23630,25603,Rania Hmida,Certified Information Systems Security Professional (CISSP),3.5,7.25,375
+23631,26013,Amine Chaieb,Certified Information Systems Security Professional (CISSP),4,5,100
+23632,26464,Zeineb Ghanmi,Certified Information Systems Security Professional (CISSP),4.25,8,375
+23633,26050,Sami Chaieb,Certified Information Systems Security Professional (CISSP),5.25,8.25,300
+23634,26468,Samir Guizani,Certified Information Systems Security Professional (CISSP),3.75,6.5,275
+23635,26431,Wassim Bouhamed,Certified Information Systems Security Professional (CISSP),2.5,6.25,375
+23636,26366,Taoufik Landolsi,Certified Information Systems Security Professional (CISSP),5.25,7,175
+23637,25710,Moez Labidi,Certified Information Systems Security Professional (CISSP),5.5,7.75,225
+23638,26373,Sofiane Jouini,Certified Information Systems Security Professional (CISSP),5.5,7.5,200
+23639,25604,Ghada Guesmi,Certified Information Systems Security Professional (CISSP),3.25,6,275
+23640,26443,Intissar Mestiri,Certified Information Systems Security Professional (CISSP),3.75,7.25,350
+23641,25843,Kais Khedher,Certified Information Systems Security Professional (CISSP),4,9.5,550
+23642,26356,Sabrine Nasri,Certified Information Systems Security Professional (CISSP),2.75,8,525
+23643,26130,Dalila Feriani,Certified Information Systems Security Professional (CISSP),3.25,6.5,325
+23644,26153,Sami Hassen,Certified Information Systems Security Professional (CISSP),3.75,7.5,375
+23645,26158,Ines Ben Ahmed,Certified Information Systems Security Professional (CISSP),3.75,7.75,400
+23646,25973,Karim Bouslama,Certified Information Systems Security Professional (CISSP),3.75,7.25,350
+23647,25594,Zeineb Derbali,Certified Information Systems Security Professional (CISSP),3,7.5,450
+23648,26242,Tarek Mabrouk,Certified Information Systems Security Professional (CISSP),2.5,8.75,625
+23649,25599,Wael Landolsi,Certified Information Systems Security Professional (CISSP),4.25,7.25,300
+23650,25657,Lassad Chihaoui,Certified Information Systems Security Professional (CISSP),3.5,6,250
+23651,25945,Lassad Guesmi,Certified Information Systems Security Professional (CISSP),2.75,7.5,475
+23652,26045,Jihene Guesmi,Certified Information Systems Security Professional (CISSP),5.25,8.75,350
+23653,26460,Farouk Chaieb,Certified Information Systems Security Professional (CISSP),2,6,400
+23654,25603,Rania Hmida,Certified Information Systems Security Professional (CISSP),4,9,500
+23655,26050,Sami Chaieb,Certified Information Systems Security Professional (CISSP),4,5.25,125
+23656,26468,Samir Guizani,Certified Information Systems Security Professional (CISSP),4.5,8,350
+23657,26431,Wassim Bouhamed,Certified Information Systems Security Professional (CISSP),4,8.25,425
+23658,26366,Taoufik Landolsi,Certified Information Systems Security Professional (CISSP),4,7.25,325
+23659,25710,Moez Labidi,Certified Information Systems Security Professional (CISSP),4.5,9,450
+23660,26373,Sofiane Jouini,Certified Information Systems Security Professional (CISSP),2.75,8.5,575
+23661,25604,Ghada Guesmi,Certified Information Systems Security Professional (CISSP),2.75,9,625
+23662,26443,Intissar Mestiri,Certified Information Systems Security Professional (CISSP),4.75,7,225
+23663,25843,Kais Khedher,Certified Information Systems Security Professional (CISSP),5,8.75,375
+23664,26356,Sabrine Nasri,Certified Information Systems Security Professional (CISSP),4.75,7.5,275
+23665,26386,Maroua Hajji,Certified Information Systems Security Professional (CISSP),4.75,7.25,250
+23666,25900,Karim Jazi,Certified Information Systems Security Professional (CISSP),3.25,6.5,325
+23667,26130,Dalila Feriani,Certified Information Systems Security Professional (CISSP),4.25,8.5,425
+23668,26153,Sami Hassen,Certified Information Systems Security Professional (CISSP),4.25,8.25,400
+23669,26158,Ines Ben Ahmed,Certified Information Systems Security Professional (CISSP),1.25,7.25,600
+23670,25973,Karim Bouslama,Certified Information Systems Security Professional (CISSP),5,7.75,275
+23671,25618,Emad Khedher,Certified Information Systems Security Professional (CISSP),4.25,8.75,450
+23672,25598,Rim Layouni,Certified Information Systems Security Professional (CISSP),5.75,8,225
+23673,25594,Zeineb Derbali,Certified Information Systems Security Professional (CISSP),4.25,8.5,425
+23674,26242,Tarek Mabrouk,Certified Information Systems Security Professional (CISSP),4.5,7,250
+23675,25599,Wael Landolsi,Certified Information Systems Security Professional (CISSP),2.75,5,225
+23676,25657,Lassad Chihaoui,Certified Information Systems Security Professional (CISSP),2.75,6,325
+23677,25945,Lassad Guesmi,Certified Information Systems Security Professional (CISSP),5.25,8,275
+23678,26008,Maroua Omrani,Certified Information Systems Security Professional (CISSP),3.5,7.25,375
+23679,26045,Jihene Guesmi,Certified Information Systems Security Professional (CISSP),4.75,7.75,300
+23680,26460,Farouk Chaieb,Certified Information Systems Security Professional (CISSP),3,7.25,425
+23681,25603,Rania Hmida,Certified Information Systems Security Professional (CISSP),3.75,8.5,475
+23682,26013,Amine Chaieb,Certified Information Systems Security Professional (CISSP),3.5,7,350
+23683,26050,Sami Chaieb,Certified Information Systems Security Professional (CISSP),3.25,9.75,650
+23684,26431,Wassim Bouhamed,Certified Information Systems Security Professional (CISSP),6.25,8.25,200
+23685,26373,Sofiane Jouini,Certified Information Systems Security Professional (CISSP),3,7.75,475
+23686,25843,Kais Khedher,Certified Information Systems Security Professional (CISSP),5.5,7.75,225
+23687,26386,Maroua Hajji,Certified Information Systems Security Professional (CISSP),4.25,8.25,400
+23688,26153,Sami Hassen,Certified Information Systems Security Professional (CISSP),2.5,8.25,575
+23689,25973,Karim Bouslama,Certified Information Systems Security Professional (CISSP),2.5,7.25,475
+23690,25618,Emad Khedher,Certified Information Systems Security Professional (CISSP),2,5,300
+23691,25598,Rim Layouni,Certified Information Systems Security Professional (CISSP),2.5,6.75,425
+23692,25594,Zeineb Derbali,Certified Information Systems Security Professional (CISSP),1.5,5.75,425
+23693,25599,Wael Landolsi,Certified Information Systems Security Professional (CISSP),4,7.75,375
+23694,25657,Lassad Chihaoui,Certified Information Systems Security Professional (CISSP),3.5,6.25,275
+23695,25945,Lassad Guesmi,Certified Information Systems Security Professional (CISSP),4.75,8,325
+23696,26045,Jihene Guesmi,Certified Information Systems Security Professional (CISSP),3.25,7.5,425
+23697,25603,Rania Hmida,Certified Information Systems Security Professional (CISSP),4.75,8.25,350
+23698,26013,Amine Chaieb,Certified Information Systems Security Professional (CISSP),4.75,9,425
+23699,26464,Zeineb Ghanmi,Certified Information Systems Security Professional (CISSP),4.5,8.5,400
+23700,26050,Sami Chaieb,Certified Information Systems Security Professional (CISSP),3.75,7.75,400
+23701,26468,Samir Guizani,Certified Information Systems Security Professional (CISSP),2,6,400
+23702,26366,Taoufik Landolsi,Certified Information Systems Security Professional (CISSP),4.75,8.5,375
+23703,25710,Moez Labidi,Certified Information Systems Security Professional (CISSP),3,6.25,325
+23704,25604,Ghada Guesmi,Certified Information Systems Security Professional (CISSP),5,8,300
+23705,25843,Kais Khedher,Certified Information Systems Security Professional (CISSP),5,9.25,425
+23706,26386,Maroua Hajji,Certified Information Systems Security Professional (CISSP),3.25,6.5,325
+23707,26037,Jamel Jouini,Data Science avec Python,2.75,5,225
+23708,25855,Taoufik Hamdi,Data Science avec Python,3.75,7.25,350
+23709,25647,Yosra Mejri,Data Science avec Python,4.25,7,275
+23710,25679,Farah Fkih,Data Science avec Python,5.5,9,350
+23711,25851,Marwan Bouslama,Data Science avec Python,6.25,7.5,125
+23712,25862,Nesrine Horchani,Data Science avec Python,5.25,7.5,225
+23713,25706,Sofiane Hachicha,Data Science avec Python,3.75,5.75,200
+23714,25742,Sami Ferchichi,Data Science avec Python,5.25,7.5,225
+23715,25615,Nader Guesmi,Data Science avec Python,4.5,8.25,375
+23716,25803,Wael Mabrouk,Data Science avec Python,5,7.5,250
+23717,26088,Latifa Bouzid,Data Science avec Python,4.75,8.5,375
+23718,25729,Wafa Guizani,Data Science avec Python,4.25,7,275
+23719,25855,Taoufik Hamdi,Data Science avec Python,2,7.75,575
+23720,25647,Yosra Mejri,Data Science avec Python,5.25,9,375
+23721,25679,Farah Fkih,Data Science avec Python,4.75,8.75,400
+23722,25941,Lassad Limam,Data Science avec Python,3.5,8,450
+23723,25591,Chedly Ezzine,Data Science avec Python,3.5,7.75,425
+23724,25851,Marwan Bouslama,Data Science avec Python,5,8,300
+23725,25862,Nesrine Horchani,Data Science avec Python,3.5,7,350
+23726,25706,Sofiane Hachicha,Data Science avec Python,2.75,5,225
+23727,25748,Besma Landolsi,Data Science avec Python,5.75,8.25,250
+23728,25657,Lassad Chihaoui,Data Science avec Python,3,9.25,625
+23729,25615,Nader Guesmi,Data Science avec Python,4,9,500
+23730,25803,Wael Mabrouk,Data Science avec Python,3.75,6.25,250
+23731,26353,Sabrine Limam,Data Science avec Python,5,8,300
+23732,26037,Jamel Jouini,Data Science avec Python,5.25,7.5,225
+23733,25729,Wafa Guizani,Data Science avec Python,3.5,7.25,375
+23734,25855,Taoufik Hamdi,Data Science avec Python,3.25,5.75,250
+23735,25647,Yosra Mejri,Data Science avec Python,4.5,8.75,425
+23736,25679,Farah Fkih,Data Science avec Python,3.75,7.25,350
+23737,25591,Chedly Ezzine,Data Science avec Python,3,6.75,375
+23738,25742,Sami Ferchichi,Data Science avec Python,4.75,8.5,375
+23739,25748,Besma Landolsi,Data Science avec Python,5.25,8,275
+23740,25615,Nader Guesmi,Data Science avec Python,4.75,8.5,375
+23741,26088,Latifa Bouzid,Data Science avec Python,3.75,5.25,150
+23742,26157,Hedi Miled,Blockchain pour les entreprises,4.75,8.5,375
+23743,26418,Najoua Trabelsi,Blockchain pour les entreprises,3.25,4.75,150
+23744,26414,Intissar Hadj,Blockchain pour les entreprises,4.75,6,125
+23745,26443,Intissar Mestiri,Blockchain pour les entreprises,4.25,7.5,325
+23746,26565,Cyrine Kammoun,Blockchain pour les entreprises,6,8.5,250
+23747,26407,Fadia Jelassi,Blockchain pour les entreprises,6.25,8.25,200
+23748,26426,Chedly Louati,Blockchain pour les entreprises,1.75,8.5,675
+23749,26420,Ghazi Chaieb,Blockchain pour les entreprises,4.25,6.75,250
+23750,26447,Dorra Ouali,Blockchain pour les entreprises,3.25,7.75,450
+23751,26425,Kais Hleli,Blockchain pour les entreprises,3,6.75,375
+23752,26451,Samir Kammoun,Blockchain pour les entreprises,2.5,7.25,475
+23753,26468,Samir Guizani,Blockchain pour les entreprises,5.5,8,250
+23754,26344,Latifa Hamza,Blockchain pour les entreprises,3,6.5,350
+23755,26378,Nader Mrad,Blockchain pour les entreprises,4.25,8.5,425
+23756,26522,Walid Hadj,Blockchain pour les entreprises,4.5,9,450
+23757,26442,Moncef Mestiri,Blockchain pour les entreprises,4,7.5,350
+23758,26353,Sabrine Limam,Blockchain pour les entreprises,3.75,5.75,200
+23759,26450,Amel Ben Salah,Blockchain pour les entreprises,1.5,6.5,500
+23760,26403,Ikram Mrad,Blockchain pour les entreprises,3.75,6.25,250
+23761,26424,Ahlem Mrad,Blockchain pour les entreprises,2.75,8,525
+23762,26157,Hedi Miled,Blockchain pour les entreprises,2.5,7.25,475
+23763,26418,Najoua Trabelsi,Blockchain pour les entreprises,4.25,8.75,450
+23764,26414,Intissar Hadj,Blockchain pour les entreprises,4.25,7,275
+23765,26443,Intissar Mestiri,Blockchain pour les entreprises,4.25,6.5,225
+23766,26467,Lamia Ben Youssef,Blockchain pour les entreprises,3,7.5,450
+23767,26426,Chedly Louati,Blockchain pour les entreprises,6.25,8.75,250
+23768,26420,Ghazi Chaieb,Blockchain pour les entreprises,3.5,6.75,325
+23769,26466,Zohra Jouini,Blockchain pour les entreprises,2.75,7,425
+23770,26447,Dorra Ouali,Blockchain pour les entreprises,2,7,500
+23771,26457,Hajer Hachicha,Blockchain pour les entreprises,4.25,5.75,150
+23772,26451,Samir Kammoun,Blockchain pour les entreprises,3.25,5.5,225
+23773,26344,Latifa Hamza,Blockchain pour les entreprises,4.5,8,350
+23774,26378,Nader Mrad,Blockchain pour les entreprises,2.25,7.25,500
+23775,26500,Farouk Essid,Blockchain pour les entreprises,2,6.75,475
+23776,26442,Moncef Mestiri,Blockchain pour les entreprises,3.75,9.25,550
+23777,26353,Sabrine Limam,Blockchain pour les entreprises,2.5,8.75,625
+23778,26483,Najoua Layouni,Blockchain pour les entreprises,5,7.75,275
+23779,26450,Amel Ben Salah,Blockchain pour les entreprises,3.5,7.5,400
+23780,26403,Ikram Mrad,Blockchain pour les entreprises,2.5,8,550
+23781,26503,Sonia Dhouib,Blockchain pour les entreprises,2.5,6.75,425
+23782,26418,Najoua Trabelsi,Blockchain pour les entreprises,6.25,8.5,225
+23783,26420,Ghazi Chaieb,Blockchain pour les entreprises,4.25,8.75,450
+23784,26466,Zohra Jouini,Blockchain pour les entreprises,2.5,7.75,525
+23785,26447,Dorra Ouali,Blockchain pour les entreprises,2.25,7.5,525
+23786,26457,Hajer Hachicha,Blockchain pour les entreprises,4.5,8,350
+23787,26458,Wael Khedher,Blockchain pour les entreprises,3,6,300
+23788,26425,Kais Hleli,Blockchain pour les entreprises,3,6.25,325
+23789,26468,Samir Guizani,Blockchain pour les entreprises,4.75,6.75,200
+23790,26344,Latifa Hamza,Blockchain pour les entreprises,4.75,7.5,275
+23791,26378,Nader Mrad,Blockchain pour les entreprises,5.25,8.25,300
+23792,26393,Slim Ferjani,Blockchain pour les entreprises,3.25,6.75,350
+23793,26522,Walid Hadj,Blockchain pour les entreprises,5.5,7.75,225
+23794,26500,Farouk Essid,Blockchain pour les entreprises,6.25,9.25,300
+23795,26483,Najoua Layouni,Blockchain pour les entreprises,4,6.75,275
+23796,26157,Hedi Miled,Blockchain pour les entreprises,4.25,7,275
+23797,26443,Intissar Mestiri,Blockchain pour les entreprises,4.25,6.75,250
+23798,26565,Cyrine Kammoun,Blockchain pour les entreprises,6,9.25,325
+23799,26407,Fadia Jelassi,Blockchain pour les entreprises,4.25,7,275
+23800,26467,Lamia Ben Youssef,Blockchain pour les entreprises,2.25,7,475
+23801,26426,Chedly Louati,Blockchain pour les entreprises,4,7.25,325
+23802,26420,Ghazi Chaieb,Blockchain pour les entreprises,4.5,8.25,375
+23803,26466,Zohra Jouini,Blockchain pour les entreprises,2.5,4.75,225
+23804,26458,Wael Khedher,Blockchain pour les entreprises,4.75,7.75,300
+23805,26425,Kais Hleli,Blockchain pour les entreprises,4,8,400
+23806,26451,Samir Kammoun,Blockchain pour les entreprises,2.25,7.75,550
+23807,26468,Samir Guizani,Blockchain pour les entreprises,3.25,6.25,300
+23808,26344,Latifa Hamza,Blockchain pour les entreprises,4.5,9.5,500
+23809,26378,Nader Mrad,Blockchain pour les entreprises,1,5.5,450
+23810,26350,Bochra Mestiri,Blockchain pour les entreprises,3.5,8.25,475
+23811,26500,Farouk Essid,Blockchain pour les entreprises,3,7.5,450
+23812,26442,Moncef Mestiri,Blockchain pour les entreprises,4.25,9.5,525
+23813,26483,Najoua Layouni,Blockchain pour les entreprises,4,7.5,350
+23814,26450,Amel Ben Salah,Blockchain pour les entreprises,5.5,8,250
+23815,26403,Ikram Mrad,Blockchain pour les entreprises,5.25,7.75,250
+23816,26424,Ahlem Mrad,Blockchain pour les entreprises,4.75,7.25,250
+23817,25926,Maher Ezzine,Intelligence Artificielle pour managers,4.25,7.25,300
+23818,25611,Lobna Jelassi,Intelligence Artificielle pour managers,4,7,300
+23819,25653,Nesrine Jelassi,Intelligence Artificielle pour managers,4,8.25,425
+23820,25842,Fares Gasmi,Intelligence Artificielle pour managers,5,8.5,350
+23821,25877,Besma Guizani,Intelligence Artificielle pour managers,5.5,8.75,325
+23822,25862,Nesrine Horchani,Intelligence Artificielle pour managers,5.25,9,375
+23823,25709,Imed Omrani,Intelligence Artificielle pour managers,4.25,8.5,425
+23824,25640,Yosra Mabrouk,Intelligence Artificielle pour managers,3,6,300
+23825,25642,Fatma Mestiri,Intelligence Artificielle pour managers,5.5,8.75,325
+23826,25955,Ines Kchir,Intelligence Artificielle pour managers,4.5,8.5,400
+23827,25872,Walid Benhassan,Intelligence Artificielle pour managers,3.75,7.75,400
+23828,25893,Hana Essid,Intelligence Artificielle pour managers,4.5,7.75,325
+23829,25610,Emad Sellami,Intelligence Artificielle pour managers,4.75,9.25,450
+23830,26169,Mariam Ben Youssef,Intelligence Artificielle pour managers,3.75,8,425
+23831,25867,Noureddine Karoui,Intelligence Artificielle pour managers,3.75,8,425
+23832,25910,Hiba Benhassan,Intelligence Artificielle pour managers,5.25,9.25,400
+23833,25926,Maher Ezzine,Intelligence Artificielle pour managers,4,7.25,325
+23834,25653,Nesrine Jelassi,Intelligence Artificielle pour managers,3.25,7.5,425
+23835,25928,Makram Louati,Intelligence Artificielle pour managers,3.5,7.25,375
+23836,25877,Besma Guizani,Intelligence Artificielle pour managers,5,7.25,225
+23837,25436,Test Apprenant,Intelligence Artificielle pour managers,5,8.75,375
+23838,25622,Takwa Nabli,Intelligence Artificielle pour managers,4.25,7.5,325
+23839,25862,Nesrine Horchani,Intelligence Artificielle pour managers,4.75,7.25,250
+23840,25709,Imed Omrani,Intelligence Artificielle pour managers,4.25,8,375
+23841,25640,Yosra Mabrouk,Intelligence Artificielle pour managers,5.25,8.25,300
+23842,25642,Fatma Mestiri,Intelligence Artificielle pour managers,3.75,8.75,500
+23843,25955,Ines Kchir,Intelligence Artificielle pour managers,3.5,6,250
+23844,25924,Nour Ben Salah,Intelligence Artificielle pour managers,3.25,8.5,525
+23845,25872,Walid Benhassan,Intelligence Artificielle pour managers,4,8.25,425
+23846,25610,Emad Sellami,Intelligence Artificielle pour managers,5,8.75,375
+23847,26054,Lobna Ktari,Intelligence Artificielle pour managers,5,9,400
+23848,25853,Karima Daoud,Intelligence Artificielle pour managers,4.75,8.25,350
+23849,25611,Lobna Jelassi,Intelligence Artificielle pour managers,3.5,6.25,275
+23850,25653,Nesrine Jelassi,Intelligence Artificielle pour managers,4.25,5.5,125
+23851,25906,Dali Limam,Intelligence Artificielle pour managers,4.5,7.5,300
+23852,25842,Fares Gasmi,Intelligence Artificielle pour managers,4.25,6.75,250
+23853,25877,Besma Guizani,Intelligence Artificielle pour managers,5.5,7.75,225
+23854,25436,Test Apprenant,Intelligence Artificielle pour managers,4,8.5,450
+23855,25862,Nesrine Horchani,Intelligence Artificielle pour managers,4.5,8.25,375
+23856,25709,Imed Omrani,Intelligence Artificielle pour managers,5.75,8.75,300
+23857,25640,Yosra Mabrouk,Intelligence Artificielle pour managers,4.75,8.75,400
+23858,25642,Fatma Mestiri,Intelligence Artificielle pour managers,2.5,6.25,375
+23859,25955,Ines Kchir,Intelligence Artificielle pour managers,4.25,7.25,300
+23860,25924,Nour Ben Salah,Intelligence Artificielle pour managers,4,7.25,325
+23861,26169,Mariam Ben Youssef,Intelligence Artificielle pour managers,3.75,8.75,500
+23862,25853,Karima Daoud,Intelligence Artificielle pour managers,3,8,500
+23863,25867,Noureddine Karoui,Intelligence Artificielle pour managers,3.5,7.75,425
+23864,25910,Hiba Benhassan,Intelligence Artificielle pour managers,3.5,8,450
+23865,25926,Maher Ezzine,Intelligence Artificielle pour managers,5.5,8,250
+23866,25653,Nesrine Jelassi,Intelligence Artificielle pour managers,3.25,4.25,100
+23867,25906,Dali Limam,Intelligence Artificielle pour managers,6,9,300
+23868,25842,Fares Gasmi,Intelligence Artificielle pour managers,3,7,400
+23869,25928,Makram Louati,Intelligence Artificielle pour managers,4.25,7,275
+23870,25436,Test Apprenant,Intelligence Artificielle pour managers,3.75,6.25,250
+23871,25622,Takwa Nabli,Intelligence Artificielle pour managers,3.5,7.75,425
+23872,25862,Nesrine Horchani,Intelligence Artificielle pour managers,5.25,7.25,200
+23873,25709,Imed Omrani,Intelligence Artificielle pour managers,1.75,7.75,600
+23874,25640,Yosra Mabrouk,Intelligence Artificielle pour managers,3.75,7.75,400
+23875,25642,Fatma Mestiri,Intelligence Artificielle pour managers,3,7.25,425
+23876,25893,Hana Essid,Intelligence Artificielle pour managers,5.5,7.5,200
+23877,25610,Emad Sellami,Intelligence Artificielle pour managers,5,9.25,425
+23878,26169,Mariam Ben Youssef,Intelligence Artificielle pour managers,4.25,7.75,350
+23879,25867,Noureddine Karoui,Intelligence Artificielle pour managers,3.75,8,425
+23880,25910,Hiba Benhassan,Intelligence Artificielle pour managers,3,6.75,375
+23881,25926,Maher Ezzine,Intelligence Artificielle pour managers,5,7.5,250
+23882,25611,Lobna Jelassi,Intelligence Artificielle pour managers,4.75,7.75,300
+23883,25906,Dali Limam,Intelligence Artificielle pour managers,2,5,300
+23884,25436,Test Apprenant,Intelligence Artificielle pour managers,3.75,7,325
+23885,25622,Takwa Nabli,Intelligence Artificielle pour managers,2.5,8.5,600
+23886,25862,Nesrine Horchani,Intelligence Artificielle pour managers,4.25,6,175
+23887,25709,Imed Omrani,Intelligence Artificielle pour managers,3.75,8.25,450
+23888,25640,Yosra Mabrouk,Intelligence Artificielle pour managers,4.75,8,325
+23889,25642,Fatma Mestiri,Intelligence Artificielle pour managers,5.25,8.5,325
+23890,25955,Ines Kchir,Intelligence Artificielle pour managers,4,8.5,450
+23891,25924,Nour Ben Salah,Intelligence Artificielle pour managers,3.25,7,375
+23892,25872,Walid Benhassan,Intelligence Artificielle pour managers,3.25,6.5,325
+23893,25893,Hana Essid,Intelligence Artificielle pour managers,5.25,9,375
+23894,25610,Emad Sellami,Intelligence Artificielle pour managers,4.5,9,450
+23895,25950,Cyrine Nasri,Cybersécurité opérationnelle,5,7.75,275
+23896,25736,Jihene Fkih,Cybersécurité opérationnelle,3.75,7,325
+23897,25962,Ahlem Chaieb,Cybersécurité opérationnelle,1.25,8,675
+23898,26470,Maroua Ghorbel,Cybersécurité opérationnelle,5.25,6.75,150
+23899,25977,Omar Ouali,Cybersécurité opérationnelle,4,5.75,175
+23900,25780,Maroua Hamdi,Cybersécurité opérationnelle,3.5,7.75,425
+23901,25777,Zouheir Nasri,Cybersécurité opérationnelle,4.25,7.25,300
+23902,25787,Takwa Layouni,Cybersécurité opérationnelle,2,6.25,425
+23903,25832,Farouk Ferjani,Cybersécurité opérationnelle,2.5,5.75,325
+23904,25671,Zied Hadj,Cybersécurité opérationnelle,4,8.25,425
+23905,25828,Ali Dali,Cybersécurité opérationnelle,4.25,6.75,250
+23906,25700,Najoua Derbali,Cybersécurité opérationnelle,4.5,7.75,325
+23907,25995,Amira Hassen,Cybersécurité opérationnelle,4.25,9,475
+23908,25681,Walid Jouini,Cybersécurité opérationnelle,3.25,6.5,325
+23909,25651,Maroua Bouzid,Cybersécurité opérationnelle,3.75,7.5,375
+23910,25806,Manel Landolsi,Cybersécurité opérationnelle,3,7.25,425
+23911,25821,Najoua Hajji,Cybersécurité opérationnelle,2.75,7,425
+23912,26026,Aymen Dhouib,Cybersécurité opérationnelle,3.75,6,225
+23913,25911,Imed Ghanmi,Cybersécurité opérationnelle,2.25,7.5,525
+23914,25736,Jihene Fkih,Cybersécurité opérationnelle,5.75,7.75,200
+23915,25962,Ahlem Chaieb,Cybersécurité opérationnelle,3.25,6.75,350
+23916,25989,Wael Mansouri,Cybersécurité opérationnelle,4,9.25,525
+23917,25780,Maroua Hamdi,Cybersécurité opérationnelle,2.75,4.75,200
+23918,25787,Takwa Layouni,Cybersécurité opérationnelle,5.25,9,375
+23919,25832,Farouk Ferjani,Cybersécurité opérationnelle,5.5,7.75,225
+23920,25671,Zied Hadj,Cybersécurité opérationnelle,3,5.75,275
+23921,25990,Hana Hleli,Cybersécurité opérationnelle,4.75,8.25,350
+23922,25651,Maroua Bouzid,Cybersécurité opérationnelle,3.25,6,275
+23923,25806,Manel Landolsi,Cybersécurité opérationnelle,4,8.5,450
+23924,25821,Najoua Hajji,Cybersécurité opérationnelle,5.5,8.25,275
+23925,25734,Mohamed Omrani,Cybersécurité opérationnelle,4,7.5,350
+23926,25911,Imed Ghanmi,Cybersécurité opérationnelle,5.5,8.75,325
+23927,25962,Ahlem Chaieb,Cybersécurité opérationnelle,4.75,7,225
+23928,26470,Maroua Ghorbel,Cybersécurité opérationnelle,3.25,8.5,525
+23929,26010,Latifa Dridi,Cybersécurité opérationnelle,5.5,8.25,275
+23930,25780,Maroua Hamdi,Cybersécurité opérationnelle,3.25,7.5,425
+23931,25787,Takwa Layouni,Cybersécurité opérationnelle,2.75,7,425
+23932,25832,Farouk Ferjani,Cybersécurité opérationnelle,4.5,9.5,500
+23933,25671,Zied Hadj,Cybersécurité opérationnelle,2.75,6,325
+23934,25990,Hana Hleli,Cybersécurité opérationnelle,4.75,9,425
+23935,25828,Ali Dali,Cybersécurité opérationnelle,3.5,6.75,325
+23936,25700,Najoua Derbali,Cybersécurité opérationnelle,3.75,8,425
+23937,25995,Amira Hassen,Cybersécurité opérationnelle,3.5,7.25,375
+23938,25681,Walid Jouini,Cybersécurité opérationnelle,4,6.25,225
+23939,25806,Manel Landolsi,Cybersécurité opérationnelle,3.25,8.5,525
+23940,25821,Najoua Hajji,Cybersécurité opérationnelle,2,8.25,625
+23941,25734,Mohamed Omrani,Cybersécurité opérationnelle,3,6,300
+23942,25950,Cyrine Nasri,Cybersécurité opérationnelle,3.75,5.5,175
+23943,25736,Jihene Fkih,Cybersécurité opérationnelle,4.5,7.75,325
+23944,25962,Ahlem Chaieb,Cybersécurité opérationnelle,3,7.5,450
+23945,26470,Maroua Ghorbel,Cybersécurité opérationnelle,4.25,8.5,425
+23946,25977,Omar Ouali,Cybersécurité opérationnelle,4.5,7.5,300
+23947,26010,Latifa Dridi,Cybersécurité opérationnelle,2.75,6.5,375
+23948,25780,Maroua Hamdi,Cybersécurité opérationnelle,5,7.25,225
+23949,25787,Takwa Layouni,Cybersécurité opérationnelle,3.25,7.5,425
+23950,25832,Farouk Ferjani,Cybersécurité opérationnelle,3.25,7,375
+23951,25671,Zied Hadj,Cybersécurité opérationnelle,4.25,9,475
+23952,25828,Ali Dali,Cybersécurité opérationnelle,3.5,7,350
+23953,25700,Najoua Derbali,Cybersécurité opérationnelle,3.75,7.25,350
+23954,25995,Amira Hassen,Cybersécurité opérationnelle,2,7,500
+23955,25681,Walid Jouini,Cybersécurité opérationnelle,4,6,200
+23956,25651,Maroua Bouzid,Cybersécurité opérationnelle,4.75,7,225
+23957,25734,Mohamed Omrani,Cybersécurité opérationnelle,2.5,7,450
+23958,25950,Cyrine Nasri,Cybersécurité opérationnelle,2.75,8,525
+23959,25911,Imed Ghanmi,Cybersécurité opérationnelle,2.25,7.25,500
+23960,25962,Ahlem Chaieb,Cybersécurité opérationnelle,2.5,6.75,425
+23961,26010,Latifa Dridi,Cybersécurité opérationnelle,3.25,7.5,425
+23962,25989,Wael Mansouri,Cybersécurité opérationnelle,6.25,8.25,200
+23963,25780,Maroua Hamdi,Cybersécurité opérationnelle,4.5,7.75,325
+23964,25777,Zouheir Nasri,Cybersécurité opérationnelle,3.75,6.75,300
+23965,25787,Takwa Layouni,Cybersécurité opérationnelle,3.25,5.5,225
+23966,25671,Zied Hadj,Cybersécurité opérationnelle,2.5,8.75,625
+23967,25990,Hana Hleli,Cybersécurité opérationnelle,3.25,7.75,450
+23968,25828,Ali Dali,Cybersécurité opérationnelle,3,6.5,350
+23969,25700,Najoua Derbali,Cybersécurité opérationnelle,3.75,7,325
+23970,25995,Amira Hassen,Cybersécurité opérationnelle,5,7.25,225
+23971,25651,Maroua Bouzid,Cybersécurité opérationnelle,4.75,8.75,400
+23972,25806,Manel Landolsi,Cybersécurité opérationnelle,5.25,7.25,200
+23973,25821,Najoua Hajji,Cybersécurité opérationnelle,4.5,7.5,300
+23974,25734,Mohamed Omrani,Cybersécurité opérationnelle,4.25,7.75,350

@@ -107,9 +107,8 @@ router.put('/update', upload.single('profileImage'), handleMulterError, (req, re
       return res.status(500).json({ message: 'Erreur lors de l\'upload du fichier.' });
     }
     
-    // Modifier le chemin du fichier pour qu'il soit relatif à la racine du projet
-    req.file.filename = req.file.filename;
-    req.file.path = `Uploads/${req.file.filename}`;
+    // Ne pas modifier le chemin du fichier ici, laissez le contrôleur s'en occuper
+    console.log('Chemin du fichier uploadé:', filePath);
   }
   
   next();
@@ -168,6 +167,8 @@ const prisma = new PrismaClient();
 router.get('/verify-admin-role', authController.verifyAdminRole);
 
 module.exports = router;
+
+
 
 
 
